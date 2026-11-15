@@ -13,7 +13,7 @@ en omgeving de infomomenten en opendeurdagen, die je als kalender kunt downloade
 | Bestand | Wat |
 |---|---|
 | `make.py` | Bevat alle events en adressen en schrijft het .ics-bestand |
-| `infomomenten-2027-2028-met-adressen.ics` | De kalender (132 events), te importeren in Google Calendar e.d. |
+| `infomomenten-2027-2028-met-adressen.ics` | De kalender (134 events), te importeren in Google Calendar e.d. |
 | `export.py` | Leest `make.py` en schrijft `schools.json` (scholen met hun events, voor de kaart) |
 | `fetch_aanbod.py` | Haalt alle secundaire scholen van Oost-Vlaanderen met onderwijsnet en studieaanbod op bij data-onderwijs.vlaanderen.be en schrijft `aanbod.json` |
 | `fetch_kaart.py` | Haalt de kaartachtergronden op (GRB-basiskaart grijs, Digitaal Vlaanderen) en schrijft `kaart-*.jpg` en `kaart.json` |

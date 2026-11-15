@@ -22,6 +22,31 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:56737354-ea13-55db-a41a-c25c0df9aede@infomomenten
+DTSTAMP:20261115T110000Z
+DTSTART;TZID=Europe/Brussels:20261119T193000
+DTEND;TZID=Europe/Brussels:20261119T210000
+LOCATION:Sint-Lievenscollege Business\, Steendam 27\, 9000 Gent\, België
+GEO:51.057227;3.729590
+SUMMARY:Sint-Lievenscollege Business – Infoavond
+DESCRIPTION:Einduur niet vermeld in folder (1\,5 uur aangenomen). Niet in
+  de folder\; van de website van de school (15 november 2026). Inschrijve
+ n via www.slcb.be
+END:VEVENT
+BEGIN:VEVENT
+UID:a9064109-e7a2-5115-9726-be0f4f16bc6e@infomomenten
+DTSTAMP:20261115T110000Z
+DTSTART;TZID=Europe/Brussels:20261119T193000
+DTEND;TZID=Europe/Brussels:20261119T210000
+LOCATION:Sint-Lievenscollege Humaniora\, Zilverenberg 1\, 9000 Gent\, Bel
+ gië
+GEO:51.055406;3.731601
+SUMMARY:Sint-Lievenscollege Humaniora – Infoavond
+DESCRIPTION:Einduur niet vermeld in folder (1\,5 uur aangenomen). Niet in
+  de folder\; van de website van de school (15 november 2026). Inschrijve
+ n via www.sintlievenscollege.be
+END:VEVENT
+BEGIN:VEVENT
 UID:05145571-0bf4-5ed0-8523-1d7080b2e60f@infomomenten
 DTSTAMP:20261115T110000Z
 DTSTART;TZID=Europe/Brussels:20261120T193000

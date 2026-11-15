@@ -18,6 +18,8 @@ t("2027-01-18","19:00",None,"IVIO Binnenhof (1B OV4)","Infomoment","Campus Peper
 t("2027-01-19","18:30","20:00","VISO campus Mariakerke","Infoavond eerste jaar","www.viso.be")
 t("2027-01-21","12:30","15:40","Sint-Paulus campus Patijntjestraat","Individuele snuffeldag (openklasdag)","www.sintpaulusgent.be")
 t("2027-01-21","17:00","19:00","Visitatie","Infobeurs eerste jaar","www.visitatie.be")
+t("2026-11-19","19:30",None,"Sint-Lievenscollege Business","Infoavond","Niet in de folder; van de website van de school (15 november 2026). Inschrijven via www.slcb.be")
+t("2026-11-19","19:30",None,"Sint-Lievenscollege Humaniora","Infoavond","Niet in de folder; van de website van de school (15 november 2026). Inschrijven via www.sintlievenscollege.be")
 t("2027-01-21","19:30","21:30","Sint-Lievenscollege Business","Infoavond","Inschrijven via www.slcb.be")
 t("2027-01-21","19:30","21:30","Sint-Lievenscollege Humaniora","Infoavond","Inschrijven via www.sintlievenscollege.be")
 t("2027-01-23","10:00","16:00","Nieuwen Bosch Humaniora","Infomoment","www.nieuwenboschhumaniora.be")
