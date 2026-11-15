@@ -72,6 +72,7 @@ button,select,input{font:inherit;color:var(--ink)}
 #kal{background:var(--accent);color:var(--accent-ink);border:1px solid var(--accent);border-radius:6px;padding:5px 12px;font-weight:600;cursor:pointer}
 #kal:disabled{background:var(--bg);color:var(--muted);border-color:var(--line);font-weight:400;cursor:default}
 .kies{flex:none;margin:0;align-self:center;width:15px;height:15px;accent-color:var(--accent);cursor:pointer}
+.kev{margin:3px 0 0;width:13px;height:13px;accent-color:var(--accent);cursor:pointer}
 
 /* kaart + lijst */
 .grid{display:grid;grid-template-columns:minmax(0,5fr) minmax(0,8fr);gap:18px;align-items:start}
@@ -141,7 +142,7 @@ dd{margin:0;overflow-wrap:anywhere}
 .bron{color:var(--muted);font-size:.9em;margin:4px 0 0}
 .site{margin:4px 0 0;overflow-wrap:anywhere}
 ul{list-style:none;margin:0;padding:0;font-size:.92em}
-li{display:grid;grid-template-columns:5.3em 8.3em minmax(0,1fr);gap:0 .6em;border-top:1px dotted var(--line);padding:1.5px 0}
+li{display:grid;grid-template-columns:auto 5.3em 8.3em minmax(0,1fr);gap:0 .6em;align-items:start;border-top:1px dotted var(--line);padding:1.5px 0}
 .dt{font-weight:500;font-variant-numeric:tabular-nums;white-space:nowrap}
 .tm{color:var(--muted);font-variant-numeric:tabular-nums;white-space:nowrap}
 .wt{overflow-wrap:anywhere}
@@ -163,7 +164,7 @@ li{display:grid;grid-template-columns:5.3em 8.3em minmax(0,1fr);gap:0 .6em;borde
     --go:#1d5fa8; --stad:#7a3d9c; --prov:#2f7a3b; --vrij:#8a5a12; --net-ink:#fff; color-scheme:light}
   body{font-size:6.6pt;line-height:1.17;-webkit-print-color-adjust:exact;print-color-adjust:exact}
   .wrap{max-width:none;padding:0;gap:3pt}
-  .filters,.mapcard,details,.leeg,.kies,.keuze{display:none!important}
+  .filters,.mapcard,details,.leeg,.kies,.kev,.keuze{display:none!important}
   .grid{display:block}
   .lijst{gap:3pt}
   header{display:flex;gap:10pt;align-items:baseline}
@@ -191,7 +192,7 @@ li{display:grid;grid-template-columns:5.3em 8.3em minmax(0,1fr);gap:0 .6em;borde
 <div class="wrap">
   <header>
     <h1>Scholenoverzicht regio Gent</h1>
-    <p class="sub">__N_SCHOLEN__ secundaire scholen met hun onderwijsnet en studieaanbod, voor wie in september 2027 naar het eerste jaar gaat. Een eenvoudige manier om de opendeurdagen en infomomenten aan je kalender toe te voegen: vink scholen aan en download ze. Infomomenten zijn opgezocht voor Gent en omgeving.</p>
+    <p class="sub">__N_SCHOLEN__ secundaire scholen met hun onderwijsnet en studieaanbod, voor wie in september 2027 naar het eerste jaar gaat. Een eenvoudige manier om de opendeurdagen en infomomenten aan je kalender toe te voegen: vink infomomenten of hele scholen aan en download ze. Infomomenten zijn opgezocht voor Gent en omgeving.</p>
   </header>
   <div class="enrol"><b>Aanmelden regio Gent:</b><span>dinsdag 23 maart 2027, 9 u. tot vrijdag 16 april 2027, 16 u.</span><a href="https://www.kieseenschoolregiogent.be">www.kieseenschoolregiogent.be</a></div>
 
@@ -205,7 +206,7 @@ li{display:grid;grid-template-columns:5.3em 8.3em minmax(0,1fr);gap:0 .6em;borde
     <div class="f"><label for="richting">Studierichting</label><input type="search" id="richting" list="richtingen" placeholder="bv. Latijn, Sport, Hout" autocomplete="off"><datalist id="richtingen">__RICHTINGEN__</datalist></div>
     <div class="f end"><span id="teller" role="status"></span><button type="button" id="wis" hidden>Wis filters</button></div>
   </form>
-  <div class="keuze"><span id="keuzetekst">Vink scholen aan om hun infomomenten als kalender te downloaden.</span><button type="button" id="kal" disabled>Infodag kalender downloaden</button><button type="button" id="wissel" hidden>Wis selectie</button></div>
+  <div class="keuze"><span id="keuzetekst">Vink infomomenten aan, of een school voor al haar infomomenten, en download ze als kalender.</span><button type="button" id="kal" disabled>Infodag kalender downloaden</button><button type="button" id="wissel" hidden>Wis selectie</button></div>
   <p class="leeg" id="kalnote" hidden>Een kalender downloaden kan niet in deze weergave op claude.ai. Open de pagina op <a href="https://fbl.github.io/scholenkaart/">fbl.github.io/scholenkaart</a> en vink daar de scholen aan.</p>
 
   <div class="grid">
@@ -408,29 +409,41 @@ __SECTIES__
   adresinfo.textContent='Gevonden: Heusdendorp, Destelbergen';
   filter();
 
-  // Kalender: de infomomenten van de aangevinkte scholen als .ics-bestand
-  var kal=document.getElementById('kal'), wissel=document.getElementById('wissel'), vinkjes=$('.kies');
-  function gekozen(){return vinkjes.filter(function(c){return c.checked})}
+  // Kalender: de aangevinkte infomomenten als .ics-bestand. Het vinkje bij een school kiest al haar infomomenten.
+  var kal=document.getElementById('kal'), wissel=document.getElementById('wissel'), keuzetekst=document.getElementById('keuzetekst'),
+      momenten=$('.kev');
+  function gekozen(){return momenten.filter(function(c){return c.checked})}
   function telKal(){
-    var n=gekozen().length;
-    kal.disabled=!n;
-    kal.textContent=n?'Infodag kalender downloaden ('+n+(n===1?' school)':' scholen)'):'Infodag kalender downloaden';
-    document.getElementById('keuzetekst').textContent=n?(n===1?'1 school geselecteerd.':n+' scholen geselecteerd.'):'Vink scholen aan om hun infomomenten als kalender te downloaden.';
-    wissel.hidden=!n;
+    var g=gekozen(), n=g.length, perSchool={};
+    g.forEach(function(c){perSchool[c.value.split('-')[0]]=1});
+    scholen.forEach(function(el){
+      var k=el.querySelector('.kies'); if(!k)return;
+      var alle=$('.kev',el), aan=alle.filter(function(c){return c.checked}).length;
+      k.checked=aan===alle.length; k.indeterminate=aan>0&&aan<alle.length;
+    });
+    var s=Object.keys(perSchool).length;
+    kal.disabled=!n; wissel.hidden=!n;
+    kal.textContent=n?'Infodag kalender downloaden ('+n+(n===1?' moment)':' momenten)'):'Infodag kalender downloaden';
+    keuzetekst.textContent=n?(n===1?'1 infomoment':n+' infomomenten')+' geselecteerd, van '+(s===1?'1 school.':s+' scholen.')
+      :'Vink infomomenten aan, of een school voor al haar infomomenten, en download ze als kalender.';
   }
-  document.getElementById('lijst').addEventListener('change',function(e){if(e.target.classList.contains('kies'))telKal()});
+  document.getElementById('lijst').addEventListener('change',function(e){
+    var c=e.target;
+    if(c.classList.contains('kies'))$('.kev',c.closest('.school')).forEach(function(x){x.checked=c.checked});
+    if(c.classList.contains('kies')||c.classList.contains('kev'))telKal();
+  });
   kal.addEventListener('click',function(){
     if(window.claude){ // in een artifact op claude.ai kan een pagina geen .ics-bestand bewaren
       document.getElementById('kalnote').hidden=false; return;
     }
-    var tekst=KAL.kop+gekozen().map(function(c){return KAL.scholen[c.value]||''}).join('')+KAL.voet;
+    var tekst=KAL.kop+gekozen().map(function(c){var p=c.value.split('-');return (KAL.scholen[p[0]]||[])[p[1]]||''}).join('')+KAL.voet;
     var a=document.createElement('a');
     a.href=URL.createObjectURL(new Blob([tekst],{type:'text/calendar;charset=utf-8'}));
     a.download='infomomenten-scholen.ics';
     document.body.appendChild(a); a.click(); a.remove();
     setTimeout(function(){URL.revokeObjectURL(a.href)},1000);
   });
-  wissel.addEventListener('click',function(){vinkjes.forEach(function(c){c.checked=false});telKal()});
+  wissel.addEventListener('click',function(){momenten.forEach(function(c){c.checked=false});telKal()});
   telKal();
 
   // Interactieve OpenStreetMap-kaart als de kaarttegels geladen kunnen worden (lokaal bestand of eigen website);

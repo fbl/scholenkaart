@@ -338,8 +338,10 @@ def ics_info(s, p):
 
 
 def ics_school(s, p):
-    L, info = [], ics_info(s, p)
+    """Eén kalenderblok per infomoment, in de volgorde van s["events"]."""
+    blokken, info = [], ics_info(s, p)
     for ev in s["events"]:
+        L = []
         d0 = datetime.date.fromisoformat(ev["d"])
         L += ["BEGIN:VEVENT", f"UID:{uuid.uuid5(uuid.NAMESPACE_URL, ev['d'] + str(ev['s']) + s['name'] + ev['what'] + ev['who'])}@infomomenten",
               "DTSTAMP:20261115T110000Z"]
@@ -358,7 +360,8 @@ def ics_school(s, p):
         L += [f"LOCATION:{ics_esc(s['name'] + ', ' + s['address'] + ', België')}", f"GEO:{s['lat']:.6f};{s['lon']:.6f}",
               f"SUMMARY:{ics_esc(s['name'] + ' – ' + ev['what'])}", "DESCRIPTION:" + "\\n".join(ics_esc(x) for x in [ev["what"] + (" (" + ev["who"] + ")" if ev["who"] else "")] + nota[bool(ev["who"]):] + [""] + info),
               "END:VEVENT"]
-    return "".join(ics_fold(x) + "\r\n" for x in L)
+        blokken.append("".join(ics_fold(x) + "\r\n" for x in L))
+    return blokken
 
 
 # ---------- pagina ----------
@@ -367,14 +370,15 @@ def school(i, s, p):
     rows = []
     whos = {ev["who"] for ev in s["events"] if ev["who"]}
     gemeen = set.intersection(*(set(w.split()) for w in whos)) if len(whos) > 1 else set()
-    for ev in s["events"]:
+    for j, ev in enumerate(s["events"]):
         extra = "".join(
             f' <span class="{c}">{esc(x)}</span>'
             for c, x in (("who", wie(ev, s["name"], gemeen)), ("warn", let_op(ev)))
             if x
         )
         rows.append(
-            f'<li><span class="dt">{dag(ev)}</span><span class="tm">{tijd(ev)}</span>'
+            f'<li><input type="checkbox" class="kev" value="{i}-{j}" aria-label="Selecteer dit infomoment voor de kalender">'
+            f'<span class="dt">{dag(ev)}</span><span class="tm">{tijd(ev)}</span>'
             f'<span class="wt">{esc(ev["what"])}{extra}</span></li>'
         )
     netlabels = "".join(f'<span class="net net-{n}" tabindex="0" data-tip="{esc(vol)}">{esc(lab)}</span>'
@@ -385,7 +389,7 @@ def school(i, s, p):
             f'data-dom="{esc("|".join(p["dom"]))}" data-r="{esc("|".join(x.lower() for x in p["richtingen"]))}"')
     return (
         f'<article class="school" id="s{i}" {data}><h3>'
-        + (f'<input type="checkbox" class="kies" id="k{i}" value="{i}" aria-label="Selecteer {esc(s["name"])} voor de kalender">' if rows else "")
+        + (f'<input type="checkbox" class="kies" id="k{i}" value="{i}" aria-label="Selecteer alle infomomenten van {esc(s["name"])}">' if rows else "")
         + f'<button type="button" class="num {netklasse(p)}" data-i="{i}" '
         f'aria-label="Toon op de kaart">{i + 1}</button>{esc(s["name"])}</h3>'
         f'<p class="ad">{esc(s["address"])} {netlabels}</p>{regel}{detail}'

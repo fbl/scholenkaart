@@ -71,8 +71,9 @@ Alles staat in `make.py`:
   in een artifact op claude.ai, dan blijven de vaste kaartbeelden staan die in het bestand zelf zitten.
 - STEAM is geen officiële studierichting. `steam.json` (met de hand bijgehouden) lijst de scholen op die het zelf zo noemen,
   met de bronpagina; `build_page.py` zet ze onder het domein STEAM.
-- Kalender downloaden in `index.html`: `build_page.py` zet per school de events als .ics-blok in de pagina; de knop plakt de
-  aangevinkte scholen samen tot één bestand. Dat gebeurt in de browser, zonder server.
+- Kalender downloaden in `index.html`: `build_page.py` zet per infomoment een .ics-blok in de pagina; de knop plakt de
+  aangevinkte infomomenten samen tot één bestand. Het vinkje bij een school kiest al haar infomomenten. Dat gebeurt in de
+  browser, zonder server.
 - Scholen buiten de folder: `fetch_aanbod.py` neemt elk adres in Oost-Vlaanderen met studieaanbod (hoofdstructuren 311, 312 en 321)
   dat niet bij een school uit `make.py` hoort op als nieuwe school, zonder infomomenten. Twee vestigingen zonder coördinaten
   (VLOT! Lokeren, Óscar Romerocollege 2 Dendermonde) zijn overgeslagen.
