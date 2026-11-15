@@ -360,7 +360,6 @@ def ics_school(s, p):
                 en = st + datetime.timedelta(minutes=90)
                 nota.append("Einduur niet bekend (1,5 uur aangenomen).")
             L += [f"DTSTART;TZID=Europe/Brussels:{st:%Y%m%dT%H%M%S}", f"DTEND;TZID=Europe/Brussels:{en:%Y%m%dT%H%M%S}"]
-        nota.append("Controleer datum en uur op de website van de school.")
         L += [f"LOCATION:{ics_esc(s['name'] + ', ' + s['address'] + ', België')}", f"GEO:{s['lat']:.6f};{s['lon']:.6f}",
               f"SUMMARY:{ics_esc(s['name'] + ' – ' + ev['what'])}", "DESCRIPTION:" + "\\n".join(ics_esc(x) for x in [ev["what"] + (" (" + ev["who"] + ")" if ev["who"] else "")] + nota[bool(ev["who"]):] + [""] + info),
               "END:VEVENT"]
