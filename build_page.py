@@ -360,6 +360,9 @@ def ics_school(s, p):
         L += [f"LOCATION:{ics_esc(s['name'] + ', ' + s['address'] + ', België')}", f"GEO:{s['lat']:.6f};{s['lon']:.6f}",
               f"SUMMARY:{ics_esc(s['name'] + ' – ' + ev['what'])}", "DESCRIPTION:" + "\\n".join(ics_esc(x) for x in [ev["what"] + (" (" + ev["who"] + ")" if ev["who"] else "")] + nota[bool(ev["who"]):] + [""] + info),
               "END:VEVENT"]
+        if p["sites"]:  # website van de school als link van de afspraak
+            u = p["sites"][0]
+            L.insert(-1, "URL:" + (u if u.startswith("http") else "https://" + u))
         blokken.append("".join(ics_fold(x) + "\r\n" for x in L))
     return blokken
 
