@@ -89,7 +89,8 @@ def fiche(sn):
                 items.append({"groep": groep, "domein": domein, "naam": eerste, "jaren": [c for _, c in cellen[1:]]})
         vest.append({"adres": tekst(adres), "aanbod": items})
     return {"sn": sn, "naam": veld.get("naam", ""), "net": veld.get("onderwijsnet", ""), "bestuur": veld.get("bestuur", ""),
-            "website": veld.get("website", ""), "vestigingen": vest}
+            "website": veld.get("website", ""), "telefoon": veld.get("telefoon", ""), "email": veld.get("e-mail", ""),
+            "vestigingen": vest}
 
 
 def adres_van(p):
@@ -106,7 +107,7 @@ def instellingen_op(hits):
         f = fiche(p["instellingsnummer"])
         aanbod = [x for v in f["vestigingen"] if norm(v["adres"]) == norm(adres_van(p)) for x in v["aanbod"]]
         uit.append({"sn": f["sn"], "naam": f["naam"], "net": f["net"], "bestuur": f["bestuur"], "website": f["website"],
-                    "adres": adres_van(p), "aanbod": aanbod})
+                    "telefoon": f["telefoon"], "email": f["email"], "adres": adres_van(p), "aanbod": aanbod})
     # een instelling zonder aanbod op dit adres telt alleen mee als er geen andere is (dan kennen we toch net en website)
     return [x for x in uit if x["aanbod"]] or uit
 

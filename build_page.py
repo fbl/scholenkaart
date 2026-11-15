@@ -127,7 +127,9 @@ def profiel(naam):
     a = AANBOD.get(naam, {"instellingen": []})
     p = {"netten": [], "tags": [], "basis": [], "fin": {k: {"2": [], "3": []} for k in FIN}, "zeven": [], "anders": [],
          "ov": {}, "dom": [], "officieel": uniek(i["naam"] for i in a["instellingen"]),
-         "sites": uniek(i["website"].strip().rstrip("/") for i in a["instellingen"] if i["website"].strip()), "bekend": bool(a["instellingen"])}
+         "sites": uniek(i["website"].strip().rstrip("/") for i in a["instellingen"] if i["website"].strip()),
+         "tel": uniek(i["telefoon"].strip() for i in a["instellingen"] if i.get("telefoon", "").strip()),
+         "mail": uniek(i["email"].strip() for i in a["instellingen"] if i.get("email", "").strip()), "bekend": bool(a["instellingen"])}
     for inst in a["instellingen"]:
         n = net_van(inst)
         if n and n not in p["netten"]:
@@ -332,9 +334,11 @@ def ics_info(s, p):
         r.append("Aanbod: " + ", ".join(soort))
     if p["dom"]:
         r.append("Studiedomeinen: " + ", ".join(DOMEINEN[d][0] for d in p["dom"]))
-    if p["sites"]:
-        r.append("Website: " + ", ".join(u if u.startswith("http") else "https://" + u for u in p["sites"]))
-    return r
+    if p["tel"]:
+        r.append("Telefoon: " + p["tel"][0])
+    if p["mail"]:
+        r.append("E-mail: " + p["mail"][0])
+    return r  # de website staat in het URL-veld van de afspraak
 
 
 def ics_school(s, p):

@@ -9,6 +9,8 @@
     "net": "Gemeenschapsonderwijs",
     "bestuur": "GO! scholengroep Gent",
     "website": "www.atheneumgentbrugge.be",
+    "telefoon": "09 394 30 30",
+    "email": "info@atheneumgentbrugge.be",
     "adres": "Ooievaarsnest 3, 9050 Gent",
     "aanbod": [
      {
@@ -154,6 +156,8 @@
     "net": "Gemeenschapsonderwijs",
     "bestuur": "GO! scholengroep Gent",
     "website": "groenkouter.tectura.be",
+    "telefoon": "09 228 42 22",
+    "email": "inlichtingen@groenkouter.tectura.be",
     "adres": "Ooievaarsnest 3, 9050 Gent",
     "aanbod": [
      {
@@ -197,6 +201,8 @@
     "net": "Gemeenschapsonderwijs",
     "bestuur": "GO! scholengroep Gent",
     "website": "www.atheneummariakerke.be/",
+    "telefoon": "09 216 84 44",
+    "email": "info@athmariakerke.be",
     "adres": "Amand Casier de ter Bekenlaan 26, 9030 Gent",
     "aanbod": [
      {
@@ -360,6 +366,8 @@
     "net": "Gemeenschapsonderwijs",
     "bestuur": "GO! scholengroep Gent",
     "website": "groenkouter.tectura.be",
+    "telefoon": "09 228 42 22",
+    "email": "inlichtingen@groenkouter.tectura.be",
     "adres": "Amand Casier de ter Bekenlaan 26, 9030 Gent",
     "aanbod": [
      {
@@ -403,6 +411,8 @@
     "net": "Gemeenschapsonderwijs",
     "bestuur": "GO! scholengroep Gent",
     "website": "www.atheneummerelbeke.be",
+    "telefoon": "09 230 76 96",
+    "email": "info@atheneummerelbeke.be",
     "adres": "Gaversesteenweg 195, 9820 Merelbeke-Melle",
     "aanbod": [
      {
@@ -572,6 +582,8 @@
     "net": "Gemeenschapsonderwijs",
     "bestuur": "GO! scholengroep Gent",
     "website": "www.atheneummerelbeke.be",
+    "telefoon": "09 230 76 96",
+    "email": "info@atheneummerelbeke.be",
     "adres": "Potaardeberg 59, 9820 Merelbeke-Melle",
     "aanbod": [
      {
@@ -777,6 +789,8 @@
     "net": "Officieel gesubsidieerd onderwijs",
     "bestuur": "Stad Gent",
     "website": "https://scholen.stad.gent/atheneumwispelberg",
+    "telefoon": "09 323 63 10",
+    "email": "wispelberg.dir@onderwijs.gent.be",
     "adres": "Wispelbergstraat 2, 9000 Gent",
     "aanbod": [
      {
@@ -943,6 +957,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "VZW Evara",
     "website": "www.benedictuspoort.be",
+    "telefoon": "09 231 23 48",
+    "email": "campus.dedeyne@benedictuspoort.be",
     "adres": "Ebergiste De Deynestraat 2 bus A, 9000 Gent",
     "aanbod": [
      {
@@ -1001,6 +1017,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "VZW Evara",
     "website": "www.benedictuspoort.be",
+    "telefoon": "09 231 23 48",
+    "email": "campus.dedeyne@benedictuspoort.be",
     "adres": "Hundelgemsesteenweg 93, 9050 Gent",
     "aanbod": [
      {
@@ -1101,6 +1119,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "VZW Evara",
     "website": "www.benedictuspoort.be",
+    "telefoon": "09 231 23 48",
+    "email": "campus.ledeberg@benedictuspoort.be",
     "adres": "Hundelgemsesteenweg 93, 9050 Gent",
     "aanbod": [
      {
@@ -1216,6 +1236,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "VZW Evara",
     "website": "https://sintgregorius.be/buso",
+    "telefoon": "09 210 01 50, 0478 84 20 66",
+    "email": "info@sintgregorius.be",
     "adres": "Jules Destréelaan 67, 9050 Gent",
     "aanbod": [
      {
@@ -1568,6 +1590,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "VZW Sint-Lodewijk",
     "website": "www.sintlodewijk.be",
+    "telefoon": "09 272 53 00",
+    "email": "buso@sintlodewijk.be",
     "adres": "Kwatrechtsteenweg 168, 9230 Wetteren",
     "aanbod": [
      {
@@ -1790,6 +1814,8 @@
     "net": "Gemeenschapsonderwijs",
     "bestuur": "GO! scholengroep Het leercollectief",
     "website": "www.campuskompas.be",
+    "telefoon": "09 365 60 69, 09 365 60 60",
+    "email": "atheneum@campuskompas.be",
     "adres": "Noordlaan 10, 9230 Wetteren",
     "aanbod": [
      {
@@ -2007,6 +2033,8 @@
     "net": "Gemeenschapsonderwijs",
     "bestuur": "GO! scholengroep Het leercollectief",
     "website": "https://www.campuskompas.be",
+    "telefoon": "09 365 60 25",
+    "email": "middenschool@campuskompas.be",
     "adres": "Noordlaan 10, 9230 Wetteren",
     "aanbod": [
      {
@@ -2083,6 +2111,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "VZW College van de Paters Jozefieten",
     "website": "www.collegemelle.be",
+    "telefoon": "09 252 11 09",
+    "email": "dir.SO@collegemelle.be",
     "adres": "Brusselsesteenweg 459, 9090 Merelbeke-Melle",
     "aanbod": [
      {
@@ -2228,6 +2258,8 @@
     "net": "Gemeenschapsonderwijs",
     "bestuur": "GO! scholengroep Gent",
     "website": "www.dalton.gent",
+    "telefoon": "09 220 10 70",
+    "email": "info@dalton.gent",
     "adres": "Zwijnaardsesteenweg 6, 9820 Merelbeke-Melle",
     "aanbod": []
    }
@@ -2243,6 +2275,8 @@
     "net": "Gemeenschapsonderwijs",
     "bestuur": "GO! scholengroep Gent",
     "website": "www.dalton.gent",
+    "telefoon": "09 222 16 02",
+    "email": "info@dalton.gent",
     "adres": "Barrestraat 6, 9000 Gent",
     "aanbod": [
      {
@@ -2307,6 +2341,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "VZW Don Bosco Onderwijscentrum",
     "website": "www.donboscosdw.be",
+    "telefoon": "09 221 31 11",
+    "email": "desseinhannelore@donboscosdw.be",
     "adres": "Kortrijksesteenweg 1025, 9051 Gent",
     "aanbod": [
      {
@@ -2716,6 +2752,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "VZW Don Bosco Onderwijscentrum",
     "website": "www.donboscosdw.be",
+    "telefoon": "09 221 31 11",
+    "email": "bauwenswim@donboscosdw.be",
     "adres": "Kortrijksesteenweg 1025, 9051 Gent",
     "aanbod": [
      {
@@ -2762,6 +2800,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "VZW Don Bosco Onderwijscentrum",
     "website": "www.dbsp.gent",
+    "telefoon": "09 222 14 52",
+    "email": "directie@dbsp.gent",
     "adres": "Koning Albertlaan 70, 9000 Gent",
     "aanbod": [
      {
@@ -2898,6 +2938,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "VZW Don Bosco Onderwijscentrum",
     "website": "www.dbsp.gent",
+    "telefoon": "09 222 14 52",
+    "email": "directie@dbsp.gent",
     "adres": "Koning Albertlaan 70, 9000 Gent",
     "aanbod": [
      {
@@ -2944,6 +2986,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "VZW Don Bosco Onderwijscentrum",
     "website": "www.dbz.be",
+    "telefoon": "09 221 46 48",
+    "email": "info@dbz.be",
     "adres": "Grotesteenweg-Noord 113, 9052 Gent",
     "aanbod": [
      {
@@ -3089,6 +3133,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "VZW Don Bosco Onderwijscentrum",
     "website": "www.dbz.be",
+    "telefoon": "09 221 46 48",
+    "email": "info@dbz.be",
     "adres": "Grotesteenweg-Noord 113, 9052 Gent",
     "aanbod": [
      {
@@ -3141,6 +3187,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "vzw EDUGO Scholengroep",
     "website": "www.edugo.be",
+    "telefoon": "09 255 91 13",
+    "email": "info.brug@edugo.be",
     "adres": "Simone Duboisstraat 15, 9041 Gent",
     "aanbod": [
      {
@@ -3199,6 +3247,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "vzw EDUGO Scholengroep",
     "website": "www.edugo.be",
+    "telefoon": "09 255 91 13",
+    "email": "info.brug@edugo.be",
     "adres": "Simone Duboisstraat 15, 9041 Gent",
     "aanbod": [
      {
@@ -3263,6 +3313,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "vzw EDUGO Scholengroep",
     "website": "www.edugo.be",
+    "telefoon": "09 255 91 14",
+    "email": "info@toren.edugo.be",
     "adres": "Sint-Jozefstraat 10, 9041 Gent",
     "aanbod": [
      {
@@ -3396,6 +3448,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "vzw EDUGO Scholengroep",
     "website": "www.edugo.be",
+    "telefoon": "09 255 91 15",
+    "email": "info.glorieux@edugo.be",
     "adres": "Sint-Jozefstraat 7, 9041 Gent",
     "aanbod": [
      {
@@ -4033,6 +4087,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "vzw EDUGO Scholengroep",
     "website": "www.edugo.be",
+    "telefoon": "09 255 91 14",
+    "email": "info@toren.edugo.be",
     "adres": "Dorp-Oost 32, 9080 Lochristi",
     "aanbod": [
      {
@@ -4256,6 +4312,8 @@
     "net": "Gemeenschapsonderwijs",
     "bestuur": "GO! scholengroep Gent",
     "website": "www.einsteinatheneum.be",
+    "telefoon": "09 394 30 70",
+    "email": "onthaal@einsteinatheneum.be",
     "adres": "Wolfputstraat 38, 9041 Gent",
     "aanbod": [
      {
@@ -4376,6 +4434,8 @@
     "net": "Officieel gesubsidieerd onderwijs",
     "bestuur": "Stad Gent",
     "website": "",
+    "telefoon": "09 323 66 60",
+    "email": "Freinetmiddenschool@onderwijs.gent.be",
     "adres": "Offerlaan 1, 9000 Gent",
     "aanbod": [
      {
@@ -4440,6 +4500,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "Connected vzw",
     "website": "www.htisa.be",
+    "telefoon": "09 235 04 20",
+    "email": "katleen.immesoete@htisa.be",
     "adres": "Holstraat 66, 9000 Gent",
     "aanbod": [
      {
@@ -4891,6 +4953,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "Connected vzw",
     "website": "www.ivio-binnenhof.be",
+    "telefoon": "09 223 98 71",
+    "email": "sarah.verslijcke@ivio-binnenhof.be",
     "adres": "Holstraat 66, 9000 Gent",
     "aanbod": [
      {
@@ -4927,6 +4991,8 @@
     "net": "Officieel gesubsidieerd onderwijs",
     "bestuur": "Stad Gent",
     "website": "www.hotelschoolgent.be",
+    "telefoon": "09 323 57 50",
+    "email": "hotelschool.directeur@onderwijs.gent.be",
     "adres": "Lange Violettestraat 12, 9000 Gent",
     "aanbod": [
      {
@@ -5024,6 +5090,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "VZW IVG-Scholengroep",
     "website": "www.ivgschool.be",
+    "telefoon": "09 265 70 60",
+    "email": "info@ivgschool.be",
     "adres": "Nederkouter 112, 9000 Gent",
     "aanbod": [
      {
@@ -5079,6 +5147,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "VZW IVG-Scholengroep",
     "website": "www.ivgschool.be",
+    "telefoon": "09 265 70 60",
+    "email": "info@ivgschool.be",
     "adres": "Nederkouter 112, 9000 Gent",
     "aanbod": [
      {
@@ -5131,6 +5201,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "Instituut voor Verpleegkunde Sint-Vincentius, te Gent",
     "website": "www.ivv-gent.be",
+    "telefoon": "09 235 82 40",
+    "email": "ivv@ivv-gent.be",
     "adres": "Molenaarsstraat 30, 9000 Gent",
     "aanbod": [
      {
@@ -5276,6 +5348,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "Connected vzw",
     "website": "www.ivio-binnenhof.be",
+    "telefoon": "09 223 98 71",
+    "email": "sarah.verslijcke@ivio-binnenhof.be",
     "adres": "Molenaarsstraat 30, 9000 Gent",
     "aanbod": [
      {
@@ -5342,6 +5416,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "Connected vzw",
     "website": "www.ivio-binnenhof.be",
+    "telefoon": "09 223 98 71",
+    "email": "directie@ivio-binnenhof.be",
     "adres": "Peperstraat 27, 9000 Gent",
     "aanbod": [
      {
@@ -5532,6 +5608,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "Connected vzw",
     "website": "www.ivio-binnenhof.be",
+    "telefoon": "09 228 45 90",
+    "email": "school@ivio-binnenhof.be",
     "adres": "Peperstraat 27, 9000 Gent",
     "aanbod": [
      {
@@ -5548,6 +5626,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "Connected vzw",
     "website": "www.ivio-binnenhof.be",
+    "telefoon": "09 223 98 71",
+    "email": "sarah.verslijcke@ivio-binnenhof.be",
     "adres": "Peperstraat 27, 9000 Gent",
     "aanbod": [
      {
@@ -5604,6 +5684,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "VZW Freinetscholen Keerpunt",
     "website": "www.keerpuntscholen.be",
+    "telefoon": "0485 58 85 05",
+    "email": "administratie@keerpuntscholen.be",
     "adres": "Spitaalpoortstraat 50, 9000 Gent",
     "aanbod": [
      {
@@ -5641,6 +5723,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "VZW Inrichtend Comite Sint-Lucas",
     "website": "www.lucasgent.be/",
+    "telefoon": "09 224 08 76",
+    "email": "secretariaat@lucasgent.be",
     "adres": "Oude Houtlei 44, 9000 Gent",
     "aanbod": [
      {
@@ -5702,6 +5786,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "VZW Inrichtende Macht Lucerna",
     "website": "www.lucerna.be",
+    "telefoon": "02 520 95 50",
+    "email": "info@lucerna.be",
     "adres": "Ganzendries 149, 9000 Gent",
     "aanbod": [
      {
@@ -5805,6 +5891,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "VZW Mariagaard - Zusters van Liefde Kwatrecht",
     "website": "www.mariagaard.be",
+    "telefoon": "09 365 73 00",
+    "email": "directie@mariagaard.be",
     "adres": "Oosterzelesteenweg 80, 9230 Wetteren",
     "aanbod": [
      {
@@ -5941,6 +6029,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "VZW Mariagaard - Zusters van Liefde Kwatrecht",
     "website": "www.mariagaard.be",
+    "telefoon": "09 365 73 00",
+    "email": "directie@mariagaard.be",
     "adres": "Oosterzelesteenweg 80, 9230 Wetteren",
     "aanbod": [
      {
@@ -5999,6 +6089,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "VZW Middelbare Steinerschool Vlaanderen",
     "website": "https://www.msv-vzw.be",
+    "telefoon": "09 235 78 10",
+    "email": "info@msv-vzw.be",
     "adres": "Kasteellaan 54, 9000 Gent",
     "aanbod": [
      {
@@ -6063,6 +6155,8 @@
     "net": "Gemeenschapsonderwijs",
     "bestuur": "GO! scholengroep Gent",
     "website": "www.kavoskenslaan.be",
+    "telefoon": "09 240 00 60",
+    "email": "kavoskenslaan@kavoskenslaan.be",
     "adres": "Voskenslaan 60, 9000 Gent",
     "aanbod": [
      {
@@ -6217,6 +6311,8 @@
     "net": "Gemeenschapsonderwijs",
     "bestuur": "GO! scholengroep Gent",
     "website": "www.msvoskenslaan.be",
+    "telefoon": "09 240 00 57",
+    "email": "info@msvoskenslaan.be",
     "adres": "Voskenslaan 60, 9000 Gent",
     "aanbod": [
      {
@@ -6269,6 +6365,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "Connected vzw",
     "website": "www.nieuwenbosch.be",
+    "telefoon": "09 223 96 08",
+    "email": "ulrik.deroover@nieuwenbosch.be",
     "adres": "Lange Violettestraat 65, 9000 Gent",
     "aanbod": [
      {
@@ -6435,6 +6533,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "Connected vzw",
     "website": "www.olvigent.be",
+    "telefoon": "09 225 46 44",
+    "email": "directie@olvigent.be",
     "adres": "Tweebruggenstraat 55, 9000 Gent",
     "aanbod": [
      {
@@ -6667,6 +6767,8 @@
     "net": "Officieel gesubsidieerd onderwijs",
     "bestuur": "Provinciebestuur Oost-Vlaanderen",
     "website": "www.richtpuntgenthenley.be",
+    "telefoon": "09 267 12 10",
+    "email": "infocampushenley@richtpuntgent.be",
     "adres": "Henleykaai 83, 9000 Gent",
     "aanbod": [
      {
@@ -6791,6 +6893,8 @@
     "net": "Officieel gesubsidieerd onderwijs",
     "bestuur": "Provinciebestuur Oost-Vlaanderen",
     "website": "www.richtpuntgent.be",
+    "telefoon": "09 267 12 60",
+    "email": "infocampusgodshuizen@richtpuntgent.be",
     "adres": "Godshuizenlaan 65, 9000 Gent",
     "aanbod": [
      {
@@ -6897,6 +7001,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "VZW Scheppers Wetteren",
     "website": "www.scheppers-wetteren.be",
+    "telefoon": "09 369 20 72",
+    "email": "info@scheppers-wetteren.be",
     "adres": "Cooppallaan 128, 9230 Wetteren",
     "aanbod": [
      {
@@ -7249,6 +7355,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "VZW Scheppers Wetteren",
     "website": "www.scheppers-wetteren.be",
+    "telefoon": "09 369 20 72",
+    "email": "info@scheppers-wetteren.be",
     "adres": "Cooppallaan 128, 9230 Wetteren",
     "aanbod": [
      {
@@ -7295,6 +7403,8 @@
     "net": "Officieel gesubsidieerd onderwijs",
     "bestuur": "Stad Gent",
     "website": "https://scholen.stad.gent/ski",
+    "telefoon": "09 323 58 00",
+    "email": "ski@onderwijs.gent.be",
     "adres": "Ottogracht 4, 9000 Gent",
     "aanbod": [
      {
@@ -7383,6 +7493,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "VZW Sint-Barbaracollege",
     "website": "sint-barbara.be",
+    "telefoon": "09 235 72 50",
+    "email": "info@sint-barbara.be",
     "adres": "Savaanstraat 33, 9000 Gent",
     "aanbod": [
      {
@@ -7549,6 +7661,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "VZW Sint-Barbaracollege",
     "website": "sint-barbara.be",
+    "telefoon": "09 235 72 50",
+    "email": "info@sint-barbara.be",
     "adres": "Savaanstraat 33, 9000 Gent",
     "aanbod": [
      {
@@ -7589,6 +7703,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "Sint-Bavohumaniora",
     "website": "www.sintbavogent.be",
+    "telefoon": "09 267 96 11",
+    "email": "sint.bavohumaniora@sbhg.be",
     "adres": "Reep 4, 9000 Gent",
     "aanbod": [
      {
@@ -7752,6 +7868,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "Sint-Bavohumaniora",
     "website": "www.sintbavogent.be",
+    "telefoon": "09 267 96 11",
+    "email": "sint.bavohumaniora@sbhg.be",
     "adres": "Reep 4, 9000 Gent",
     "aanbod": [
      {
@@ -7804,6 +7922,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "vzw EDUGO Scholengroep",
     "website": "www.sfevergem.be",
+    "telefoon": "09 253 71 76",
+    "email": "directie@sfevergem.be",
     "adres": "Schepenhuisstraat 4, 9940 Evergem",
     "aanbod": [
      {
@@ -7985,6 +8105,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "Connected vzw",
     "website": "www.sfimelle.be",
+    "telefoon": "09 230 79 11",
+    "email": "contact@sfimelle.be",
     "adres": "Tuinstraat 105, 9090 Merelbeke-Melle",
     "aanbod": [
      {
@@ -8085,6 +8207,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "Connected vzw",
     "website": "www.sfimelle.be",
+    "telefoon": "09 230 79 11",
+    "email": "contact@sfimelle.be",
     "adres": "Tuinstraat 105, 9090 Merelbeke-Melle",
     "aanbod": [
      {
@@ -8242,6 +8366,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "VZW Katholiek Onderwijs Wetteren",
     "website": "www.sgw.be",
+    "telefoon": "09 369 10 63, 0476 97 08 42",
+    "email": "sophie.denil@sgw.be",
     "adres": "Wegvoeringstraat 21, 9230 Wetteren",
     "aanbod": [
      {
@@ -8378,6 +8504,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "VZW Katholiek Onderwijs Wetteren",
     "website": "www.sgw.be",
+    "telefoon": "09 369 10 63",
+    "email": "ilse.degelder@sgw.be",
     "adres": "Wegvoeringstraat 21, 9230 Wetteren",
     "aanbod": [
      {
@@ -8412,6 +8540,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "Connected vzw",
     "website": "sjc-gent.be",
+    "telefoon": "09 228 34 62",
+    "email": "sylvie.boonen@sjc-gent.be",
     "adres": "Heiveldstraat 117, 9040 Gent",
     "aanbod": [
      {
@@ -8458,6 +8588,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "Connected vzw",
     "website": "sjc-gent.be",
+    "telefoon": "09 228 32 40",
+    "email": "heiveld@sjc-gent.be",
     "adres": "Heiveldstraat 117, 9040 Gent",
     "aanbod": [
      {
@@ -8510,6 +8642,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "Connected vzw",
     "website": "sjc-gent.be",
+    "telefoon": "09 228 34 62",
+    "email": "sylvie.boonen@sjc-gent.be",
     "adres": "Visitatiestraat 5, 9040 Gent",
     "aanbod": [
      {
@@ -8652,6 +8786,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "VZW Katholiek Onderwijs Wetteren",
     "website": "www.sjiwetteren.be",
+    "telefoon": "09 369 04 09",
+    "email": "info@sjiwetteren.be",
     "adres": "Wegvoeringstraat 59_A, 9230 Wetteren",
     "aanbod": [
      {
@@ -8851,6 +8987,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "VZW Evara",
     "website": "www.sint-laurens.be",
+    "telefoon": "09 345 53 19",
+    "email": "info@sint-laurens.be",
     "adres": "Wachtebeke-Dorp 21, 9185 Lochristi",
     "aanbod": [
      {
@@ -8927,6 +9065,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "VZW Evara",
     "website": "www.sint-laurens.be",
+    "telefoon": "09 345 53 19",
+    "email": "info@sint-laurens.be",
     "adres": "Patronagestraat 51, 9060 Zelzate",
     "aanbod": [
      {
@@ -9039,6 +9179,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "VZW Evara",
     "website": "www.sint-laurens.be",
+    "telefoon": "09 345 53 19",
+    "email": "info@sint-laurens.be",
     "adres": "Patronagestraat 51, 9060 Zelzate",
     "aanbod": [
      {
@@ -9289,6 +9431,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "Connected vzw",
     "website": "https://www.slcb.be/",
+    "telefoon": "09 225 89 07",
+    "email": "wim.provoost@sintlievenscollege.be",
     "adres": "Steendam 27, 9000 Gent",
     "aanbod": [
      {
@@ -9359,6 +9503,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "Connected vzw",
     "website": "humaniora.sintlievenscollege.be",
+    "telefoon": "09 225 11 47",
+    "email": "michiel.curvers@sintlievenscollege.be",
     "adres": "Zilverenberg 1, 9000 Gent",
     "aanbod": [
      {
@@ -9393,6 +9539,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "Connected vzw",
     "website": "humaniora.sintlievenscollege.be",
+    "telefoon": "09 225 11 47",
+    "email": "koen.vandamme@sintlievenscollege.be",
     "adres": "Zilverenberg 1, 9000 Gent",
     "aanbod": [
      {
@@ -9559,6 +9707,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "VZW Evara",
     "website": "www.sintpaulusgent.be",
+    "telefoon": "09 222 38 22",
+    "email": "info@sintpaulusgent.be",
     "adres": "Patijntjestraat 45, 9000 Gent",
     "aanbod": [
      {
@@ -9605,6 +9755,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "VZW Evara",
     "website": "www.sintpaulusgent.be",
+    "telefoon": "09 222 38 22",
+    "email": "info@sintpaulusgent.be",
     "adres": "Patijntjestraat 45, 9000 Gent",
     "aanbod": [
      {
@@ -9690,6 +9842,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "VZW Evara",
     "website": "www.styrka.be",
+    "telefoon": "09 222 15 84, 0497 15 36 76",
+    "email": "dirk.mauroo@styrka.evara.be",
     "adres": "Ebergiste De Deynestraat 1, 9000 Gent",
     "aanbod": [
      {
@@ -9706,6 +9860,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "VZW Evara",
     "website": "https://www.styrka.be/styrkasecundaironderwijs",
+    "telefoon": "09 240 13 73",
+    "email": "ssd.school@styrka.evara.be",
     "adres": "Ebergiste De Deynestraat 1, 9000 Gent",
     "aanbod": [
      {
@@ -9938,6 +10094,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "VZW Evara",
     "website": "https://sintgregorius.be/buso",
+    "telefoon": "09 210 01 50, 0478 84 20 66",
+    "email": "info@sintgregorius.be",
     "adres": "Ebergiste De Deynestraat 1, 9000 Gent",
     "aanbod": [
      {
@@ -9970,6 +10128,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "VZW Evara",
     "website": "www.styrka.be",
+    "telefoon": "09 222 15 84, 0497 15 36 76",
+    "email": "dirk.mauroo@styrka.evara.be",
     "adres": "Sint-Juliaanstraat 7, 9000 Gent",
     "aanbod": [
      {
@@ -9998,6 +10158,8 @@
     "net": "Gemeenschapsonderwijs",
     "bestuur": "GO! scholengroep Gent",
     "website": "groenkouter.tectura.be",
+    "telefoon": "09 228 42 22",
+    "email": "inlichtingen@groenkouter.tectura.be",
     "adres": "Sint-Baafskouterstraat 129, 9040 Gent",
     "aanbod": [
      {
@@ -10185,6 +10347,8 @@
     "net": "Gemeenschapsonderwijs",
     "bestuur": "GO! scholengroep Gent",
     "website": "https://melle.tectura.be",
+    "telefoon": "09 210 45 40",
+    "email": "info@melle.tectura.be",
     "adres": "Brusselsesteenweg 165, 9090 Merelbeke-Melle",
     "aanbod": [
      {
@@ -10366,6 +10530,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "VZW Evara",
     "website": "www.visitatie.be",
+    "telefoon": "09 226 76 83",
+    "email": "info@visitatie.be",
     "adres": "Zandloperstraat 8, 9030 Gent",
     "aanbod": [
      {
@@ -10502,6 +10668,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "VZW Vrij Instituut voor Secundair Onderwijs",
     "website": "www.viso.be",
+    "telefoon": "09 216 36 36",
+    "email": "info@viso.be",
     "adres": "Jan-Baptist Guinardstraat 23, 9000 Gent",
     "aanbod": [
      {
@@ -10584,6 +10752,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "VZW Vrij Instituut voor Secundair Onderwijs",
     "website": "www.viso.be",
+    "telefoon": "09 216 36 36",
+    "email": "info@viso.be",
     "adres": "Industrieweg 230, 9030 Gent",
     "aanbod": [
      {
@@ -10762,6 +10932,8 @@
     "net": "Officieel gesubsidieerd onderwijs",
     "bestuur": "Stad Gent",
     "website": "scholen.stad.gent/ziekenhuisschool",
+    "telefoon": "09 332 24 05",
+    "email": "ziekenhuisschool@onderwijs.gent.be",
     "adres": "Caritasstraat 76, 9090 Merelbeke-Melle",
     "aanbod": [
      {
@@ -10791,6 +10963,8 @@
     "net": "Officieel gesubsidieerd onderwijs",
     "bestuur": "Provinciebestuur Oost-Vlaanderen",
     "website": "www.richtpuntgenthenley.be",
+    "telefoon": "09 267 12 40",
+    "email": "infocampusabdis@richtpuntgent.be",
     "adres": "Abdisstraat 56, 9000 Gent",
     "aanbod": [
      {
@@ -10858,6 +11032,8 @@
     "net": "Gemeenschapsonderwijs",
     "bestuur": "GO! scholengroep Gent",
     "website": "groenkouter.tectura.be",
+    "telefoon": "09 228 42 22",
+    "email": "inlichtingen@groenkouter.tectura.be",
     "adres": "Coupure 312, 9000 Gent",
     "aanbod": [
      {
@@ -10886,6 +11062,8 @@
     "net": "Gemeenschapsonderwijs",
     "bestuur": "GO! scholengroep Gent",
     "website": "https://gentcentrum.tectura.be",
+    "telefoon": "09 225 33 04",
+    "email": "info@gentcentrum.tectura.be",
     "adres": "Coupure Rechts 312, 9000 Gent",
     "aanbod": [
      {
@@ -11118,6 +11296,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "Connected vzw",
     "website": "https://www.slcb.be/",
+    "telefoon": "09 225 89 07",
+    "email": "wim.provoost@sintlievenscollege.be",
     "adres": "Gildestraat 17, 9000 Gent",
     "aanbod": [
      {
@@ -11197,6 +11377,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "VZW Inrichtend Comite Sint-Lucas",
     "website": "www.lucasgent.be/",
+    "telefoon": "09 224 08 76",
+    "email": "secretariaat@lucasgent.be",
     "adres": "Ingelandgat 34, 9000 Gent",
     "aanbod": [
      {
@@ -11252,6 +11434,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "Instituut voor Verpleegkunde Sint-Vincentius, te Gent",
     "website": "www.ivv-gent.be",
+    "telefoon": "09 235 82 40",
+    "email": "ivv@ivv-gent.be",
     "adres": "Jozef Guislainstraat 45, 9000 Gent",
     "aanbod": [
      {
@@ -11370,6 +11554,8 @@
     "net": "Gemeenschapsonderwijs",
     "bestuur": "GO! scholengroep Stroom",
     "website": "www.vesaliusinstituut.be",
+    "telefoon": "059 70 68 70",
+    "email": "lodewijck.jonckheere@vesaliusinstituut.be",
     "adres": "Keramiekstraat 80, 9000 Gent",
     "aanbod": [
      {
@@ -11407,6 +11593,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "VZW Evara",
     "website": "www.sintpaulusgent.be",
+    "telefoon": "09 222 38 22",
+    "email": "info@sintpaulusgent.be",
     "adres": "Marathonstraat 35, 9000 Gent",
     "aanbod": [
      {
@@ -11498,6 +11686,8 @@
     "net": "Officieel gesubsidieerd onderwijs",
     "bestuur": "Stad Gent",
     "website": "https://scholen.stad.gent/clw",
+    "telefoon": "09 323 51 00",
+    "email": "duo.onthaalwm@onderwijs.gent.be",
     "adres": "Martelaarslaan 13, 9000 Gent",
     "aanbod": [
      {
@@ -11544,6 +11734,8 @@
     "net": "Gemeenschapsonderwijs",
     "bestuur": "GO! scholengroep Stroom",
     "website": "www.vesaliusinstituut.be",
+    "telefoon": "059 70 68 70",
+    "email": "lodewijck.jonckheere@vesaliusinstituut.be",
     "adres": "Nonnemeersstraat 15, 9000 Gent",
     "aanbod": [
      {
@@ -11581,6 +11773,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "Instituut voor Verpleegkunde Sint-Vincentius, te Gent",
     "website": "www.ivv-gent.be",
+    "telefoon": "09 235 82 40",
+    "email": "ivv@ivv-gent.be",
     "adres": "Opgeëistenlaan 8, 9000 Gent",
     "aanbod": [
      {
@@ -11618,6 +11812,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "VZW IVG-Scholengroep",
     "website": "www.ivgschool.be",
+    "telefoon": "09 265 70 60",
+    "email": "info@ivgschool.be",
     "adres": "Sint-Amandstraat 20, 9000 Gent",
     "aanbod": [
      {
@@ -11718,6 +11914,8 @@
     "net": "Officieel gesubsidieerd onderwijs",
     "bestuur": "Stad Gent",
     "website": "www.hotelschoolgent.be",
+    "telefoon": "09 323 57 50",
+    "email": "hotelschool.directeur@onderwijs.gent.be",
     "adres": "Tweebruggenstraat 59, 9000 Gent",
     "aanbod": [
      {
@@ -11788,6 +11986,8 @@
     "net": "Gemeenschapsonderwijs",
     "bestuur": "GO! scholengroep Gent",
     "website": "www.kavoskenslaan.be",
+    "telefoon": "09 240 00 60",
+    "email": "kavoskenslaan@kavoskenslaan.be",
     "adres": "Zuiderlaan 14, 9000 Gent",
     "aanbod": [
      {
@@ -11834,6 +12034,8 @@
     "net": "Gemeenschapsonderwijs",
     "bestuur": "GO! scholengroep Gent",
     "website": "www.msvoskenslaan.be",
+    "telefoon": "09 240 00 57",
+    "email": "info@msvoskenslaan.be",
     "adres": "Zuiderlaan 14, 9000 Gent",
     "aanbod": [
      {
@@ -11865,6 +12067,8 @@
     "net": "Gemeenschapsonderwijs",
     "bestuur": "GO! scholengroep Gent",
     "website": "https://gentcentrum.tectura.be",
+    "telefoon": "09 225 33 04",
+    "email": "info@gentcentrum.tectura.be",
     "adres": "Industriepark-Drongen 14 bus 6, 9031 Gent",
     "aanbod": [
      {
@@ -11929,6 +12133,8 @@
     "net": "Gemeenschapsonderwijs",
     "bestuur": "GO! scholengroep Gent",
     "website": "groenkouter.tectura.be",
+    "telefoon": "09 228 42 22",
+    "email": "inlichtingen@groenkouter.tectura.be",
     "adres": "Jef Crickstraat 61, 9040 Gent",
     "aanbod": [
      {
@@ -12038,6 +12244,8 @@
     "net": "Gemeenschapsonderwijs",
     "bestuur": "GO! scholengroep Gent",
     "website": "www.campusimpuls.be",
+    "telefoon": "09 251 23 02, 09 251 23 07",
+    "email": "arne.lobbens@scholengroep.gent",
     "adres": "Jef Crickstraat 61, 9040 Gent",
     "aanbod": [
      {
@@ -12077,6 +12285,8 @@
     "net": "Gemeenschapsonderwijs",
     "bestuur": "GO! scholengroep Gent",
     "website": "https://gentcentrum.tectura.be",
+    "telefoon": "09 225 33 04",
+    "email": "info@gentcentrum.tectura.be",
     "adres": "Gentstraat 194, 9041 Gent",
     "aanbod": [
      {
@@ -12150,6 +12360,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "VZW Evara",
     "website": "www.sint-laurens.be",
+    "telefoon": "09 345 53 19",
+    "email": "info@sint-laurens.be",
     "adres": "Kerkstraat 64, 9060 Zelzate",
     "aanbod": [
      {
@@ -12214,6 +12426,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "VZW Evara",
     "website": "www.sint-laurens.be",
+    "telefoon": "09 345 53 19",
+    "email": "info@sint-laurens.be",
     "adres": "Kerkstraat 64, 9060 Zelzate",
     "aanbod": [
      {
@@ -12281,6 +12495,8 @@
     "net": "Gemeenschapsonderwijs",
     "bestuur": "GO! Scholengroep Dynamiek",
     "website": "www.couma.be",
+    "telefoon": "050 72 88 80",
+    "email": "info@couma.be",
     "adres": "Onteigeningsstraat 41 bus b, 9060 Zelzate",
     "aanbod": [
      {
@@ -12300,6 +12516,8 @@
     "net": "Gemeenschapsonderwijs",
     "bestuur": "GO! Scholengroep Dynamiek",
     "website": "www.campus-erasmus.be",
+    "telefoon": "09 345 59 10",
+    "email": "info.atheneum@campus-erasmus.be",
     "adres": "Onteigeningsstraat 41_B, 9060 Zelzate",
     "aanbod": [
      {
@@ -12508,6 +12726,8 @@
     "net": "Gemeenschapsonderwijs",
     "bestuur": "GO! Scholengroep Dynamiek",
     "website": "www.campus-erasmus.be",
+    "telefoon": "09 345 59 10",
+    "email": "info.atheneum@campus-erasmus.be",
     "adres": "Onteigeningsstraat 41_D, 9060 Zelzate",
     "aanbod": [
      {
@@ -12587,6 +12807,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "Vrije Technische Scholen van Sint-Niklaas",
     "website": "www.vts3.be",
+    "telefoon": "03 780 53 61",
+    "email": "ov3@vts3.be",
     "adres": "Breedstraat 104, 9100 Sint-Niklaas",
     "aanbod": [
      {
@@ -12975,6 +13197,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "Vrije Technische Scholen van Sint-Niklaas",
     "website": "www.vts3.be",
+    "telefoon": "03 780 53 61",
+    "email": "ov4@vts3.be",
     "adres": "Breedstraat 104, 9100 Sint-Niklaas",
     "aanbod": [
      {
@@ -13035,6 +13259,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "Vrije Technische Scholen van Sint-Niklaas",
     "website": "www.vts3.be",
+    "telefoon": "03 780 53 61",
+    "email": "ov4@vts3.be",
     "adres": "Breedstraat 104, 9100 Sint-Niklaas",
     "aanbod": [
      {
@@ -13154,6 +13380,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "Vrije Technische Scholen van Sint-Niklaas",
     "website": "www.wetech.be",
+    "telefoon": "03 777 07 06",
+    "email": "steven.debrandt@wetech.be",
     "adres": "Breedstraat 152, 9100 Sint-Niklaas",
     "aanbod": [
      {
@@ -13500,6 +13728,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "VZW Berkenboomscholen",
     "website": "www.portusberkenboom.be",
+    "telefoon": "03 760 41 00",
+    "email": "info@portusberkenboom.be",
     "adres": "Breedstraat 152, 9100 Sint-Niklaas",
     "aanbod": [
      {
@@ -13516,6 +13746,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "VZW Berkenboomscholen",
     "website": "https://berkenboomeerstegraad.be",
+    "telefoon": "03 760 41 00",
+    "email": "elisabeth.dhollander@portusberkenboom.be",
     "adres": "Breedstraat 152, 9100 Sint-Niklaas",
     "aanbod": [
      {
@@ -13541,6 +13773,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "VZW Diocesaan Schoolcomité Sint-Niklaas",
     "website": "www.sjks.be",
+    "telefoon": "03 780 71 50",
+    "email": "info@sjks.be",
     "adres": "Collegestraat 31, 9100 Sint-Niklaas",
     "aanbod": [
      {
@@ -13704,6 +13938,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "VZW Diocesaan Schoolcomité Sint-Niklaas",
     "website": "www.sjks.be",
+    "telefoon": "03 780 71 50",
+    "email": "info@sjks.be",
     "adres": "Collegestraat 31, 9100 Sint-Niklaas",
     "aanbod": [
      {
@@ -13738,6 +13974,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "VZW Diocesaan Schoolcomité Sint-Niklaas",
     "website": "www.sjks.be",
+    "telefoon": "03 780 71 50",
+    "email": "info@sjks.be",
     "adres": "Collegestraat 31, 9100 Sint-Niklaas",
     "aanbod": [
      {
@@ -13772,6 +14010,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "VZW Diocesaan Schoolcomité Sint-Niklaas",
     "website": "www.sjks.be",
+    "telefoon": "03 780 71 50",
+    "email": "info@sjks.be",
     "adres": "Collegestraat 31, 9100 Sint-Niklaas",
     "aanbod": [
      {
@@ -13809,6 +14049,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "VZW Scholen H.Familie Sint-Niklaas",
     "website": "www.hfamilie.com",
+    "telefoon": "03 776 68 38",
+    "email": "directie@hfamilie.com",
     "adres": "Hofstraat 15, 9100 Sint-Niklaas",
     "aanbod": [
      {
@@ -13936,6 +14178,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "VZW Diocesaan Schoolcomité Sint-Niklaas",
     "website": "www.sjks.be",
+    "telefoon": "03 780 71 50",
+    "email": "info@sjks.be",
     "adres": "Hofstraat 15, 9100 Sint-Niklaas",
     "aanbod": [
      {
@@ -13952,6 +14196,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "VZW Scholen H.Familie Sint-Niklaas",
     "website": "www.hfamilie.com",
+    "telefoon": "03 776 68 38",
+    "email": "directie@hfamilie.com",
     "adres": "Hofstraat 15, 9100 Sint-Niklaas",
     "aanbod": [
      {
@@ -13989,6 +14235,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "VZW Instituut Sint-Carolus",
     "website": "www.sint-carolus.be",
+    "telefoon": "03 780 51 23",
+    "email": "kris.demunck@sint-carolus.be",
     "adres": "Hospitaalstraat 23, 9100 Sint-Niklaas",
     "aanbod": [
      {
@@ -14026,6 +14274,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "VZW Instituut Sint-Carolus",
     "website": "www.sint-carolus.be",
+    "telefoon": "03 780 51 23",
+    "email": "kris.demunck@sint-carolus.be",
     "adres": "Hospitaalstraat 2, 9100 Sint-Niklaas",
     "aanbod": [
      {
@@ -14108,6 +14358,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "VZW Instituut Sint-Carolus",
     "website": "www.sint-carolus.be",
+    "telefoon": "03 780 51 23",
+    "email": "info@sint-carolus.be",
     "adres": "Hospitaalstraat 2, 9100 Sint-Niklaas",
     "aanbod": [
      {
@@ -14148,6 +14400,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "VZW Instituut Sint-Carolus",
     "website": "www.sint-carolus.be",
+    "telefoon": "03 780 51 23",
+    "email": "info@sint-carolus.be",
     "adres": "Hospitaalstraat 2, 9100 Sint-Niklaas",
     "aanbod": [
      {
@@ -14185,6 +14439,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "VZW Berkenboomscholen",
     "website": "www.portusberkenboom.be",
+    "telefoon": "03 760 41 00",
+    "email": "info@portusberkenboom.be",
     "adres": "Kalkstraat 30, 9100 Sint-Niklaas",
     "aanbod": [
      {
@@ -14423,6 +14679,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "VZW Berkenboomscholen",
     "website": "https://berkenboomeerstegraad.be",
+    "telefoon": "03 760 41 00",
+    "email": "elisabeth.dhollander@portusberkenboom.be",
     "adres": "Kalkstraat 30, 9100 Sint-Niklaas",
     "aanbod": [
      {
@@ -14466,6 +14724,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "LAB Sint-Niklaas",
     "website": "www.labonderwijs.be",
+    "telefoon": "0498 46 37 78",
+    "email": "info@labsintniklaas.be",
     "adres": "Kleibeekstraat 138, 9100 Sint-Niklaas",
     "aanbod": [
      {
@@ -14563,6 +14823,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "VZW Berkenboomscholen",
     "website": "www.berkenboomhum.be",
+    "telefoon": "03 760 41 20",
+    "email": "elke.deridder@berkenboomhum.be",
     "adres": "Kleine Peperstraat 16, 9100 Sint-Niklaas",
     "aanbod": [
      {
@@ -14684,6 +14946,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "VZW Berkenboomscholen",
     "website": "www.berkenboomhum.be",
+    "telefoon": "03 760 41 20",
+    "email": "elke.deridder@berkenboomhum.be",
     "adres": "Kleine Peperstraat 16, 9100 Sint-Niklaas",
     "aanbod": [
      {
@@ -14721,6 +14985,8 @@
     "net": "Gemeenschapsonderwijs",
     "bestuur": "GO! scholengroep Waasland",
     "website": "www.scholendavinci.be",
+    "telefoon": "03 780 79 00",
+    "email": "info@scholendavinci.be",
     "adres": "Koningin Astridlaan 96, 9100 Sint-Niklaas",
     "aanbod": [
      {
@@ -14893,6 +15159,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "Broederscholen Hiëronymus VZW",
     "website": "www.humaniora.broeders.be",
+    "telefoon": "03 780 92 00",
+    "email": "info@humaniora.broeders.be",
     "adres": "Kroonmolenstraat 8, 9100 Sint-Niklaas",
     "aanbod": [
      {
@@ -14921,6 +15189,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "Broederscholen Hiëronymus VZW",
     "website": "www.handel.broeders.be",
+    "telefoon": "03 780 92 20",
+    "email": "info@handel.broeders.be",
     "adres": "Kroonmolenstraat 8, 9100 Sint-Niklaas",
     "aanbod": [
      {
@@ -14937,6 +15207,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "Broederscholen Hiëronymus VZW",
     "website": "www.eerstegraad.broeders.be",
+    "telefoon": "03 361 16 61",
+    "email": "info@eerstegraad.broeders.be",
     "adres": "Kroonmolenstraat 8, 9100 Sint-Niklaas",
     "aanbod": [
      {
@@ -14971,6 +15243,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "Broederscholen Hiëronymus VZW",
     "website": "www.bio.broeders.be",
+    "telefoon": "03 779 67 94",
+    "email": "info@bio.broeders.be",
     "adres": "Kroonmolenstraat 8, 9100 Sint-Niklaas",
     "aanbod": [
      {
@@ -14996,6 +15270,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "VZW Instituut Sint-Carolus",
     "website": "www.sint-carolus.be",
+    "telefoon": "03 780 51 23",
+    "email": "kris.demunck@sint-carolus.be",
     "adres": "Lodewijk De Meesterstraat 3, 9100 Sint-Niklaas",
     "aanbod": [
      {
@@ -15012,6 +15288,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "VZW Instituut Sint-Carolus",
     "website": "www.sint-carolus.be",
+    "telefoon": "03 780 51 23",
+    "email": "info@sint-carolus.be",
     "adres": "Lodewijk De Meesterstraat 3, 9100 Sint-Niklaas",
     "aanbod": [
      {
@@ -15034,6 +15312,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "VZW Instituut Sint-Carolus",
     "website": "www.sint-carolus.be",
+    "telefoon": "03 780 51 23",
+    "email": "info@sint-carolus.be",
     "adres": "Lodewijk De Meesterstraat 3, 9100 Sint-Niklaas",
     "aanbod": [
      {
@@ -15083,6 +15363,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "VZW Instituut Sint-Carolus",
     "website": "www.sint-carolus.be",
+    "telefoon": "03 780 51 23",
+    "email": "kris.demunck@sint-carolus.be",
     "adres": "Lodewijk De Meesterstraat 58, 9100 Sint-Niklaas",
     "aanbod": [
      {
@@ -15261,6 +15543,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "Broederscholen Hiëronymus VZW",
     "website": "www.humaniora.broeders.be",
+    "telefoon": "03 780 92 00",
+    "email": "info@humaniora.broeders.be",
     "adres": "Nieuwstraat 75, 9100 Sint-Niklaas",
     "aanbod": [
      {
@@ -15370,6 +15654,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "Broederscholen Hiëronymus VZW",
     "website": "www.bio.broeders.be",
+    "telefoon": "03 760 10 90",
+    "email": "info@bio.broeders.be",
     "adres": "Nieuwstraat 91, 9100 Sint-Niklaas",
     "aanbod": [
      {
@@ -15398,6 +15684,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "Broederscholen Hiëronymus VZW",
     "website": "www.handel.broeders.be",
+    "telefoon": "03 780 92 20",
+    "email": "info@handel.broeders.be",
     "adres": "Nieuwstraat 91, 9100 Sint-Niklaas",
     "aanbod": [
      {
@@ -15507,6 +15795,8 @@
     "net": "Gemeenschapsonderwijs",
     "bestuur": "GO! scholengroep Waasland",
     "website": "www.scholendavinci.be",
+    "telefoon": "03 780 79 00",
+    "email": "info@scholendavinci.be",
     "adres": "Parklaan 89, 9100 Sint-Niklaas",
     "aanbod": [
      {
@@ -15838,6 +16128,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "VZW Berkenboomscholen",
     "website": "www.portusberkenboom.be",
+    "telefoon": "03 760 41 00",
+    "email": "info@portusberkenboom.be",
     "adres": "Plezantstraat 135, 9100 Sint-Niklaas",
     "aanbod": [
      {
@@ -15854,6 +16146,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "VZW Scholen Onze-Lieve-Vrouw-Presentatie Sint-Niklaas",
     "website": "www.olvp.be/so",
+    "telefoon": "03 760 08 60",
+    "email": "info@olvp.be",
     "adres": "Plezantstraat 135, 9100 Sint-Niklaas",
     "aanbod": [
      {
@@ -16014,6 +16308,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "VZW Scholen Onze-Lieve-Vrouw-Presentatie Sint-Niklaas",
     "website": "www.olvp.be/so",
+    "telefoon": "03 760 08 60",
+    "email": "info@olvp.be",
     "adres": "Plezantstraat 135, 9100 Sint-Niklaas",
     "aanbod": [
      {
@@ -16150,6 +16446,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "VZW Scholen Onze-Lieve-Vrouw-Presentatie Sint-Niklaas",
     "website": "www.olvp.be/so",
+    "telefoon": "03 760 08 60",
+    "email": "info@olvp.be",
     "adres": "Plezantstraat 135, 9100 Sint-Niklaas",
     "aanbod": [
      {
@@ -16205,6 +16503,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "Broederscholen Hiëronymus VZW",
     "website": "www.bio.broeders.be",
+    "telefoon": "03 760 10 90",
+    "email": "info@bio.broeders.be",
     "adres": "Weverstraat 23, 9100 Sint-Niklaas",
     "aanbod": [
      {
@@ -16329,6 +16629,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "Broederscholen Hiëronymus VZW",
     "website": "www.handel.broeders.be",
+    "telefoon": "03 780 92 20",
+    "email": "info@handel.broeders.be",
     "adres": "Weverstraat 23, 9100 Sint-Niklaas",
     "aanbod": [
      {
@@ -16345,6 +16647,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "Broederscholen Hiëronymus VZW",
     "website": "www.bio.broeders.be",
+    "telefoon": "03 779 67 94",
+    "email": "info@bio.broeders.be",
     "adres": "Weverstraat 23, 9100 Sint-Niklaas",
     "aanbod": [
      {
@@ -16394,6 +16698,8 @@
     "net": "Gemeenschapsonderwijs",
     "bestuur": "GO! scholengroep Waasland",
     "website": "www.kabeveren.be",
+    "telefoon": "03 750 96 80",
+    "email": "info@kabeveren.com",
     "adres": "Donkvijverstraat 30, 9120 Beveren-Kruibeke-Zwijndrecht",
     "aanbod": [
      {
@@ -16779,6 +17085,8 @@
     "net": "Officieel gesubsidieerd onderwijs",
     "bestuur": "Gemeentebestuur van Beveren-Kruibeke-Zwijndrecht",
     "website": "https://www.gemeentebkz.be/gemeentelijk-technisch-instituut",
+    "telefoon": "03 750 19 00",
+    "email": "directiegti@gemeentebkz.be",
     "adres": "Europalaan 1, 9120 Beveren-Kruibeke-Zwijndrecht",
     "aanbod": [
      {
@@ -17044,6 +17352,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "VZW Katholiek Onderwijs Groot-Beveren",
     "website": "www.sintmaartencampus.be",
+    "telefoon": "03 750 94 94",
+    "email": "bovenschool@sintmaartencampus.be",
     "adres": "Kallobaan 1, 9120 Beveren-Kruibeke-Zwijndrecht",
     "aanbod": [
      {
@@ -17324,6 +17634,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "VZW Katholiek Onderwijs Groot-Beveren",
     "website": "www.sintmaartencampus.be",
+    "telefoon": "03 775 83 08",
+    "email": "middenschool@sintmaartencampus.be",
     "adres": "Kallobaan 3_A, 9120 Beveren-Kruibeke-Zwijndrecht",
     "aanbod": [
      {
@@ -17388,6 +17700,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "VZW Katholiek Onderwijs Groot-Beveren",
     "website": "www.sintmaartencampus.be",
+    "telefoon": "03 775 83 08",
+    "email": "middenschool@sintmaartencampus.be",
     "adres": "Kallobaan 3_A, 9120 Beveren-Kruibeke-Zwijndrecht",
     "aanbod": [
      {
@@ -17446,6 +17760,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "VZW Katholiek Onderwijs Groot-Beveren",
     "website": "www.sintmaartencampus.be",
+    "telefoon": "03 775 83 08",
+    "email": "middenschool@sintmaartencampus.be",
     "adres": "Kallobaan 3_A, 9120 Beveren-Kruibeke-Zwijndrecht",
     "aanbod": [
      {
@@ -17519,6 +17835,8 @@
     "net": "Gemeenschapsonderwijs",
     "bestuur": "GO! scholengroep Waasland",
     "website": "www.go-terra.be",
+    "telefoon": "03 771 03 56",
+    "email": "info@terratemse.be",
     "adres": "Theo De Deckerlaan 2, 9140 Temse",
     "aanbod": [
      {
@@ -17709,6 +18027,8 @@
     "net": "Gemeenschapsonderwijs",
     "bestuur": "GO! scholengroep Waasland",
     "website": "www.kabeveren.be",
+    "telefoon": "03 750 96 80",
+    "email": "info@kabeveren.com",
     "adres": "Kattestraat 68, 9150 Beveren-Kruibeke-Zwijndrecht",
     "aanbod": [
      {
@@ -17770,6 +18090,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "Schoolcomité Sint-Joris",
     "website": "www.sintjorisbazel.be",
+    "telefoon": "03 740 03 30",
+    "email": "sint.joris@sintjorisbazel.be",
     "adres": "Kruibekestraat 55 bus a, 9150 Beveren-Kruibeke-Zwijndrecht",
     "aanbod": [
      {
@@ -18014,6 +18336,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "VZW Vrij Lokers Onderwijs voorjouw Toekomst",
     "website": "www.vlot.be",
+    "telefoon": "09 340 57 70",
+    "email": "sint-lodewijk@vlot.be",
     "adres": "Eksaarde-dorp 1_A, 9160 Lokeren",
     "aanbod": [
      {
@@ -18033,6 +18357,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "VZW Vrij Lokers Onderwijs voorjouw Toekomst",
     "website": "www.vlot.be",
+    "telefoon": "09 346 81 50",
+    "email": "sint-teresia@vlot.be",
     "adres": "Eksaarde-dorp 1A, 9160 Lokeren",
     "aanbod": [
      {
@@ -18130,6 +18456,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "VZW Vrij Lokers Onderwijs voorjouw Toekomst",
     "website": "www.vlot.be",
+    "telefoon": "09 349 07 06",
+    "email": "info@vlot.be",
     "adres": "Eksaarde-dorp 1A, 9160 Lokeren",
     "aanbod": [
      {
@@ -18167,6 +18495,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "VZW Vrij Lokers Onderwijs voorjouw Toekomst",
     "website": "www.vlot.be",
+    "telefoon": "09 349 07 06",
+    "email": "info@vlot.be",
     "adres": "Eksaarde-dorp 1A, 9160 Lokeren",
     "aanbod": [
      {
@@ -18195,6 +18525,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "VZW Vrij Lokers Onderwijs voorjouw Toekomst",
     "website": "www.vlot.be",
+    "telefoon": "09 346 81 50",
+    "email": "sint-teresia@vlot.be",
     "adres": "Eksaarde-dorp 1A, 9160 Lokeren",
     "aanbod": [
      {
@@ -18268,6 +18600,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "VZW Vrij Lokers Onderwijs voorjouw Toekomst",
     "website": "www.vlot.be",
+    "telefoon": "09 348 17 09",
+    "email": "sint-laurentius@vlot.be",
     "adres": "H.-Hartlaan 1_A, 9160 Lokeren",
     "aanbod": [
      {
@@ -18302,6 +18636,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "VZW Vrij Lokers Onderwijs voorjouw Toekomst",
     "website": "https://vlot.be/",
+    "telefoon": "09 348 61 39",
+    "email": "creo@vlot.be",
     "adres": "H.-Hartlaan 1_A, 9160 Lokeren",
     "aanbod": [
      {
@@ -18342,6 +18678,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "VZW Vrij Lokers Onderwijs voorjouw Toekomst",
     "website": "www.vlot.be",
+    "telefoon": "09 348 61 39",
+    "email": "creo@vlot.be",
     "adres": "H.-Hartlaan 1_A, 9160 Lokeren",
     "aanbod": [
      {
@@ -18406,6 +18744,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "VZW Vrij Lokers Onderwijs voorjouw Toekomst",
     "website": "",
+    "telefoon": "09 348 61 39",
+    "email": "creo@vlot.be",
     "adres": "H.-Hartlaan 1_A, 9160 Lokeren",
     "aanbod": [
      {
@@ -18473,6 +18813,8 @@
     "net": "Gemeenschapsonderwijs",
     "bestuur": "GO! scholengroep Het leercollectief",
     "website": "www.technischatheneumlokeren.be",
+    "telefoon": "09 348 22 12",
+    "email": "info@gotalok.be",
     "adres": "Magnolialaan 21, 9160 Lokeren",
     "aanbod": [
      {
@@ -18822,6 +19164,8 @@
     "net": "Gemeenschapsonderwijs",
     "bestuur": "GO! scholengroep Het leercollectief",
     "website": "www.atheneumlokeren.be",
+    "telefoon": "09 348 18 18",
+    "email": "info@atheneumlokeren.be",
     "adres": "Magnolialaan 2, 9160 Lokeren",
     "aanbod": [
      {
@@ -19000,6 +19344,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "VZW Vrij Lokers Onderwijs voorjouw Toekomst",
     "website": "www.vlot.be",
+    "telefoon": "09 340 57 70",
+    "email": "sint-lodewijk@vlot.be",
     "adres": "Markt 48, 9160 Lokeren",
     "aanbod": [
      {
@@ -19136,6 +19482,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "VZW Vrij Lokers Onderwijs voorjouw Toekomst",
     "website": "www.vlot.be",
+    "telefoon": "09 349 07 06",
+    "email": "info@vlot.be",
     "adres": "Markt 48, 9160 Lokeren",
     "aanbod": [
      {
@@ -19182,6 +19530,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "VZW Vrij Lokers Onderwijs voorjouw Toekomst",
     "website": "www.vlot.be",
+    "telefoon": "09 349 07 06",
+    "email": "info@vlot.be",
     "adres": "Markt 48, 9160 Lokeren",
     "aanbod": [
      {
@@ -19273,6 +19623,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "VZW Vrij Lokers Onderwijs voorjouw Toekomst",
     "website": "www.vlot.be",
+    "telefoon": "09 346 81 50",
+    "email": "sint-teresia@vlot.be",
     "adres": "Prosper Thuysbaertlaan 1, 9160 Lokeren",
     "aanbod": [
      {
@@ -19292,6 +19644,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "VZW Vrij Lokers Onderwijs voorjouw Toekomst",
     "website": "www.vlot.be",
+    "telefoon": "09 348 17 09",
+    "email": "sint-laurentius@vlot.be",
     "adres": "Prosper Thuysbaertlaan 1, 9160 Lokeren",
     "aanbod": [
      {
@@ -19491,6 +19845,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "VZW Vrij Lokers Onderwijs voorjouw Toekomst",
     "website": "www.vlot.be",
+    "telefoon": "09 340 57 70",
+    "email": "sint-lodewijk@vlot.be",
     "adres": "Prosper Thuysbaertlaan 1, 9160 Lokeren",
     "aanbod": [
      {
@@ -19528,6 +19884,8 @@
     "net": "Gemeenschapsonderwijs",
     "bestuur": "GO! scholengroep Het leercollectief",
     "website": "www.moerbei.be",
+    "telefoon": "09 346 82 04",
+    "email": "info@moerbei.be",
     "adres": "Hospicestraat 16, 9180 Lokeren",
     "aanbod": [
      {
@@ -19667,6 +20025,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "Broederscholen Hiëronymus VZW",
     "website": "www.bio.broeders.be",
+    "telefoon": "03 760 10 90",
+    "email": "info@bio.broeders.be",
     "adres": "Nieuwstraat 17, 9190 Stekene",
     "aanbod": [
      {
@@ -19707,6 +20067,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "Broederscholen Hiëronymus VZW",
     "website": "www.humaniora.broeders.be",
+    "telefoon": "03 780 92 00",
+    "email": "info@humaniora.broeders.be",
     "adres": "Nieuwstraat 17, 9190 Stekene",
     "aanbod": [
      {
@@ -19798,6 +20160,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "Broederscholen Hiëronymus VZW",
     "website": "www.handel.broeders.be",
+    "telefoon": "03 780 92 20",
+    "email": "info@handel.broeders.be",
     "adres": "Nieuwstraat 17, 9190 Stekene",
     "aanbod": [
      {
@@ -19820,6 +20184,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "Broederscholen Hiëronymus VZW",
     "website": "www.stekene.broeders.be",
+    "telefoon": "03 779 67 94",
+    "email": "directeur@stekene.broeders.be",
     "adres": "Nieuwstraat 17, 9190 Stekene",
     "aanbod": [
      {
@@ -19875,6 +20241,8 @@
     "net": "Gemeenschapsonderwijs",
     "bestuur": "GO! scholengroep Het leercollectief",
     "website": "www.go-talent.be",
+    "telefoon": "052 25 88 10",
+    "email": "info@go-talent.be",
     "adres": "Begijnhoflaan 1, 9200 Dendermonde",
     "aanbod": [
      {
@@ -20389,6 +20757,8 @@
     "net": "Gemeenschapsonderwijs",
     "bestuur": "GO! scholengroep Het leercollectief",
     "website": "https://go-mad.be/",
+    "telefoon": "052 25 17 76",
+    "email": "info@go-mad.be",
     "adres": "Begijnhoflaan 1, 9200 Dendermonde",
     "aanbod": [
      {
@@ -20474,6 +20844,8 @@
     "net": "Gemeenschapsonderwijs",
     "bestuur": "GO! scholengroep Het leercollectief",
     "website": "www.go-talent.be",
+    "telefoon": "052 25 88 10",
+    "email": "info@go-talent.be",
     "adres": "Brusselsestraat 97, 9200 Dendermonde",
     "aanbod": [
      {
@@ -20499,6 +20871,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "VZW Óscar Romeroscholen",
     "website": "www.romerocollege.be",
+    "telefoon": "052 21 17 96",
+    "email": "algemene.directie@romerocollege.be",
     "adres": "Emiel Van Winckellaan 6, 9200 Dendermonde",
     "aanbod": [
      {
@@ -20716,6 +21090,8 @@
     "net": "Gemeenschapsonderwijs",
     "bestuur": "GO! scholengroep Het leercollectief",
     "website": "www.go-talent.be",
+    "telefoon": "052 25 88 10",
+    "email": "info@go-talent.be",
     "adres": "Galeidestraat 30, 9200 Dendermonde",
     "aanbod": [
      {
@@ -20744,6 +21120,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "VZW Óscar Romeroscholen",
     "website": "www.romerocollege.be",
+    "telefoon": "052 25 88 79",
+    "email": "algemene.directie@romerocollege.be",
     "adres": "Kerkstraat 60, 9200 Dendermonde",
     "aanbod": [
      {
@@ -20781,6 +21159,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "VZW Óscar Romeroscholen",
     "website": "www.romerocollege.be",
+    "telefoon": "052 21 17 96",
+    "email": "algemene.directie@romerocollege.be",
     "adres": "Kerkstraat 60, 9200 Dendermonde",
     "aanbod": [
      {
@@ -20797,6 +21177,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "VZW Óscar Romeroscholen",
     "website": "www.romerocollege.be",
+    "telefoon": "052 25 88 79",
+    "email": "algemene.directie@romerocollege.be",
     "adres": "Kerkstraat 60, 9200 Dendermonde",
     "aanbod": [
      {
@@ -20879,6 +21261,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "VZW Óscar Romeroscholen",
     "website": "www.romerocollege.be",
+    "telefoon": "052 25 88 79",
+    "email": "algemene.directie@romerocollege.be",
     "adres": "Kerkstraat 60, 9200 Dendermonde",
     "aanbod": [
      {
@@ -20943,6 +21327,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "VZW Óscar Romeroscholen",
     "website": "www.romerocollege.be",
+    "telefoon": "052 25 88 79",
+    "email": "algemene.directie@romerocollege.be",
     "adres": "Kerkstraat 95, 9200 Dendermonde",
     "aanbod": [
      {
@@ -21160,6 +21546,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "VZW Óscar Romeroscholen",
     "website": "www.romerocollege.be",
+    "telefoon": "052 25 88 79",
+    "email": "algemene.directie@romerocollege.be",
     "adres": "Kerkstraat 95_97 bus 99, 9200 Dendermonde",
     "aanbod": [
      {
@@ -21206,6 +21594,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "VZW Óscar Romeroscholen",
     "website": "www.romerocollege.be",
+    "telefoon": "052 25 88 79",
+    "email": "algemene.directie@romerocollege.be",
     "adres": "Kerkstraat 95_97 bus 99, 9200 Dendermonde",
     "aanbod": [
      {
@@ -21261,6 +21651,8 @@
     "net": "Gemeenschapsonderwijs",
     "bestuur": "GO! scholengroep Het leercollectief",
     "website": "https://go-mad.be/",
+    "telefoon": "052 25 17 76",
+    "email": "info@go-mad.be",
     "adres": "Nieuw Kwartier 2, 9200 Dendermonde",
     "aanbod": [
      {
@@ -21370,6 +21762,8 @@
     "net": "Gemeenschapsonderwijs",
     "bestuur": "GO! scholengroep Het leercollectief",
     "website": "www.kad.be",
+    "telefoon": "052 25 17 86",
+    "email": "secretariaat.ka@kad.be",
     "adres": "Zuidlaan 3, 9200 Dendermonde",
     "aanbod": [
      {
@@ -21524,6 +21918,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "VZW Katholiek Onderwijs Hamme",
     "website": "www.kohamme.be",
+    "telefoon": "052 47 92 84",
+    "email": "sintjozef@kohamme.be",
     "adres": "Jagerstraat 5, 9220 Hamme",
     "aanbod": [
      {
@@ -21729,6 +22125,8 @@
     "net": "Gemeenschapsonderwijs",
     "bestuur": "GO! scholengroep Het leercollectief",
     "website": "www.gomira.be",
+    "telefoon": "052 49 99 70",
+    "email": "info@gomira.be",
     "adres": "Loystraat 70, 9220 Hamme",
     "aanbod": [
      {
@@ -21901,6 +22299,8 @@
     "net": "Officieel gesubsidieerd onderwijs",
     "bestuur": "Provinciebestuur Oost-Vlaanderen",
     "website": "www.richtpunthamme.be",
+    "telefoon": "052 47 83 54",
+    "email": "info@richtpunthamme.be",
     "adres": "Meulenbroekstraat 15, 9220 Hamme",
     "aanbod": [
      {
@@ -22130,6 +22530,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "VZW Katholiek Onderwijs Hamme",
     "website": "www.kohamme.be",
+    "telefoon": "052 47 92 84",
+    "email": "sintjozef@kohamme.be",
     "adres": "Slangstraat 12, 9220 Hamme",
     "aanbod": [
      {
@@ -22182,6 +22584,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "VZW Katholiek Onderwijs Hamme",
     "website": "www.kohamme.be",
+    "telefoon": "052 47 24 81",
+    "email": "heilighart@kohamme.be",
     "adres": "Slangstraat 12, 9220 Hamme",
     "aanbod": [
      {
@@ -22255,6 +22659,8 @@
     "net": "Gemeenschapsonderwijs",
     "bestuur": "GO! scholengroep Het leercollectief",
     "website": "www.go-talent.be",
+    "telefoon": "052 25 88 10",
+    "email": "info@go-talent.be",
     "adres": "Alois De Beulelaan 17, 9240 Zele",
     "aanbod": [
      {
@@ -22445,6 +22851,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "VZW Vrij Onderwijs Zele",
     "website": "www.olvi-piusx.be",
+    "telefoon": "052 44 41 99",
+    "email": "info_OLVI-PIUSX@kaozele.be",
     "adres": "Collegestraat 1, 9240 Zele",
     "aanbod": [
      {
@@ -22635,6 +23043,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "VZW Vrij Onderwijs Zele",
     "website": "https://www.olvi-piusx.be",
+    "telefoon": "052 44 41 99",
+    "email": "info_OLVI-PIUSX@kaozele.be",
     "adres": "Collegestraat 1, 9240 Zele",
     "aanbod": [
      {
@@ -22666,6 +23076,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "VZW Vrij Onderwijs Zele",
     "website": "www.olvi-piusx.be",
+    "telefoon": "052 44 92 26",
+    "email": "info_OLVI-PIUSX@kaozele.be",
     "adres": "Kapellestraat 7, 9240 Zele",
     "aanbod": [
      {
@@ -22844,6 +23256,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "VZW Vrij Onderwijs Zele",
     "website": "www.olvi-piusx.be",
+    "telefoon": "052 44 92 26",
+    "email": "info_OLVI-PIUSX@kaozele.be",
     "adres": "Kloosterstraat 27, 9240 Zele",
     "aanbod": [
      {
@@ -22908,6 +23322,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "VZW Óscar Romeroscholen",
     "website": "www.sivibu.be",
+    "telefoon": "052 33 30 09",
+    "email": "directie@sivibu.be",
     "adres": "Collegestraat 5, 9255 Buggenhout",
     "aanbod": [
      {
@@ -22981,6 +23397,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "VZW Óscar Romeroscholen",
     "website": "www.sivibu.be",
+    "telefoon": "052 33 30 09",
+    "email": "directie@sivibu.be",
     "adres": "Kloosterstraat 15, 9255 Buggenhout",
     "aanbod": [
      {
@@ -23078,6 +23496,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "VZW Middelbare Steinerschool Vlaanderen",
     "website": "https://www.msv-vzw.be",
+    "telefoon": "09 235 78 10",
+    "email": "info@msv-vzw.be",
     "adres": "Affligemdreef 71, 9300 Aalst",
     "aanbod": [
      {
@@ -23118,6 +23538,8 @@
     "net": "Gemeenschapsonderwijs",
     "bestuur": "GO! scholengroep Stroom",
     "website": "www.vesaliusinstituut.be",
+    "telefoon": "059 70 68 70",
+    "email": "lodewijck.jonckheere@vesaliusinstituut.be",
     "adres": "Arbeidstraat 14, 9300 Aalst",
     "aanbod": [
      {
@@ -23155,6 +23577,8 @@
     "net": "Officieel gesubsidieerd onderwijs",
     "bestuur": "Stadsbestuur van Aalst",
     "website": "https://academiebeeldendekunsten.aalst.be/",
+    "telefoon": "053 72 39 65",
+    "email": "els.talloen@aalst.be",
     "adres": "Capucienenlaan 8, 9300 Aalst",
     "aanbod": [
      {
@@ -23255,6 +23679,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "Vrij Onderwijs Regio Aalst vzw",
     "website": "www.smi-aalst.be",
+    "telefoon": "053 76 95 70",
+    "email": "kristof.dossche@smi-aalst.be",
     "adres": "Esplanadeplein 6, 9300 Aalst",
     "aanbod": [
      {
@@ -23340,6 +23766,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "Vrij Onderwijs Regio Aalst vzw",
     "website": "www.smi-aalst.be",
+    "telefoon": "053 76 95 70",
+    "email": "info@smi-aalst.be",
     "adres": "Esplanadeplein 6, 9300 Aalst",
     "aanbod": [
      {
@@ -23485,6 +23913,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "Vrij Onderwijs Regio Aalst vzw",
     "website": "www.smi.aalst.be",
+    "telefoon": "053 76 95 70",
+    "email": "info@smi-aalst.be",
     "adres": "Esplanadeplein 6, 9300 Aalst",
     "aanbod": [
      {
@@ -23522,6 +23952,8 @@
     "net": "Gemeenschapsonderwijs",
     "bestuur": "GO! scholengroep Dender",
     "website": "www.atheneumaalst.be",
+    "telefoon": "053 46 64 00",
+    "email": "directie@atheneumaalst.be",
     "adres": "Graanmarkt 14, 9300 Aalst",
     "aanbod": [
      {
@@ -23682,6 +24114,8 @@
     "net": "Gemeenschapsonderwijs",
     "bestuur": "GO! scholengroep Dender",
     "website": "www.ibsodehorizon.be",
+    "telefoon": "053 46 67 00",
+    "email": "info@ibsodehorizon.be",
     "adres": "Graanmarkt 14, 9300 Aalst",
     "aanbod": [
      {
@@ -23781,6 +24215,8 @@
     "net": "Gemeenschapsonderwijs",
     "bestuur": "GO! scholengroep Dender",
     "website": "www.handelsschoolaalst.be/",
+    "telefoon": "053 46 72 00",
+    "email": "directie@handelsschoolaalst.be",
     "adres": "Keizersplein 19, 9300 Aalst",
     "aanbod": [
      {
@@ -23899,6 +24335,8 @@
     "net": "Gemeenschapsonderwijs",
     "bestuur": "GO! scholengroep Dender",
     "website": "www.ibsodehorizon.be",
+    "telefoon": "053 46 67 00",
+    "email": "info@ibsodehorizon.be",
     "adres": "Keizersplein 19, 9300 Aalst",
     "aanbod": [
      {
@@ -23938,6 +24376,8 @@
     "net": "Gemeenschapsonderwijs",
     "bestuur": "GO! scholengroep Dender",
     "website": "www.gomia.be",
+    "telefoon": "053 46 70 00",
+    "email": "info@gomia.be",
     "adres": "Ledebaan 101, 9300 Aalst",
     "aanbod": [
      {
@@ -24020,6 +24460,8 @@
     "net": "Gemeenschapsonderwijs",
     "bestuur": "GO! scholengroep Dender",
     "website": "www.technigo.be",
+    "telefoon": "053 46 70 00",
+    "email": "bart.vancauter@technigo.be",
     "adres": "Ledebaan 101, 9300 Aalst",
     "aanbod": [
      {
@@ -24228,6 +24670,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "Vrij Onderwijs Regio Aalst vzw",
     "website": "www.sai-aalst.be",
+    "telefoon": "053 70 33 79",
+    "email": "directie@sai-aalst.be",
     "adres": "Leopoldlaan 9, 9300 Aalst",
     "aanbod": [
      {
@@ -24388,6 +24832,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "vzw Priester Daens Scholengroep",
     "website": "www.dvmhumaniora.be",
+    "telefoon": "053 60 58 50",
+    "email": "freya.verlee@dvmhumaniora.be",
     "adres": "Onderwijsstraat 2, 9300 Aalst",
     "aanbod": [
      {
@@ -24530,6 +24976,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "vzw Priester Daens Scholengroep",
     "website": "www.dvmhumaniora.be",
+    "telefoon": "053 60 58 50",
+    "email": "emma.huyghe@dvmhumaniora.be",
     "adres": "Onderwijsstraat 2, 9300 Aalst",
     "aanbod": [
      {
@@ -24567,6 +25015,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "vzw Priester Daens Scholengroep",
     "website": "www.dvmhtbaalst.be",
+    "telefoon": "053 72 96 80",
+    "email": "johnnyvandekerkhove@dvmhtbaalst.be",
     "adres": "Onderwijsstraat 5, 9300 Aalst",
     "aanbod": [
      {
@@ -24802,6 +25252,8 @@
     "net": "Gemeenschapsonderwijs",
     "bestuur": "GO! scholengroep Dender",
     "website": "www.lyceum-aalst.be",
+    "telefoon": "053 46 65 00",
+    "email": "inlichtingen@lyceum-aalst.be",
     "adres": "Pontstraat 51, 9300 Aalst",
     "aanbod": [
      {
@@ -24983,6 +25435,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "VZW INIGO,ignatiaanse scholen",
     "website": "www.sjcaalst.be",
+    "telefoon": "053 79 04 41",
+    "email": "liesbeth.vandenbossche@inigo-ignatiaansescholen.be",
     "adres": "Pontstraat 7, 9300 Aalst",
     "aanbod": [
      {
@@ -25152,6 +25606,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "VZW INIGO,ignatiaanse scholen",
     "website": "www.sjcaalst.be",
+    "telefoon": "053 79 04 41",
+    "email": "amelie.verbeken@sjcaalst.be",
     "adres": "Pontstraat 7, 9300 Aalst",
     "aanbod": [
      {
@@ -25180,6 +25636,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "VZW INIGO,ignatiaanse scholen",
     "website": "www.sjcaalst.be",
+    "telefoon": "053 79 04 41",
+    "email": "mieke.jacob@sjcaalst.be",
     "adres": "Pontstraat 7, 9300 Aalst",
     "aanbod": [
      {
@@ -25217,6 +25675,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "vzw Priester Daens Scholengroep",
     "website": "www.vtiaalst.be",
+    "telefoon": "053 73 92 11",
+    "email": "info@vtiaalst.be",
     "adres": "Sinte Annalaan 198, 9300 Aalst",
     "aanbod": [
      {
@@ -25257,6 +25717,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "vzw Priester Daens Scholengroep",
     "website": "www.vtiaalst.be",
+    "telefoon": "053 73 92 51",
+    "email": "eerstegraad@vtiaalst.be",
     "adres": "Sinte Annalaan 198, 9300 Aalst",
     "aanbod": [
      {
@@ -25312,6 +25774,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "vzw Priester Daens Scholengroep",
     "website": "www.vtiaalst.be",
+    "telefoon": "053 73 92 11",
+    "email": "info@vtiaalst.be",
     "adres": "Sinte Annalaan 99_B, 9300 Aalst",
     "aanbod": [
      {
@@ -25502,6 +25966,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "vzw Priester Daens Scholengroep",
     "website": "www.vtiaalst.be",
+    "telefoon": "053 73 92 11",
+    "email": "info@vtiaalst.be",
     "adres": "Vakschoolstraat 41, 9300 Aalst",
     "aanbod": [
      {
@@ -25656,6 +26122,8 @@
     "net": "Gemeenschapsonderwijs",
     "bestuur": "GO! scholengroep Dender",
     "website": "www.devoorstad.be",
+    "telefoon": "053 46 70 00",
+    "email": "directeur@devoorstad.be",
     "adres": "Welvaartstraat 70_1, 9300 Aalst",
     "aanbod": [
      {
@@ -26035,6 +26503,8 @@
     "net": "Gemeenschapsonderwijs",
     "bestuur": "GO! scholengroep Dender",
     "website": "www.ibsodehorizon.be",
+    "telefoon": "053 46 67 00",
+    "email": "info@ibsodehorizon.be",
     "adres": "Welvaartstraat 70, 9300 Aalst",
     "aanbod": [
      {
@@ -26174,6 +26644,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "Vrij Onderwijs Regio Aalst vzw",
     "website": "www.svi-gijzegem.be",
+    "telefoon": "053 72 93 40",
+    "email": "info@svi-gijzegem.be",
     "adres": "Pachthofstraat 3, 9308 Aalst",
     "aanbod": [
      {
@@ -26376,6 +26848,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "Vrij Onderwijs Regio Aalst vzw",
     "website": "www.svi-gijzegem.be",
+    "telefoon": "053 72 93 40",
+    "email": "info@svi-gijzegem.be",
     "adres": "Pachthofstraat 3, 9308 Aalst",
     "aanbod": [
      {
@@ -26425,6 +26899,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "VZW Vrij Katholiek Onderwijs Lede",
     "website": "www.smclede.be",
+    "telefoon": "053 80 16 56",
+    "email": "info@smclede.be",
     "adres": "Bellaertstraat 11, 9340 Lede",
     "aanbod": [
      {
@@ -26585,6 +27061,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "VZW Vrij Katholiek Onderwijs Lede",
     "website": "www.smclede.be",
+    "telefoon": "053 80 16 56",
+    "email": "info@smclede.be",
     "adres": "Bellaertstraat 11, 9340 Lede",
     "aanbod": [
      {
@@ -26625,6 +27103,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "VZW Vrij Katholiek Onderwijs Lede",
     "website": "https://www.smclede.be",
+    "telefoon": "053 80 16 56",
+    "email": "info@smclede.be",
     "adres": "Bellaertstraat 11, 9340 Lede",
     "aanbod": [
      {
@@ -26674,6 +27154,8 @@
     "net": "Gemeenschapsonderwijs",
     "bestuur": "GO! scholengroep Dender",
     "website": "www.middenschool-ninove.be",
+    "telefoon": "054 33 28 96",
+    "email": "directie@middenschool-ninove.be",
     "adres": "Astridlaan 33, 9400 Ninove",
     "aanbod": [
      {
@@ -26774,6 +27256,8 @@
     "net": "Gemeenschapsonderwijs",
     "bestuur": "GO! scholengroep Dender",
     "website": "www.ibsodehorizon.be",
+    "telefoon": "053 46 67 00",
+    "email": "info@ibsodehorizon.be",
     "adres": "Astridlaan 33, 9400 Ninove",
     "aanbod": [
      {
@@ -26943,6 +27427,8 @@
     "net": "Officieel gesubsidieerd onderwijs",
     "bestuur": "Provinciebestuur Oost-Vlaanderen",
     "website": "www.richtpuntninovezottegem.be",
+    "telefoon": "09 360 19 93",
+    "email": "bart.lammens@richtpuntzottegem.be",
     "adres": "Centrumlaan 160, 9400 Ninove",
     "aanbod": [
      {
@@ -27154,6 +27640,8 @@
     "net": "Gemeenschapsonderwijs",
     "bestuur": "GO! scholengroep Dender",
     "website": "www.atheneumninove.be",
+    "telefoon": "054 33 26 93",
+    "email": "atheneum@kaninove.be",
     "adres": "Dreefstraat 31, 9400 Ninove",
     "aanbod": [
      {
@@ -27380,6 +27868,8 @@
     "net": "Gemeenschapsonderwijs",
     "bestuur": "GO! scholengroep Dender",
     "website": "www.ibsodehorizon.be",
+    "telefoon": "053 46 67 00",
+    "email": "info@ibsodehorizon.be",
     "adres": "Dreefstraat 31, 9400 Ninove",
     "aanbod": [
      {
@@ -27439,6 +27929,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "VZW Hartencollege",
     "website": "https://son.hartencollege.be",
+    "telefoon": "054 31 06 60",
+    "email": "tom.vancutsem@hartencollege.be",
     "adres": "Onderwijslaan 4, 9400 Ninove",
     "aanbod": [
      {
@@ -27734,6 +28226,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "VZW Hartencollege",
     "website": "https://hartencollege.be",
+    "telefoon": "054 31 06 60",
+    "email": "sarah.desaeger@hartencollege.be",
     "adres": "Onderwijslaan 4, 9400 Ninove",
     "aanbod": [
      {
@@ -27783,6 +28277,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "VZW Hartencollege",
     "website": "https://hartencollege.be",
+    "telefoon": "054 31 74 90",
+    "email": "els.paternoster@hartencollege.be",
     "adres": "Weggevoerdenstraat 55, 9400 Ninove",
     "aanbod": [
      {
@@ -27922,6 +28418,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "VZW Hartencollege",
     "website": "https://hartencollege.be",
+    "telefoon": "054 31 74 90",
+    "email": "liesbet.wauters@hartencollege.be",
     "adres": "Weggevoerdenstraat 55, 9400 Ninove",
     "aanbod": [
      {
@@ -27965,6 +28463,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "vzw Priester Daens Scholengroep",
     "website": "www.sintjozefmere.be",
+    "telefoon": "053 83 22 98",
+    "email": "info@sintjozefschoolmere.be",
     "adres": "Kloosterstraat 31, 9420 Erpe-Mere",
     "aanbod": [
      {
@@ -28161,6 +28661,8 @@
     "net": "Gemeenschapsonderwijs",
     "bestuur": "GO! scholengroep Dender",
     "website": "www.annefrank-atheneum.be",
+    "telefoon": "053 64 59 50",
+    "email": "welkom@annefrank-atheneum.be",
     "adres": "De Nayerstraat 11 bus A, 9470 Denderleeuw",
     "aanbod": [
      {
@@ -28225,6 +28727,8 @@
     "net": "Gemeenschapsonderwijs",
     "bestuur": "GO! scholengroep Dender",
     "website": "www.ibsodehorizon.be",
+    "telefoon": "053 46 67 00",
+    "email": "info@ibsodehorizon.be",
     "adres": "De Nayerstraat 11 bus a, 9470 Denderleeuw",
     "aanbod": [
      {
@@ -28304,6 +28808,8 @@
     "net": "Gemeenschapsonderwijs",
     "bestuur": "GO! scholengroep Dender",
     "website": "www.annefrank-atheneum.be",
+    "telefoon": "053 64 59 50",
+    "email": "welkom@annefrank-atheneum.be",
     "adres": "Kouterbaan 20, 9470 Denderleeuw",
     "aanbod": [
      {
@@ -28584,6 +29090,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "VZW Katholiek Onderwijs Denderleeuw en Welle",
     "website": "www.leonardocollege.be",
+    "telefoon": "053 66 60 29",
+    "email": "info@leonardocollege.be",
     "adres": "Middenstraat 10, 9470 Denderleeuw",
     "aanbod": [
      {
@@ -28753,6 +29261,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "VZW Katholiek Onderwijs Denderleeuw en Welle",
     "website": "www.leonardocollege.be",
+    "telefoon": "053 66 60 29",
+    "email": "info@leonardocollege.be",
     "adres": "Nieuwstraat 1, 9470 Denderleeuw",
     "aanbod": [
      {
@@ -28775,6 +29285,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "VZW Katholiek Onderwijs Denderleeuw en Welle",
     "website": "www.leonardocollege.be",
+    "telefoon": "053 66 60 29",
+    "email": "info@leonardocollege.be",
     "adres": "Nieuwstraat 1, 9470 Denderleeuw",
     "aanbod": [
      {
@@ -28818,6 +29330,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "VZW Diocesaan Schoolcomité Denderstreek-Zuid",
     "website": "www.sintcatharinacollege.be",
+    "telefoon": "054 43 30 82",
+    "email": "info@sccg.be",
     "adres": "Collegestraat 11, 9500 Geraardsbergen",
     "aanbod": [
      {
@@ -28870,6 +29384,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "VZW Diocesaan Schoolcomité Denderstreek-Zuid",
     "website": "www.sintcatharinacollege.be",
+    "telefoon": "054 41 24 37",
+    "email": "info@sccg.be",
     "adres": "Collegestraat 11, 9500 Geraardsbergen",
     "aanbod": [
      {
@@ -29045,6 +29561,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "Sint-Jozefsinstituut VZW",
     "website": "www.sint-jozefsinstituut.be",
+    "telefoon": "054 41 24 12",
+    "email": "infosec@sint-jozefsinstituut.be",
     "adres": "Karmelietenstraat 57, 9500 Geraardsbergen",
     "aanbod": [
      {
@@ -29139,6 +29657,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "VZW Diocesaan Schoolcomité Denderstreek-Zuid",
     "website": "www.sintcatharinacollege.be",
+    "telefoon": "054 43 30 82",
+    "email": "info@sccg.be",
     "adres": "Kleine Karmelietenstraat 3, 9500 Geraardsbergen",
     "aanbod": [
      {
@@ -29368,6 +29888,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "VZW Diocesaan Schoolcomité Denderstreek-Zuid",
     "website": "www.sintcatharinacollege.be",
+    "telefoon": "054 41 24 37",
+    "email": "info@sccg.be",
     "adres": "Kleine Karmelietenstraat 3, 9500 Geraardsbergen",
     "aanbod": [
      {
@@ -29405,6 +29927,8 @@
     "net": "Gemeenschapsonderwijs",
     "bestuur": "GO! scholengroep 20 Zuid-Oost-Vlaanderen",
     "website": "www.ka-geraardsbergen.be/",
+    "telefoon": "054 43 34 40",
+    "email": "info@ka-geraardsbergen.be",
     "adres": "Papiermolenstraat 103, 9500 Geraardsbergen",
     "aanbod": [
      {
@@ -29928,6 +30452,8 @@
     "net": "Gemeenschapsonderwijs",
     "bestuur": "GO! scholengroep 20 Zuid-Oost-Vlaanderen",
     "website": "www.middenschool-geraardsbergen.be",
+    "telefoon": "054 41 31 37",
+    "email": "info@middenschool-geraardsbergen.be",
     "adres": "Wegvoeringstraat 7, 9500 Geraardsbergen",
     "aanbod": [
      {
@@ -30007,6 +30533,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "Vrij Katholiek Onderwijs te Herzele",
     "website": "www.sint-paulus.be",
+    "telefoon": "053 62 33 82",
+    "email": "info@sint-paulus.be",
     "adres": "Burgemeester Matthysstraat 5, 9550 Herzele",
     "aanbod": [
      {
@@ -30167,6 +30695,8 @@
     "net": "Gemeenschapsonderwijs",
     "bestuur": "GO! scholengroep 20 Zuid-Oost-Vlaanderen",
     "website": "www.atheneum-herzele.be",
+    "telefoon": "053 62 23 71",
+    "email": "info@atheneum-herzele.be",
     "adres": "De Tramzate 9, 9550 Herzele",
     "aanbod": [
      {
@@ -30573,6 +31103,8 @@
     "net": "Gemeenschapsonderwijs",
     "bestuur": "GO! scholengroep Vlaamse Ardennen",
     "website": "www.davincicampus.be",
+    "telefoon": "055 23 06 60",
+    "email": "info@davincicampus.be",
     "adres": "Gustave Royerslaan 39, 9600 Ronse",
     "aanbod": [
      {
@@ -30916,6 +31448,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "VZW Katholiek Secundair Onderwijs Oudenaarde - KSOO",
     "website": "www.bernardustechnicum.be",
+    "telefoon": "055 31 33 63",
+    "email": "info@bernardustechnicum.be",
     "adres": "Sint-Pietersnieuwstraat 6, 9600 Ronse",
     "aanbod": [
      {
@@ -30941,6 +31475,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "VZW Katholiek Onderwijs Ronse",
     "website": "www.glorieuxsecundair.be",
+    "telefoon": "055 61 25 20",
+    "email": "directie.secundair@koronse.be",
     "adres": "Stefaan Modest Glorieuxlaan 30, 9600 Ronse",
     "aanbod": [
      {
@@ -31245,6 +31781,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "VZW Katholiek Onderwijs Ronse",
     "website": "glorieuxsecundair.be",
+    "telefoon": "055 61 25 29",
+    "email": "directie.secundair@koronse.be",
     "adres": "Stefaan Modest Glorieuxlaan 30, 9600 Ronse",
     "aanbod": [
      {
@@ -31330,6 +31868,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "Instituut voor Verpleegkunde Sint-Vincentius, te Gent",
     "website": "www.ivv-gent.be",
+    "telefoon": "09 235 82 40",
+    "email": "ivv@ivv-gent.be",
     "adres": "De Colfmackerstraat 11, 9620 Zottegem",
     "aanbod": [
      {
@@ -31367,6 +31907,8 @@
     "net": "Gemeenschapsonderwijs",
     "bestuur": "GO! scholengroep 20 Zuid-Oost-Vlaanderen",
     "website": "www.kaz.be",
+    "telefoon": "09 326 78 40",
+    "email": "contact@kaz.be",
     "adres": "Meerlaan 25, 9620 Zottegem",
     "aanbod": [
      {
@@ -31653,6 +32195,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "VZW Katholiek Secundair Onderwijs Zottegem",
     "website": "www.olvczottegem.be",
+    "telefoon": "09 360 13 07",
+    "email": "dieter.gonnissen@olvczottegem.be",
     "adres": "Ooststraat 44, 9620 Zottegem",
     "aanbod": [
      {
@@ -31780,6 +32324,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "VZW Katholiek Secundair Onderwijs Zottegem",
     "website": "www.olvczottegem.be",
+    "telefoon": "09 360 13 07",
+    "email": "dieter.gonnissen@olvczottegem.be",
     "adres": "Parkstraat 2, 9620 Zottegem",
     "aanbod": [
      {
@@ -31796,6 +32342,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "VZW Katholiek Secundair Onderwijs Zottegem",
     "website": "www.olvczottegem.be",
+    "telefoon": "09 360 12 29",
+    "email": "christel.goossens@olvczottegem.be",
     "adres": "Parkstraat 2, 9620 Zottegem",
     "aanbod": [
      {
@@ -31821,6 +32369,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "VZW Katholiek Secundair Onderwijs Zottegem",
     "website": "www.olvczottegem.be",
+    "telefoon": "09 361 31 32",
+    "email": "grotenberge-info@olvczottegem.be",
     "adres": "Parkstraat 2, 9620 Zottegem",
     "aanbod": [
      {
@@ -31900,6 +32450,8 @@
     "net": "Officieel gesubsidieerd onderwijs",
     "bestuur": "Provinciebestuur Oost-Vlaanderen",
     "website": "www.richtpuntninovezottegem.be",
+    "telefoon": "09 360 19 93",
+    "email": "bart.lammens@richtpuntzottegem.be",
     "adres": "Sabina van Beierenlaan 35, 9620 Zottegem",
     "aanbod": [
      {
@@ -32129,6 +32681,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "VZW Katholiek Secundair Onderwijs Zottegem",
     "website": "www.olvczottegem.be",
+    "telefoon": "09 360 12 29",
+    "email": "christel.goossens@olvczottegem.be",
     "adres": "Zavel 19, 9620 Zottegem",
     "aanbod": [
      {
@@ -32382,6 +32936,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "Vrij Katholiek Onderwijs Lilare",
     "website": "www.stellamatutina.be",
+    "telefoon": "055 42 30 67",
+    "email": "Katleen.detemmerman@stellamatutina.be",
     "adres": "Groenstraat 15, 9660 Brakel",
     "aanbod": [
      {
@@ -32587,6 +33143,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "Vrij Katholiek Onderwijs Lilare",
     "website": "www.sintfranciscusinstituut.be",
+    "telefoon": "055 42 60 16",
+    "email": "nicolaas.roose@sintfranciscusinstituut.be",
     "adres": "Kasteeldreef 2, 9660 Brakel",
     "aanbod": [
      {
@@ -32696,6 +33254,8 @@
     "net": "Gemeenschapsonderwijs",
     "bestuur": "GO! scholengroep 20 Zuid-Oost-Vlaanderen",
     "website": "www.atheneum-brakel.be",
+    "telefoon": "055 42 34 08",
+    "email": "info@atheneum-brakel.be",
     "adres": "Kasteelstraat 32, 9660 Brakel",
     "aanbod": [
      {
@@ -32934,6 +33494,8 @@
     "net": "Gemeenschapsonderwijs",
     "bestuur": "GO! scholengroep 20 Zuid-Oost-Vlaanderen",
     "website": "www.kaz.be",
+    "telefoon": "09 326 78 40",
+    "email": "contact@kaz.be",
     "adres": "Kasteelstraat 32, 9660 Brakel",
     "aanbod": [
      {
@@ -32953,6 +33515,8 @@
     "net": "Gemeenschapsonderwijs",
     "bestuur": "GO! scholengroep 20 Zuid-Oost-Vlaanderen",
     "website": "www.atheneum-herzele.be",
+    "telefoon": "053 62 23 71",
+    "email": "info@atheneum-herzele.be",
     "adres": "Kasteelstraat 32, 9660 Brakel",
     "aanbod": [
      {
@@ -32990,6 +33554,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "VZW Evara",
     "website": "www.visobrakel.be",
+    "telefoon": "055 42 23 20",
+    "email": "viso@clusterwijs.be",
     "adres": "Kasteelstraat 44, 9660 Brakel",
     "aanbod": [
      {
@@ -33126,6 +33692,8 @@
     "net": "Gemeenschapsonderwijs",
     "bestuur": "GO! scholengroep Vlaamse Ardennen",
     "website": "www.go-atheneumoudenaarde.be",
+    "telefoon": "055 31 11 34",
+    "email": "info@go-atheneumoudenaarde.be",
     "adres": "Bergstraat 36, 9700 Oudenaarde",
     "aanbod": [
      {
@@ -33541,6 +34109,8 @@
     "net": "Gemeenschapsonderwijs",
     "bestuur": "GO! scholengroep Vlaamse Ardennen",
     "website": "www.go-atheneumoudenaarde.be",
+    "telefoon": "055 31 11 34",
+    "email": "info@go-atheneumoudenaarde.be",
     "adres": "Fortstraat 47, 9700 Oudenaarde",
     "aanbod": [
      {
@@ -33827,6 +34397,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "VZW Katholiek Secundair Onderwijs Oudenaarde - KSOO",
     "website": "www.bernardustechnicum.be",
+    "telefoon": "055 31 33 63",
+    "email": "info@bernardustechnicum.be",
     "adres": "Gelukstede 2, 9700 Oudenaarde",
     "aanbod": [
      {
@@ -33861,6 +34433,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "VZW Katholiek Secundair Onderwijs Oudenaarde - KSOO",
     "website": "www.bernardusdriesprong.be",
+    "telefoon": "055 30 19 99, 0497 69 86 01",
+    "email": "frank.pieters@bernardusscholen.be",
     "adres": "Gelukstede 2, 9700 Oudenaarde",
     "aanbod": [
      {
@@ -33886,6 +34460,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "Instituut voor Verpleegkunde Sint-Vincentius, te Gent",
     "website": "www.ivv-gent.be",
+    "telefoon": "09 235 82 40",
+    "email": "ivv@ivv-gent.be",
     "adres": "Hoogstraat 20, 9700 Oudenaarde",
     "aanbod": [
      {
@@ -33923,6 +34499,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "VZW Katholiek Secundair Onderwijs Oudenaarde - KSOO",
     "website": "www.bernardustechnicum.be",
+    "telefoon": "055 31 33 63",
+    "email": "info@bernardustechnicum.be",
     "adres": "Hoogstraat 30, 9700 Oudenaarde",
     "aanbod": [
      {
@@ -34098,6 +34676,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "VZW Katholiek Secundair Onderwijs Oudenaarde - KSOO",
     "website": "",
+    "telefoon": "055 23 22 10",
+    "email": "info@bernardustechnicum.be",
     "adres": "Hoogstraat 30, 9700 Oudenaarde",
     "aanbod": [
      {
@@ -34294,6 +34874,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "VZW Katholiek Secundair Onderwijs Oudenaarde - KSOO",
     "website": "www.bernardustechnicum.be",
+    "telefoon": "055 33 46 80",
+    "email": "info@bernardustechnicum.be",
     "adres": "Hoogstraat 30, 9700 Oudenaarde",
     "aanbod": [
      {
@@ -34442,6 +35024,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "VZW Katholiek Secundair Onderwijs Oudenaarde - KSOO",
     "website": "www.bernarduscollege.be/",
+    "telefoon": "055 33 46 70",
+    "email": "info@bernarduscollege.be",
     "adres": "Hoogstraat 30, 9700 Oudenaarde",
     "aanbod": [
      {
@@ -34524,6 +35108,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "VZW Katholiek Secundair Onderwijs Oudenaarde - KSOO",
     "website": "www.bernarduscollege.be/",
+    "telefoon": "055 33 46 70",
+    "email": "info@bernarduscollege.be",
     "adres": "Hoogstraat 30, 9700 Oudenaarde",
     "aanbod": [
      {
@@ -34669,6 +35255,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "VZW Katholiek Secundair Onderwijs Oudenaarde - KSOO",
     "website": "www.bernarduscollege.be",
+    "telefoon": "055 33 46 70",
+    "email": "info@bernarduscollege.be",
     "adres": "Hoogstraat 30, 9700 Oudenaarde",
     "aanbod": [
      {
@@ -34706,6 +35294,8 @@
     "net": "Officieel gesubsidieerd onderwijs",
     "bestuur": "Provinciebestuur Oost-Vlaanderen",
     "website": "www.richtpuntoudenaarde.be",
+    "telefoon": "055 31 32 87",
+    "email": "info@richtpuntoudenaarde.be",
     "adres": "Minderbroedersstraat 6, 9700 Oudenaarde",
     "aanbod": [
      {
@@ -34800,6 +35390,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "VZW Leiepoort Deinze",
     "website": "www.leiepoort.be",
+    "telefoon": "09 381 51 21",
+    "email": "sinttheresia@leiepoort.be",
     "adres": "Gentpoortstraat 37, 9800 Deinze",
     "aanbod": [
      {
@@ -35047,6 +35639,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "VZW Leiepoort Deinze",
     "website": "www.leiepoort.be",
+    "telefoon": "09 386 13 76",
+    "email": "koen.vermeulen@leiepoort.be",
     "adres": "Guido Gezellelaan 105, 9800 Deinze",
     "aanbod": [
      {
@@ -35192,6 +35786,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "VZW Leiepoort Deinze",
     "website": "www.leiepoort.be",
+    "telefoon": "09 386 13 76",
+    "email": "sinthendrik@leiepoort.be",
     "adres": "Guido Gezellelaan 105, 9800 Deinze",
     "aanbod": [
      {
@@ -35229,6 +35825,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "VZW Vrij Technisch Instituut",
     "website": "www.vtideinze.be",
+    "telefoon": "09 381 60 80",
+    "email": "info@vtideinze.be",
     "adres": "Leon Declercqstraat 1, 9800 Deinze",
     "aanbod": [
      {
@@ -35458,6 +36056,8 @@
     "net": "Gemeenschapsonderwijs",
     "bestuur": "GO!Scholengroep 24K",
     "website": "www.erasmusatheneum.be",
+    "telefoon": "09 381 56 00",
+    "email": "directie@erasmusatheneum.be",
     "adres": "Peter Benoitlaan 10, 9800 Deinze",
     "aanbod": [
      {
@@ -35630,6 +36230,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "VZW Leiepoort Deinze",
     "website": "www.leiepoort.be",
+    "telefoon": "09 381 63 63",
+    "email": "sintvincentius@leiepoort.be",
     "adres": "Peter Benoitlaan 40, 9800 Deinze",
     "aanbod": [
      {
@@ -35793,6 +36395,8 @@
     "net": "Gemeenschapsonderwijs",
     "bestuur": "GO!Scholengroep 24K",
     "website": "www.erasmusatheneum.be",
+    "telefoon": "09 381 56 00",
+    "email": "directie@erasmusatheneum.be",
     "adres": "Volhardingslaan 11, 9800 Deinze",
     "aanbod": [
      {
@@ -36025,6 +36629,8 @@
     "net": "Gemeenschapsonderwijs",
     "bestuur": "GO!Scholengroep 24K",
     "website": "www.erasmusatheneum.be",
+    "telefoon": "09 381 56 00",
+    "email": "directie@erasmusatheneum.be",
     "adres": "Polderdreef 42, 9840 Nazareth-De Pinte",
     "aanbod": [
      {
@@ -36044,6 +36650,8 @@
     "net": "Gemeenschapsonderwijs",
     "bestuur": "GO!Scholengroep 24K",
     "website": "www.erasmusdepinte.be",
+    "telefoon": "09 321 21 70",
+    "email": "directie@erasmusdepinte.be",
     "adres": "Polderdreef 42, 9840 Nazareth-De Pinte",
     "aanbod": [
      {
@@ -36225,6 +36833,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "VZW Evara",
     "website": "www.op-weg.net",
+    "telefoon": "09 398 78 00",
+    "email": "emmaussecundair@op-weg.net",
     "adres": "Sint-Gerolflaan 20, 9880 Aalter",
     "aanbod": [
      {
@@ -36253,6 +36863,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "VZW Evara",
     "website": "https://emmausbovenbouw.op-weg.be/",
+    "telefoon": "09 398 78 00",
+    "email": "emmaussecundair@op-weg.net",
     "adres": "Sint-Gerolflaan 20, 9880 Aalter",
     "aanbod": [
      {
@@ -36518,6 +37130,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "VZW Evara",
     "website": "https://sintgregorius.be/buso",
+    "telefoon": "09 210 01 50, 0478 84 20 66",
+    "email": "info@sintgregorius.be",
     "adres": "Sint-Gerolflaan 20, 9880 Aalter",
     "aanbod": [
      {
@@ -36557,6 +37171,8 @@
     "net": "Gemeenschapsonderwijs",
     "bestuur": "GO!Scholengroep 24K",
     "website": "www.groenhoveschool.be",
+    "telefoon": "056 60 73 74",
+    "email": "info.cat@groenhoveschool.be",
     "adres": "Stationsstraat 128, 9880 Aalter",
     "aanbod": [
      {
@@ -36585,6 +37201,8 @@
     "net": "Gemeenschapsonderwijs",
     "bestuur": "GO!Scholengroep 24K",
     "website": "www.campusdebeuk.be",
+    "telefoon": "09 374 12 15",
+    "email": "info@campusdebeuk.be",
     "adres": "Stationsstraat 128, 9880 Aalter",
     "aanbod": [
      {
@@ -36745,6 +37363,8 @@
     "net": "Gemeenschapsonderwijs",
     "bestuur": "GO! Scholengroep Dynamiek",
     "website": "www.campusdetandem.be",
+    "telefoon": "09 377 13 66",
+    "email": "info@atheneumdetandem.be",
     "adres": "Eikelstraat 41, 9900 Eeklo",
     "aanbod": [
      {
@@ -37019,6 +37639,8 @@
     "net": "Officieel gesubsidieerd onderwijs",
     "bestuur": "Provinciebestuur Oost-Vlaanderen",
     "website": "www.richtpunteeklo.be",
+    "telefoon": "09 370 73 73",
+    "email": "info@richtpunteeklo.be",
     "adres": "Roze 131, 9900 Eeklo",
     "aanbod": [
      {
@@ -37599,6 +38221,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "VZW College ten Doorn",
     "website": "www.collegetendoorn.be",
+    "telefoon": "09 377 13 26",
+    "email": "info@coltd.be",
     "adres": "Zuidmoerstraat 125, 9900 Eeklo",
     "aanbod": [
      {
@@ -37669,6 +38293,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "VZW College ten Doorn",
     "website": "www.collegetendoorn.be",
+    "telefoon": "09 377 13 26",
+    "email": "info@coltd.be",
     "adres": "Zuidmoerstraat 125, 9900 Eeklo",
     "aanbod": [
      {
@@ -37844,6 +38470,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "VZW College ten Doorn",
     "website": "www.collegetendoorn.be",
+    "telefoon": "09 377 13 26",
+    "email": "info@coltd.be",
     "adres": "Zuidmoerstraat 125, 9900 Eeklo",
     "aanbod": [
      {
@@ -38142,6 +38770,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "Instituut voor Verpleegkunde Sint-Vincentius, te Gent",
     "website": "www.ivv-gent.be",
+    "telefoon": "09 235 82 40",
+    "email": "ivv@ivv-gent.be",
     "adres": "Zuidmoerstraat 125, 9900 Eeklo",
     "aanbod": [
      {
@@ -38170,6 +38800,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "VZW College ten Doorn",
     "website": "www.collegetendoorn.be",
+    "telefoon": "09 377 13 26",
+    "email": "info@coltd.be",
     "adres": "Zuidmoerstraat 125, 9900 Eeklo",
     "aanbod": [
      {
@@ -38306,6 +38938,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "VZW Vrij Katholiek Secundair Onderwijs Lievegem",
     "website": "www.campuslievegem.be",
+    "telefoon": "09 372 77 18",
+    "email": "sl@svsl.be",
     "adres": "Dreef 47, 9930 Lievegem",
     "aanbod": [
      {
@@ -38460,6 +39094,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "VZW Vrij Katholiek Secundair Onderwijs Lievegem",
     "website": "www.campuslievegem.be",
+    "telefoon": "09 372 78 38",
+    "email": "sv@svsl.be",
     "adres": "Luitenant Dobbelaerestraat 16, 9930 Lievegem",
     "aanbod": [
      {
@@ -38545,6 +39181,8 @@
     "net": "Gemeenschapsonderwijs",
     "bestuur": "GO! scholengroep Gent",
     "website": "www.einsteinatheneum.be",
+    "telefoon": "09 394 30 70",
+    "email": "onthaal@einsteinatheneum.be",
     "adres": "Hofbilkstraat 21, 9940 Evergem",
     "aanbod": [
      {
@@ -38672,6 +39310,8 @@
     "net": "Gemeenschapsonderwijs",
     "bestuur": "GO! scholengroep Gent",
     "website": "www.muda.be",
+    "telefoon": "09 394 30 80",
+    "email": "koen.bollaert@muda.be",
     "adres": "Hofbilkstraat 21, 9940 Evergem",
     "aanbod": [
      {
@@ -38718,6 +39358,8 @@
     "net": "Gemeenschapsonderwijs",
     "bestuur": "GO! scholengroep Gent",
     "website": "groenkouter.tectura.be",
+    "telefoon": "09 228 42 22",
+    "email": "inlichtingen@groenkouter.tectura.be",
     "adres": "Hofbilkstraat 21, 9940 Evergem",
     "aanbod": [
      {
@@ -38746,6 +39388,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "VZW Vrij Katholiek Onderwijs Maldegem",
     "website": "www.maricolen.be",
+    "telefoon": "050 72 98 82",
+    "email": "bovenbouw@maricolen.be",
     "adres": "Marktstraat 15, 9990 Maldegem",
     "aanbod": [
      {
@@ -38909,6 +39553,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "VZW Vrij Katholiek Onderwijs Maldegem",
     "website": "www.maricolen.be",
+    "telefoon": "050 72 98 80",
+    "email": "middenschool@maricolen.be",
     "adres": "Marktstraat 15, 9990 Maldegem",
     "aanbod": [
      {
@@ -38970,6 +39616,8 @@
     "net": "Gemeenschapsonderwijs",
     "bestuur": "GO! Scholengroep Dynamiek",
     "website": "www.couma.be",
+    "telefoon": "050 72 88 80",
+    "email": "info@couma.be",
     "adres": "Mevrouw Courtmanslaan 80, 9990 Maldegem",
     "aanbod": [
      {
@@ -39034,6 +39682,8 @@
     "net": "Gemeenschapsonderwijs",
     "bestuur": "GO! Scholengroep Dynamiek",
     "website": "www.couma.be",
+    "telefoon": "050 72 88 80",
+    "email": "info@couma.be",
     "adres": "Mevrouw Courtmanslaan 80, 9990 Maldegem",
     "aanbod": [
      {
@@ -39233,6 +39883,8 @@
     "net": "Officieel gesubsidieerd onderwijs",
     "bestuur": "Stad Gent",
     "website": "https://scholen.stad.gent/clw",
+    "telefoon": "09 323 51 00",
+    "email": "duo.onthaalwm@onderwijs.gent.be",
     "adres": "Oudenaardsesteenweg 74, 9000 Gent",
     "aanbod": [
      {
@@ -39288,6 +39940,8 @@
     "net": "Officieel gesubsidieerd onderwijs",
     "bestuur": "Stad Gent",
     "website": "https://scholen.stad.gent/clw",
+    "telefoon": "09 323 51 00",
+    "email": "duo.onthaalwm@onderwijs.gent.be",
     "adres": "Wittemolenstraat 9, 9040 Gent",
     "aanbod": [
      {
@@ -39676,6 +40330,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "Vrije Technische Scholen van Sint-Niklaas",
     "website": "www.wetech.be",
+    "telefoon": "03 777 07 06",
+    "email": "steven.debrandt@wetech.be",
     "adres": "Kokkelbeekstraat 44, 9100 Sint-Niklaas",
     "aanbod": [
      {
@@ -40208,6 +40864,8 @@
     "net": "Gemeenschapsonderwijs",
     "bestuur": "GO! scholengroep Waasland",
     "website": "www.cdo-newton.be",
+    "telefoon": "03 500 20 01",
+    "email": "directeur@cdo-newton.be",
     "adres": "Slachthuisstraat 64, 9100 Sint-Niklaas",
     "aanbod": [
      {
@@ -40533,6 +41191,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "VZW Óscar Romeroscholen",
     "website": "www.romerocollege.be",
+    "telefoon": "052 21 17 96",
+    "email": "algemene.directie@romerocollege.be",
     "adres": "Bogaerdstraat 24, 9200 Dendermonde",
     "aanbod": [
      {
@@ -40993,6 +41653,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "vzw Priester Daens Scholengroep",
     "website": "www.vtiaalst.be",
+    "telefoon": "053 73 92 11",
+    "email": "info@vtiaalst.be",
     "adres": "Ledebaan 234, 9300 Aalst",
     "aanbod": [
      {
@@ -41498,6 +42160,8 @@
     "net": "Gemeenschapsonderwijs",
     "bestuur": "GO! scholengroep Dender",
     "website": "www.ibsodehorizon.be",
+    "telefoon": "053 46 67 00",
+    "email": "info@ibsodehorizon.be",
     "adres": "Molendreef 57, 9300 Aalst",
     "aanbod": [
      {
@@ -41520,6 +42184,8 @@
     "net": "Gemeenschapsonderwijs",
     "bestuur": "GO! scholengroep Dender",
     "website": "www.ibsodehorizon.be",
+    "telefoon": "053 46 67 00",
+    "email": "info@ibsodehorizon.be",
     "adres": "Molendreef 57, 9300 Aalst",
     "aanbod": [
      {
@@ -41845,6 +42511,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "VZW Katholiek Secundair Onderwijs Oudenaarde - KSOO",
     "website": "www.bernardustechnicum.be",
+    "telefoon": "055 31 33 63",
+    "email": "info@bernardustechnicum.be",
     "adres": "Ter Eecken 6, 9700 Oudenaarde",
     "aanbod": [
      {
@@ -42098,6 +42766,8 @@
     "net": "Officieel gesubsidieerd onderwijs",
     "bestuur": "Stad Gent",
     "website": "scholen.stad.gent/ziekenhuisschool",
+    "telefoon": "09 332 24 05",
+    "email": "ziekenhuisschool@onderwijs.gent.be",
     "adres": "Corneel Heymanslaan 10, 9000 Gent",
     "aanbod": [
      {
@@ -42127,6 +42797,8 @@
     "net": "Officieel gesubsidieerd onderwijs",
     "bestuur": "Stad Gent",
     "website": "scholen.stad.gent/ziekenhuisschool",
+    "telefoon": "09 332 24 05",
+    "email": "ziekenhuisschool@onderwijs.gent.be",
     "adres": "Francisco Ferrerlaan 88_A, 9000 Gent",
     "aanbod": [
      {
@@ -42156,6 +42828,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "Connected vzw",
     "website": "www.ivio-binnenhof.be",
+    "telefoon": "09 228 45 90",
+    "email": "school@ivio-binnenhof.be",
     "adres": "Koningstraat 12, 9000 Gent",
     "aanbod": [
      {
@@ -42187,6 +42861,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "Instituut Sint-Rafaël, Centrumvoor personen met een visuele handicap",
     "website": "www.sintrafael.be",
+    "telefoon": "09 292 40 89",
+    "email": "i.dehondt@sintrafael.be",
     "adres": "Maagdestraat 56, 9000 Gent",
     "aanbod": [
      {
@@ -42212,6 +42888,8 @@
     "net": "Officieel gesubsidieerd onderwijs",
     "bestuur": "Stad Gent",
     "website": "scholen.stad.gent/ziekenhuisschool",
+    "telefoon": "09 332 24 05",
+    "email": "ziekenhuisschool@onderwijs.gent.be",
     "adres": "Watersportlaan 5, 9000 Gent",
     "aanbod": [
      {
@@ -42241,6 +42919,8 @@
     "net": "Gemeenschapsonderwijs",
     "bestuur": "GO! scholengroep Gent",
     "website": "www.campusimpuls.be",
+    "telefoon": "09 251 23 02, 09 251 23 07",
+    "email": "arne.lobbens@scholengroep.gent",
     "adres": "Baarleboslaan 86, 9031 Gent",
     "aanbod": [
      {
@@ -42300,6 +42980,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "Connected vzw",
     "website": "www.ivio-binnenhof.be",
+    "telefoon": "09 228 45 90",
+    "email": "school@ivio-binnenhof.be",
     "adres": "Baarledorpstraat 4, 9031 Gent",
     "aanbod": [
      {
@@ -42325,6 +43007,8 @@
     "net": "Gemeenschapsonderwijs",
     "bestuur": "GO! scholengroep Gent",
     "website": "www.campusimpuls.be",
+    "telefoon": "09 251 23 02, 09 251 23 07",
+    "email": "arne.lobbens@scholengroep.gent",
     "adres": "Christiaan Van der Heydenlaan 24_A, 9041 Gent",
     "aanbod": [
      {
@@ -42474,6 +43158,8 @@
     "net": "Gemeenschapsonderwijs",
     "bestuur": "GO! scholengroep Gent",
     "website": "www.campusimpuls.be",
+    "telefoon": "09 251 23 02, 09 251 23 07",
+    "email": "arne.lobbens@scholengroep.gent",
     "adres": "Wolfputstraat 42, 9041 Gent",
     "aanbod": [
      {
@@ -42613,6 +43299,8 @@
     "net": "Gemeenschapsonderwijs",
     "bestuur": "GO! scholengroep Waasland",
     "website": "www.sbsobaken.be",
+    "telefoon": "03 776 46 65",
+    "email": "info@sbsobaken.be",
     "adres": "Bellestraat 89, 9100 Sint-Niklaas",
     "aanbod": [
      {
@@ -42644,6 +43332,8 @@
     "net": "Gemeenschapsonderwijs",
     "bestuur": "GO! scholengroep Waasland",
     "website": "www.sbsobaken.be",
+    "telefoon": "03 776 46 65",
+    "email": "info@sbsobaken.be",
     "adres": "Breedstraat 194, 9100 Sint-Niklaas",
     "aanbod": [
      {
@@ -42763,6 +43453,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "Broederscholen Hiëronymus VZW",
     "website": "www.buso.broeders.be",
+    "telefoon": "09 348 37 96",
+    "email": "directie@buso.broeders.be",
     "adres": "Daknam-dorp 89_A, 9160 Lokeren",
     "aanbod": [
      {
@@ -42788,6 +43480,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "Zorg en onderwijs De Hagewinde",
     "website": "www.dekarwij.be",
+    "telefoon": "09 348 67 86",
+    "email": "info@dekarwij.be",
     "adres": "Durmelaan 118, 9160 Lokeren",
     "aanbod": [
      {
@@ -43032,6 +43726,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "Broederscholen Hiëronymus VZW",
     "website": "www.buso.broeders.be",
+    "telefoon": "09 348 37 96",
+    "email": "directie@buso.broeders.be",
     "adres": "Molenstraat 38, 9160 Lokeren",
     "aanbod": [
      {
@@ -43063,6 +43759,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "Blijdorp, dienstverleningscentrum voor personen met een verstandelijke handicap uit de streek van Dendermonde",
     "website": "www.Blijdorp.be",
+    "telefoon": "0491 72 23 62, 052 39 99 90",
+    "email": "anke.dereuse@blijdorp.be",
     "adres": "Blijdorpstraat 3, 9255 Buggenhout",
     "aanbod": [
      {
@@ -43088,6 +43786,8 @@
     "net": "Gemeenschapsonderwijs",
     "bestuur": "GO! scholengroep Het leercollectief",
     "website": "www.go-richtpunt.be",
+    "telefoon": "052 40 94 40, 052 40 94 41",
+    "email": "info@richtpuntbuggenhout.net",
     "adres": "Platteput 4, 9255 Buggenhout",
     "aanbod": [
      {
@@ -43476,6 +44176,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "Onderwijs Capelderij vzw",
     "website": "www.capelderij.be",
+    "telefoon": "052 33 68 60",
+    "email": "buso@capelderij.be",
     "adres": "Vekenstraat 1_A, 9255 Buggenhout",
     "aanbod": [
      {
@@ -43501,6 +44203,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "vzw Priester Daens Scholengroep",
     "website": "www.donboscobusoaalst.be",
+    "telefoon": "053 78 85 25, 053 39 66 99",
+    "email": "donboscoaalst.buso@telenet.be",
     "adres": "Bergemeersenstraat 106, 9300 Aalst",
     "aanbod": [
      {
@@ -43808,6 +44512,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "VZW INIGO,ignatiaanse scholen",
     "website": "www.busonder.be",
+    "telefoon": "053 38 28 28, 0489 72 90 59",
+    "email": "directeur@busolevensvreugde.be",
     "adres": "Botermelkstraat 201, 9300 Aalst",
     "aanbod": [
      {
@@ -43839,6 +44545,8 @@
     "net": "Gemeenschapsonderwijs",
     "bestuur": "GO! scholengroep Dender",
     "website": "www.ibsodehorizon.be",
+    "telefoon": "053 46 67 00",
+    "email": "info@ibsodehorizon.be",
     "adres": "Zijpstraat 36, 9308 Aalst",
     "aanbod": [
      {
@@ -43864,6 +44572,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "VZW Sint-Franciscusscholen",
     "website": "www.sfsvelzeke.be",
+    "telefoon": "09 360 58 43",
+    "email": "directie@sfsvelzeke.be",
     "adres": "Penitentenlaan 1, 9620 Zottegem",
     "aanbod": [
      {
@@ -44108,6 +44818,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "VZW Katholiek Secundair Onderwijs Oudenaarde - KSOO",
     "website": "www.bernardusdriesprong.be",
+    "telefoon": "055 30 19 99, 0497 69 86 01",
+    "email": "frank.pieters@bernardusscholen.be",
     "adres": "Vlaanderenstraat 6, 9700 Oudenaarde",
     "aanbod": [
      {
@@ -44124,6 +44836,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "VZW Katholiek Secundair Onderwijs Oudenaarde - KSOO",
     "website": "www.bernardusdriesprong.be",
+    "telefoon": "055 30 19 99, 0497 69 86 01",
+    "email": "frank.pieters@bernardusscholen.be",
     "adres": "Vlaanderenstraat 6, 9700 Oudenaarde",
     "aanbod": [
      {
@@ -44347,6 +45061,8 @@
     "net": "Gemeenschapsonderwijs",
     "bestuur": "GO!Scholengroep 24K",
     "website": "www.busoparkaan.be",
+    "telefoon": "09 280 89 77",
+    "email": "info@busoparkaan.be",
     "adres": "Steenweg 2, 9810 Nazareth-De Pinte",
     "aanbod": [
      {
@@ -44546,6 +45262,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "VZW Buitengewoon Onderwijs Ten Dries",
     "website": "www.tendries.be",
+    "telefoon": "09 371 98 66",
+    "email": "buso@tendries.be",
     "adres": "Dennendreef 60, 9850 Deinze",
     "aanbod": [
      {
@@ -44571,6 +45289,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "VZW Evara",
     "website": "www.emmausmachelen.be",
+    "telefoon": "09 386 60 08",
+    "email": "krista.verniest@op-weg.net",
     "adres": "Leihoekstraat 7_B, 9870 Zulte",
     "aanbod": [
      {
@@ -44806,6 +45526,8 @@
     "net": "Gemeenschapsonderwijs",
     "bestuur": "GO!Scholengroep 24K",
     "website": "www.egmontenhoorn.be",
+    "telefoon": "09 384 17 55",
+    "email": "info@egmontenhoorn.be",
     "adres": "Broeckstraat 37, 9890 Gavere",
     "aanbod": [
      {
@@ -44822,6 +45544,8 @@
     "net": "Gemeenschapsonderwijs",
     "bestuur": "GO!Scholengroep 24K",
     "website": "www.egmontenhoorn.be",
+    "telefoon": "09 384 17 55",
+    "email": "info@egmontenhoorn.be",
     "adres": "Broeckstraat 37, 9890 Gavere",
     "aanbod": [
      {
@@ -44981,6 +45705,8 @@
     "net": "Officieel gesubsidieerd onderwijs",
     "bestuur": "Stad Gent",
     "website": "scholen.stad.gent/ziekenhuisschool",
+    "telefoon": "09 332 24 05",
+    "email": "ziekenhuisschool@onderwijs.gent.be",
     "adres": "Zuidmoerstraat 165, 9900 Eeklo",
     "aanbod": [
      {
@@ -45010,6 +45736,8 @@
     "net": "Vrij gesubsidieerd onderwijs",
     "bestuur": "VZW Scholen voor Buitengewoon Onderwijs De Triangel",
     "website": "www.scholendetriangel.be",
+    "telefoon": "09 370 72 15",
+    "email": "evelyn.quintyn@dvcdetriangel.be",
     "adres": "Molendreef 16_C, 9920 Lievegem",
     "aanbod": [
      {
@@ -45035,6 +45763,8 @@
     "net": "Gemeenschapsonderwijs",
     "bestuur": "GO! Scholengroep Dynamiek",
     "website": "www.buso-evergem.be",
+    "telefoon": "09 253 13 57, 09 257 01 69",
+    "email": "info@buso-evergem.be",
     "adres": "Vurstjen 27, 9940 Evergem",
     "aanbod": [
      {
