@@ -34,6 +34,7 @@ body{background:var(--bg);color:var(--ink);font-family:var(--body);font-size:14p
 .wrap{max-width:1440px;margin:0 auto;padding-block:20px 32px;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px));display:flex;flex-direction:column;gap:14px}
 h1{font-family:var(--display);font-size:clamp(24px,4vw,34px);line-height:1.1;margin:0;text-wrap:balance}
 .sub{color:var(--muted);margin:4px 0 0;max-width:65ch}
+.disclaimer{color:var(--warn);font-size:12.5px;margin:6px 0 0;max-width:80ch}
 .enrol{background:var(--surface);border:1px solid var(--line);border-left:4px solid var(--accent);border-radius:8px;padding:10px 14px;display:flex;flex-wrap:wrap;gap:4px 14px;align-items:baseline}
 .enrol b{font-weight:600}
 a{color:var(--accent)}
@@ -170,6 +171,7 @@ li{display:grid;grid-template-columns:auto 5.3em 8.3em minmax(0,1fr);gap:0 .6em;
   header{display:flex;gap:10pt;align-items:baseline}
   h1{font-size:13pt}
   .sub{margin:0;max-width:none;font-size:6.5pt}
+  .disclaimer{margin:0;font-size:6pt}
   .enrol{padding:2pt 6pt;border-radius:0;border-width:0 0 0 3pt;font-size:7pt}
   a{color:inherit;text-decoration:none}
   section.groep{gap:2pt}
@@ -193,6 +195,7 @@ li{display:grid;grid-template-columns:auto 5.3em 8.3em minmax(0,1fr);gap:0 .6em;
   <header>
     <h1>Scholenoverzicht regio Gent</h1>
     <p class="sub">__N_SCHOLEN__ secundaire scholen met hun onderwijsnet en studieaanbod, voor wie in september 2027 naar het eerste jaar gaat. Een eenvoudige manier om de opendeurdagen en infomomenten aan je kalender toe te voegen: vink infomomenten of hele scholen aan en download ze. Infomomenten zijn opgezocht voor Gent en omgeving.</p>
+    <p class="disclaimer">Let op: deze gegevens zijn met de hand en automatisch verzameld en kunnen fouten bevatten of verouderd zijn. Controleer datum, uur en inschrijving best nog eens op de website van de school.</p>
   </header>
   <div class="enrol"><b>Aanmelden regio Gent:</b><span>dinsdag 23 maart 2027, 9 u. tot vrijdag 16 april 2027, 16 u.</span><a href="https://www.kieseenschoolregiogent.be">www.kieseenschoolregiogent.be</a></div>
 
