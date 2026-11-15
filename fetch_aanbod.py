@@ -64,6 +64,21 @@ def norm(adres):
     return re.sub(r"[^a-z]", "", m.group(1)), m.group(2), pc.group(1)
 
 
+ALGEMEEN = re.compile(r"info|contact|onthaal|welkom|secretariaat|administratie|inlichtingen|directie|directeur|school|campus"
+                      r"|humaniora|atheneum|buso|bovenbouw|graad|secundair|^sint|^dir\b|\bdir$|^ov\d")
+
+
+def algemeen_adres(email):
+    """Alleen e-mailadressen van de school zelf (info@, directie@, humaniora@ ...), geen adressen op naam van een persoon."""
+    email = email.strip().lower()
+    if "@" not in email:
+        return ""
+    lokaal, domein = email.split("@", 1)
+    kern = re.sub(r"[^a-z0-9]", "", lokaal)
+    eigen = len(kern) >= 3 and kern in re.sub(r"[^a-z0-9]", "", domein.rsplit(".", 1)[0])  # ivv@ivv-gent.be
+    return email if ALGEMEEN.search(lokaal) or eigen else ""
+
+
 def tekst(s):
     return re.sub(r"\s+", " ", html.unescape(re.sub(r"<[^>]+>", " ", s))).strip()
 
@@ -89,7 +104,7 @@ def fiche(sn):
                 items.append({"groep": groep, "domein": domein, "naam": eerste, "jaren": [c for _, c in cellen[1:]]})
         vest.append({"adres": tekst(adres), "aanbod": items})
     return {"sn": sn, "naam": veld.get("naam", ""), "net": veld.get("onderwijsnet", ""), "bestuur": veld.get("bestuur", ""),
-            "website": veld.get("website", ""), "telefoon": veld.get("telefoon", ""), "email": veld.get("e-mail", ""),
+            "website": veld.get("website", ""), "telefoon": veld.get("telefoon", ""), "email": algemeen_adres(veld.get("e-mail", "")),
             "vestigingen": vest}
 
 
