@@ -22,6 +22,19 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:5e99bb94-90b1-5de5-be67-018e0d567634@infomomenten
+DTSTAMP:20261115T110000Z
+DTSTART;TZID=Europe/Brussels:20261119T193000
+DTEND;TZID=Europe/Brussels:20261119T210000
+LOCATION:Don Bosco Sint-Pieters\, Koning Albertlaan 70\, 9000 Gent\, Belg
+ ië
+GEO:51.038614;3.710896
+SUMMARY:Don Bosco Sint-Pieters – Infoavond
+DESCRIPTION:Datum en uur volgens de website van de school (15 november 20
+ 26): donderdag 19 november\; de folder vermeldde 'donderdag 20 november'
+ . Inschrijven via schoolwebsite www.dbsp.gent
+END:VEVENT
+BEGIN:VEVENT
 UID:56737354-ea13-55db-a41a-c25c0df9aede@infomomenten
 DTSTAMP:20261115T110000Z
 DTSTART;TZID=Europe/Brussels:20261119T193000
@@ -45,20 +58,6 @@ SUMMARY:Sint-Lievenscollege Humaniora – Infoavond
 DESCRIPTION:Einduur niet vermeld in folder (1\,5 uur aangenomen). Niet in
   de folder\; van de website van de school (15 november 2026). Inschrijve
  n via www.sintlievenscollege.be
-END:VEVENT
-BEGIN:VEVENT
-UID:05145571-0bf4-5ed0-8523-1d7080b2e60f@infomomenten
-DTSTAMP:20261115T110000Z
-DTSTART;TZID=Europe/Brussels:20261120T193000
-DTEND;TZID=Europe/Brussels:20261120T210000
-LOCATION:Don Bosco Sint-Pieters\, Koning Albertlaan 70\, 9000 Gent\, Belg
- ië
-GEO:51.038614;3.710896
-SUMMARY:Don Bosco Sint-Pieters – Infoavond
-DESCRIPTION:Einduur niet vermeld in folder (1\,5 uur aangenomen). Let op:
-  folder vermeldt 'donderdag 20 november'\, maar 20/11/2026 is een vrijda
- g. Datum nakijken bij de school. Inschrijven via schoolwebsite www.dbsp.
- gent
 END:VEVENT
 BEGIN:VEVENT
 UID:3b66452d-e49c-5d5f-8162-5400fef7c33b@infomomenten

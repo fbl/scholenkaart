@@ -57,8 +57,8 @@ Alles staat in `make.py`:
   het soort infomoment is onbekend (titel "Infodag").
 - Aanmeldperiode 23 maart 2027 9 u. tot 16 april 2027 16 u. via www.kieseenschoolregiogent.be.
 - Zonder einduur is 1,5 uur aangenomen; zonder uur is het een event van een hele dag.
-- Twee data in de folder kloppen niet met de weekdag: Don Bosco Sint-Pieters
-  "donderdag 20 november" (2026: vrijdag) en BenedictusPoort "zaterdag 16 april" (2027: vrijdag).
+- Twee data in de folder klopten niet met de weekdag. Don Bosco Sint-Pieters "donderdag 20 november" is rechtgezet naar
+  donderdag 19 november 2026 volgens de website van de school. BenedictusPoort "zaterdag 16 april" (2027: vrijdag) is nog niet nagekeken.
 - IVV Sint-Vincentius staat op het adres van de hoofdcampus; de campus van de eerste graad is niet bevestigd.
 - Adressen en coördinaten komen uit Google Places; enkele zijn nagekeken op stad.gent.
 - Onderwijsnet en studieaanbod komen uit "Onderwijsaanbod in Vlaanderen" (schooljaar 2026-2027) en zijn gekoppeld op adres:

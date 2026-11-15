@@ -62,6 +62,7 @@ button,select,input{font:inherit;color:var(--ink)}
 .afst{font-weight:600;color:var(--ink);white-space:nowrap}
 .afst:not(:empty)::before{content:"· ";color:var(--muted);font-weight:400}
 .filters input[type=search]{width:240px}
+.filters #naam{width:200px}
 .f.end{flex-direction:row;align-items:center;align-self:end;gap:12px;margin-left:auto}
 #teller{color:var(--muted);font-variant-numeric:tabular-nums}
 #wis,#wissel{background:var(--bg);border:1px solid var(--line);border-radius:6px;padding:5px 10px;cursor:pointer}
@@ -196,6 +197,7 @@ li{display:grid;grid-template-columns:5.3em 8.3em minmax(0,1fr);gap:0 .6em;borde
 
   <form class="filters" id="filters" aria-label="Scholen filteren" autocomplete="off">
     <div class="f adr"><label for="adres">In de buurt van</label><div class="rij"><input type="search" id="adres" placeholder="Straat en nummer, gemeente" autocomplete="off" value="9070 Heusden"><input type="number" id="km" min="0.5" max="100" step="0.5" value="6" aria-label="Maximale afstand in kilometer"><span>km</span><button type="submit" id="zoek">Zoek</button><span class="hint" id="adresinfo" role="status"></span></div></div>
+    <div class="f"><label for="naam">School</label><input type="search" id="naam" placeholder="Naam van de school" autocomplete="off"></div>
     <div class="f"><span id="lbl-net">Onderwijsnet</span><div class="chips" role="group" aria-labelledby="lbl-net">__NETTEN__</div></div>
     <div class="f"><label for="soort">Aanbod <a href="#uitleg-aanbod" class="vraag" title="Wat betekent dit? Uitleg onderaan de pagina" aria-label="Uitleg over het aanbod, onderaan de pagina">?</a></label><select id="soort"><option value="">Alles</option>__SOORTEN__</select></div>
     <div class="f"><label for="domein">Studiedomein <a href="#uitleg-domein" class="vraag" title="Wat betekent dit? Uitleg onderaan de pagina" aria-label="Uitleg over de studiedomeinen, onderaan de pagina">?</a></label><select id="domein"><option value="">Alle domeinen</option>__DOMEINEN__</select></div>
@@ -317,9 +319,32 @@ __SECTIES__
   }
   km.addEventListener('change',tekenThuis);
 
+  // Zoeken op schoolnaam, met tolerantie voor tikfouten
+  var naam=document.getElementById('naam');
+  function plat(s){return s.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g,'').replace(/[^a-z0-9]+/g,' ').trim()}
+  function afstand(a,b){ // Levenshtein
+    var rij=[],i,j,vorig,t;
+    for(j=0;j<=b.length;j++)rij[j]=j;
+    for(i=1;i<=a.length;i++){vorig=rij[0];rij[0]=i;
+      for(j=1;j<=b.length;j++){t=rij[j];rij[j]=Math.min(rij[j]+1,rij[j-1]+1,vorig+(a[i-1]===b[j-1]?0:1));vorig=t}}
+    return rij[b.length];
+  }
+  scholen.forEach(function(el){el._naam=plat(el.querySelector('h3').textContent.replace(/^\s*\d+/,''));el._woorden=el._naam.split(' ')});
+  function naamPast(el,delen){
+    return delen.every(function(q){
+      if(el._naam.indexOf(q)>=0)return true;
+      var marge=q.length>=6?2:q.length>=4?1:0;
+      return marge>0&&el._woorden.some(function(w){
+        // vergelijk met het hele woord en met het begin ervan (voor een half getypt woord)
+        return afstand(q,w)<=marge||(w.length>q.length&&afstand(q,w.slice(0,q.length))<=marge);
+      });
+    });
+  }
+
   function filter(){
     var n=netten.filter(function(c){return c.checked}).map(function(c){return c.value});
     var s=soort.value, d=domein.value, m=methode.value, q=richting.value.trim().toLowerCase();
+    var delen=plat(naam.value).split(' ').filter(Boolean);
     var zichtbaar={}, aantal=0;
     scholen.forEach(function(el){
       var ok=true;
@@ -329,6 +354,7 @@ __SECTIES__
       if(ok&&m)ok=el.dataset.meth.split(' ').indexOf(m)>=0;
       if(ok&&q)ok=el.dataset.r.indexOf(q)>=0;
       if(ok&&thuis)ok=el._km<=maxKm();
+      if(ok&&delen.length)ok=naamPast(el,delen);
       el.hidden=!ok;
       var det=el.querySelector('details'); if(det)det.open=!!q&&ok;
       if(ok){zichtbaar[el.dataset.i]=1;aantal++}
@@ -338,13 +364,13 @@ __SECTIES__
       var k=$('.school',g).filter(function(e){return !e.hidden}).length;
       g.hidden=!k; g.querySelector('.cnt').textContent=k;
     });
-    var actief=n.length||s||d||m||q||thuis;
+    var actief=n.length||s||d||m||q||thuis||delen.length;
     teller.textContent=actief?aantal+' van '+scholen.length+' scholen':scholen.length+' scholen';
     wis.hidden=!actief; leeg.hidden=aantal>0;
   }
   document.getElementById('filters').addEventListener('input',filter);
   document.getElementById('filters').addEventListener('submit',function(e){e.preventDefault();zoekAdres()});
-  wis.addEventListener('click',function(){netten.forEach(function(c){c.checked=false});soort.value='';domein.value='';methode.value='';richting.value='';adres.value='';adresinfo.textContent='';zetThuis(null);filter()});
+  wis.addEventListener('click',function(){netten.forEach(function(c){c.checked=false});soort.value='';domein.value='';methode.value='';richting.value='';naam.value='';adres.value='';adresinfo.textContent='';zetThuis(null);filter()});
 
   function toonView(v){
     $('.view').forEach(function(el){el.hidden=el.id!=='view-'+v});

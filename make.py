@@ -6,7 +6,7 @@ def t(d,start,end,school,what,note=""):
 def a(d,school,what,note="",days=1):
     E.append((d,None,days,school,what,note))
 DBSP="Don Bosco Sint-Pieters";DBSDW="Don Bosco Sint-Denijs-Westrem";SB="Sint-Bavohumaniora"
-t("2026-11-20","19:30",None,DBSP,"Infoavond","Let op: folder vermeldt 'donderdag 20 november', maar 20/11/2026 is een vrijdag. Datum nakijken bij de school. Inschrijven via schoolwebsite www.dbsp.gent")
+t("2026-11-19","19:30","21:00",DBSP,"Infoavond","Datum en uur volgens de website van de school (15 november 2026): donderdag 19 november; de folder vermeldde 'donderdag 20 november'. Inschrijven via schoolwebsite www.dbsp.gent")
 t("2026-11-21","09:30","12:30",DBSDW,"Infovoormiddag","www.donboscosdw.be")
 t("2026-11-24","19:30",None,SB,"Infoavond","Inschrijven via www.sintbavogent.be")
 a("2026-12-07",DBSP,"Doedagen 6de leerjaar","Voor klassen 6de leerjaar. Inschrijven via info@dbsp.gent",days=5)
