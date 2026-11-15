@@ -1,0 +1,1528 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Infomomenten eerstejaars 2027-2028//NL
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Infomomenten en opendeurdagen 2027-2028
+X-WR-TIMEZONE:Europe/Brussels
+BEGIN:VTIMEZONE
+TZID:Europe/Brussels
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:05145571-0bf4-5ed0-8523-1d7080b2e60f@infomomenten
+DTSTAMP:20261115T110000Z
+DTSTART;TZID=Europe/Brussels:20261120T193000
+DTEND;TZID=Europe/Brussels:20261120T210000
+LOCATION:Don Bosco Sint-Pieters\, Koning Albertlaan 70\, 9000 Gent\, Belg
+ ië
+GEO:51.038614;3.710896
+SUMMARY:Don Bosco Sint-Pieters – Infoavond
+DESCRIPTION:Einduur niet vermeld in folder (1\,5 uur aangenomen). Let op:
+  folder vermeldt 'donderdag 20 november'\, maar 20/11/2026 is een vrijda
+ g. Datum nakijken bij de school. Inschrijven via schoolwebsite www.dbsp.
+ gent
+END:VEVENT
+BEGIN:VEVENT
+UID:3b66452d-e49c-5d5f-8162-5400fef7c33b@infomomenten
+DTSTAMP:20261115T110000Z
+DTSTART;TZID=Europe/Brussels:20261121T093000
+DTEND;TZID=Europe/Brussels:20261121T123000
+LOCATION:Don Bosco Sint-Denijs-Westrem\, Kortrijksesteenweg 1025\, 9051 G
+ ent (Sint-Denijs-Westrem)\, België
+GEO:51.022650;3.699400
+SUMMARY:Don Bosco Sint-Denijs-Westrem – Infovoormiddag
+DESCRIPTION:www.donboscosdw.be
+END:VEVENT
+BEGIN:VEVENT
+UID:a6e541ce-1be9-5bb9-8c7c-8f140c479f9d@infomomenten
+DTSTAMP:20261115T110000Z
+DTSTART;TZID=Europe/Brussels:20261124T193000
+DTEND;TZID=Europe/Brussels:20261124T210000
+LOCATION:Sint-Bavohumaniora\, Reep 4\, 9000 Gent\, België
+GEO:51.052394;3.729632
+SUMMARY:Sint-Bavohumaniora – Infoavond
+DESCRIPTION:Einduur niet vermeld in folder (1\,5 uur aangenomen). Inschri
+ jven via www.sintbavogent.be
+END:VEVENT
+BEGIN:VEVENT
+UID:37f4ea29-ff7b-5da3-86c8-2f846346263f@infomomenten
+DTSTAMP:20261115T110000Z
+DTSTART;VALUE=DATE:20261207
+DTEND;VALUE=DATE:20261212
+LOCATION:Don Bosco Sint-Pieters\, Koning Albertlaan 70\, 9000 Gent\, Belg
+ ië
+GEO:51.038614;3.710896
+SUMMARY:Don Bosco Sint-Pieters – Doedagen 6de leerjaar
+DESCRIPTION:Voor klassen 6de leerjaar. Inschrijven via info@dbsp.gent
+END:VEVENT
+BEGIN:VEVENT
+UID:b72d70c9-c91e-5290-8154-84f91575d5fb@infomomenten
+DTSTAMP:20261115T110000Z
+DTSTART;VALUE=DATE:20261208
+DTEND;VALUE=DATE:20261209
+LOCATION:EDUGO campus De Brug\, Simone Duboisstraat 15\, 9041 Gent (Oosta
+ kker)\, België
+GEO:51.084263;3.768947
+SUMMARY:EDUGO campus De Brug – Kennismakingsdag 5de leerjaar
+DESCRIPTION:www.edugo.be
+END:VEVENT
+BEGIN:VEVENT
+UID:dbd336fb-3f47-509b-8998-6a7d6634a2f0@infomomenten
+DTSTAMP:20261115T110000Z
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261211
+LOCATION:EDUGO campus De Brug\, Simone Duboisstraat 15\, 9041 Gent (Oosta
+ kker)\, België
+GEO:51.084263;3.768947
+SUMMARY:EDUGO campus De Brug – Kennismakingsdag 5de leerjaar
+DESCRIPTION:www.edugo.be
+END:VEVENT
+BEGIN:VEVENT
+UID:ceb36984-f0a3-5156-a44b-50d64333d0e3@infomomenten
+DTSTAMP:20261115T110000Z
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261212
+LOCATION:EDUGO campus De Brug\, Simone Duboisstraat 15\, 9041 Gent (Oosta
+ kker)\, België
+GEO:51.084263;3.768947
+SUMMARY:EDUGO campus De Brug – Kennismakingsdag 5de leerjaar
+DESCRIPTION:www.edugo.be
+END:VEVENT
+BEGIN:VEVENT
+UID:1a7a7105-38d8-5d08-850f-c0c91976be65@infomomenten
+DTSTAMP:20261115T110000Z
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261212
+LOCATION:College Paters Jozefieten Melle\, Brusselsesteenweg 459\, 9090 M
+ elle\, België
+GEO:50.999432;3.810344
+SUMMARY:College Paters Jozefieten Melle – Onthaaldag klassen 6de leerja
+ ar
+DESCRIPTION:Contact via dir.so@collegemelle.be
+END:VEVENT
+BEGIN:VEVENT
+UID:be56ae78-dc40-5617-ad36-f5e81229ca2a@infomomenten
+DTSTAMP:20261115T110000Z
+DTSTART;TZID=Europe/Brussels:20270114T193000
+DTEND;TZID=Europe/Brussels:20270114T210000
+LOCATION:Sint-Barbaracollege\, Savaanstraat 33\, 9000 Gent\, België
+GEO:51.048859;3.724814
+SUMMARY:Sint-Barbaracollege – Infoavond
+DESCRIPTION:Einduur niet vermeld in folder (1\,5 uur aangenomen). Inschri
+ jven via www.sint-barbara.be
+END:VEVENT
+BEGIN:VEVENT
+UID:25f7dd7b-b152-533d-8218-d33eea77c500@infomomenten
+DTSTAMP:20261115T110000Z
+DTSTART;TZID=Europe/Brussels:20270118T190000
+DTEND;TZID=Europe/Brussels:20270118T203000
+LOCATION:IVIO Binnenhof (1B OV4)\, Peperstraat 27\, 9000 Gent\, België
+GEO:51.055467;3.713989
+SUMMARY:IVIO Binnenhof (1B OV4) – Infomoment
+DESCRIPTION:Einduur niet vermeld in folder (1\,5 uur aangenomen). Campus 
+ Peperstraat 27. Inschrijven via www.ivio-binnenhof.be
+END:VEVENT
+BEGIN:VEVENT
+UID:8a02db78-9910-53e9-825a-a4a9dce8189a@infomomenten
+DTSTAMP:20261115T110000Z
+DTSTART;TZID=Europe/Brussels:20270119T183000
+DTEND;TZID=Europe/Brussels:20270119T200000
+LOCATION:VISO campus Mariakerke\, Industrieweg 230\, 9030 Gent (Mariakerk
+ e)\, België
+GEO:51.087059;3.670239
+SUMMARY:VISO campus Mariakerke – Infoavond eerste jaar
+DESCRIPTION:www.viso.be
+END:VEVENT
+BEGIN:VEVENT
+UID:72c18dd8-7141-5aa2-a586-c66e4d5d1c74@infomomenten
+DTSTAMP:20261115T110000Z
+DTSTART;VALUE=DATE:20270121
+DTEND;VALUE=DATE:20270122
+LOCATION:Tectura Tuinbouwschool Melle\, Brusselsesteenweg 165\, 9090 Mell
+ e\, België
+GEO:51.014370;3.787260
+SUMMARY:Tectura Tuinbouwschool Melle – Infosessie eerste graad
+DESCRIPTION:Bron: website van de school\, nagekeken op 15 november 2026. 
+END:VEVENT
+BEGIN:VEVENT
+UID:1ee37c2c-45f1-5e7c-aca4-4bc735be1ae3@infomomenten
+DTSTAMP:20261115T110000Z
+DTSTART;TZID=Europe/Brussels:20270121T123000
+DTEND;TZID=Europe/Brussels:20270121T154000
+LOCATION:Sint-Paulus campus Patijntjestraat\, Patijntjestraat 45\, 9000 G
+ ent\, België
+GEO:51.040256;3.708082
+SUMMARY:Sint-Paulus campus Patijntjestraat – Individuele snuffeldag (op
+ enklasdag)
+DESCRIPTION:www.sintpaulusgent.be
+END:VEVENT
+BEGIN:VEVENT
+UID:4aed49f3-e7a7-5a09-8da3-96e7eeda7fa5@infomomenten
+DTSTAMP:20261115T110000Z
+DTSTART;TZID=Europe/Brussels:20270121T170000
+DTEND;TZID=Europe/Brussels:20270121T190000
+LOCATION:Visitatie\, Zandloperstraat 8\, 9030 Gent (Mariakerke)\, België
+GEO:51.071908;3.678438
+SUMMARY:Visitatie – Infobeurs eerste jaar
+DESCRIPTION:www.visitatie.be
+END:VEVENT
+BEGIN:VEVENT
+UID:ea39b849-edcb-56b0-a377-f0807c08e633@infomomenten
+DTSTAMP:20261115T110000Z
+DTSTART;TZID=Europe/Brussels:20270121T193000
+DTEND;TZID=Europe/Brussels:20270121T213000
+LOCATION:Sint-Lievenscollege Business\, Steendam 27\, 9000 Gent\, België
+GEO:51.057227;3.729590
+SUMMARY:Sint-Lievenscollege Business – Infoavond
+DESCRIPTION:Inschrijven via www.slcb.be
+END:VEVENT
+BEGIN:VEVENT
+UID:76030572-ac0f-5257-8135-3cdba4d75fa1@infomomenten
+DTSTAMP:20261115T110000Z
+DTSTART;TZID=Europe/Brussels:20270121T193000
+DTEND;TZID=Europe/Brussels:20270121T213000
+LOCATION:Sint-Lievenscollege Humaniora\, Zilverenberg 1\, 9000 Gent\, Bel
+ gië
+GEO:51.055406;3.731601
+SUMMARY:Sint-Lievenscollege Humaniora – Infoavond
+DESCRIPTION:Inschrijven via www.sintlievenscollege.be
+END:VEVENT
+BEGIN:VEVENT
+UID:6eb8066f-c861-50d3-abf5-d8d4811ade55@infomomenten
+DTSTAMP:20261115T110000Z
+DTSTART;TZID=Europe/Brussels:20270123T100000
+DTEND;TZID=Europe/Brussels:20270123T160000
+LOCATION:Nieuwen Bosch Humaniora\, Lange Violettestraat 65\, 9000 Gent\, 
+ België
+GEO:51.047272;3.734388
+SUMMARY:Nieuwen Bosch Humaniora – Infomoment
+DESCRIPTION:www.nieuwenboschhumaniora.be
+END:VEVENT
+BEGIN:VEVENT
+UID:54f2766b-4825-5046-b828-95261126d608@infomomenten
+DTSTAMP:20261115T110000Z
+DTSTART;TZID=Europe/Brussels:20270123T100000
+DTEND;TZID=Europe/Brussels:20270123T150000
+LOCATION:Freinetmiddenschool Gent\, Offerlaan 1\, 9000 Gent\, België
+GEO:51.045605;3.710543
+SUMMARY:Freinetmiddenschool Gent – Infodag
+DESCRIPTION:Bron: onderwijskiezer.be (soort infomoment niet vermeld). Che
+ ck de website van de school. 
+END:VEVENT
+BEGIN:VEVENT
+UID:da33eb60-9375-5e82-a58f-958f7296f20b@infomomenten
+DTSTAMP:20261115T110000Z
+DTSTART;TZID=Europe/Brussels:20270125T190000
+DTEND;TZID=Europe/Brussels:20270125T200000
+LOCATION:IVIO Binnenhof (1A OV4)\, Molenaarsstraat 30\, 9000 Gent\, Belgi
+ ë
+GEO:51.061585;3.718191
+SUMMARY:IVIO Binnenhof (1A OV4) – Infomoment
+DESCRIPTION:Campus Molenaarsstraat 30. Inschrijven via www.ivio-binnenhof
+ .be
+END:VEVENT
+BEGIN:VEVENT
+UID:568b54de-b2be-5e1f-a03c-491839462fd8@infomomenten
+DTSTAMP:20261115T110000Z
+DTSTART;TZID=Europe/Brussels:20270128T180000
+DTEND;TZID=Europe/Brussels:20270128T200000
+LOCATION:Freinetatheneum De Wingerd\, Neermeerskaai 1\, 9000 Gent\, Belgi
+ ë
+GEO:51.043604;3.710428
+SUMMARY:Freinetatheneum De Wingerd – Infodag
+DESCRIPTION:Bron: onderwijskiezer.be (soort infomoment niet vermeld). Che
+ ck de website van de school. 
+END:VEVENT
+BEGIN:VEVENT
+UID:2a12faa9-0387-5dea-b843-9b3e08de6684@infomomenten
+DTSTAMP:20261115T110000Z
+DTSTART;TZID=Europe/Brussels:20270128T190000
+DTEND;TZID=Europe/Brussels:20270128T203000
+LOCATION:Sint-Paulus campus Patijntjestraat\, Patijntjestraat 45\, 9000 G
+ ent\, België
+GEO:51.040256;3.708082
+SUMMARY:Sint-Paulus campus Patijntjestraat – Infoavond
+DESCRIPTION:Einduur niet vermeld in folder (1\,5 uur aangenomen). www.sin
+ tpaulusgent.be
+END:VEVENT
+BEGIN:VEVENT
+UID:723f0d6a-f9fc-5096-9a3c-021bf2442320@infomomenten
+DTSTAMP:20261115T110000Z
+DTSTART;TZID=Europe/Brussels:20270128T190000
+DTEND;TZID=Europe/Brussels:20270128T203000
+LOCATION:GO! middenschool Voskenslaan\, Voskenslaan 60\, 9000 Gent\, Belg
+ ië
+GEO:51.033021;3.706684
+SUMMARY:GO! middenschool Voskenslaan – Infodag
+DESCRIPTION:Einduur niet vermeld in folder (1\,5 uur aangenomen). Bron: o
+ nderwijskiezer.be (soort infomoment niet vermeld). Check de website van 
+ de school. 
+END:VEVENT
+BEGIN:VEVENT
+UID:90b9f9df-11be-5eb5-8189-d4e2165df180@infomomenten
+DTSTAMP:20261115T110000Z
+DTSTART;TZID=Europe/Brussels:20270128T190000
+DTEND;TZID=Europe/Brussels:20270128T203000
+LOCATION:GO! atheneum Gentbrugge\, Ooievaarsnest 3\, 9050 Gent (Gentbrugg
+ e)\, België
+GEO:51.035702;3.768785
+SUMMARY:GO! atheneum Gentbrugge – Infodag
+DESCRIPTION:Einduur niet vermeld in folder (1\,5 uur aangenomen). Bron: o
+ nderwijskiezer.be (soort infomoment niet vermeld). Check de website van 
+ de school. 
+END:VEVENT
+BEGIN:VEVENT
+UID:011ec960-156a-5959-a190-fdb520506238@infomomenten
+DTSTAMP:20261115T110000Z
+DTSTART;TZID=Europe/Brussels:20270128T193000
+DTEND;TZID=Europe/Brussels:20270128T210000
+LOCATION:Sint-Barbaracollege\, Savaanstraat 33\, 9000 Gent\, België
+GEO:51.048859;3.724814
+SUMMARY:Sint-Barbaracollege – Infoavond
+DESCRIPTION:Einduur niet vermeld in folder (1\,5 uur aangenomen). Inschri
+ jven via www.sint-barbara.be
+END:VEVENT
+BEGIN:VEVENT
+UID:ef8113fc-e88c-5046-891a-bcffc4c41cc1@infomomenten
+DTSTAMP:20261115T110000Z
+DTSTART;TZID=Europe/Brussels:20270128T193000
+DTEND;TZID=Europe/Brussels:20270128T210000
+LOCATION:Sint-Bavohumaniora\, Reep 4\, 9000 Gent\, België
+GEO:51.052394;3.729632
+SUMMARY:Sint-Bavohumaniora – Infoavond
+DESCRIPTION:Einduur niet vermeld in folder (1\,5 uur aangenomen). Inschri
+ jven via www.sintbavogent.be
+END:VEVENT
+BEGIN:VEVENT
+UID:f40c67e9-56d8-58a2-be42-421585712c42@infomomenten
+DTSTAMP:20261115T110000Z
+DTSTART;TZID=Europe/Brussels:20270129T190000
+DTEND;TZID=Europe/Brussels:20270129T203000
+LOCATION:EDUGO campus Lochristi\, Dorp-Oost 32\, 9080 Lochristi\, België
+GEO:51.096344;3.836247
+SUMMARY:EDUGO campus Lochristi – Infoavond
+DESCRIPTION:Einduur niet vermeld in folder (1\,5 uur aangenomen). www.edu
+ go.be
+END:VEVENT
+BEGIN:VEVENT
+UID:fce8a09a-e1af-5015-9cbc-33312169f08a@infomomenten
+DTSTAMP:20261115T110000Z
+DTSTART;TZID=Europe/Brussels:20270129T193000
+DTEND;TZID=Europe/Brussels:20270129T210000
+LOCATION:EDUGO campus De Brug\, Simone Duboisstraat 15\, 9041 Gent (Oosta
+ kker)\, België
+GEO:51.084263;3.768947
+SUMMARY:EDUGO campus De Brug – Infoavond
+DESCRIPTION:Einduur niet vermeld in folder (1\,5 uur aangenomen). www.edu
+ go.be
+END:VEVENT
+BEGIN:VEVENT
+UID:aa9e59b1-a13e-5e6c-b977-d5d5dad195a7@infomomenten
+DTSTAMP:20261115T110000Z
+DTSTART;VALUE=DATE:20270202
+DTEND;VALUE=DATE:20270203
+LOCATION:GO! Einstein Atheneum\, Wolfputstraat 38\, 9041 Gent (Oostakker)
+ \, België
+GEO:51.091877;3.762900
+SUMMARY:GO! Einstein Atheneum – Infodag (avond)
+DESCRIPTION:'s Avonds\; uur niet vermeld. Bron: onderwijskiezer.be (soort
+  infomoment niet vermeld). Check de website van de school. 
+END:VEVENT
+BEGIN:VEVENT
+UID:a7c7ae35-7822-52eb-a522-d88768841d34@infomomenten
+DTSTAMP:20261115T110000Z
+DTSTART;VALUE=DATE:20270202
+DTEND;VALUE=DATE:20270203
+LOCATION:Scheppersinstituut Wetteren\, Cooppallaan 128\, 9230 Wetteren\, 
+ België
+GEO:51.009180;3.868550
+SUMMARY:Scheppersinstituut Wetteren – Infomoment
+DESCRIPTION:Bron: website van de school\, nagekeken op 15 november 2026. 
+END:VEVENT
+BEGIN:VEVENT
+UID:89d7425f-240f-575c-ac2e-c54360685b64@infomomenten
+DTSTAMP:20261115T110000Z
+DTSTART;TZID=Europe/Brussels:20270202T183000
+DTEND;TZID=Europe/Brussels:20270202T210000
+LOCATION:Mariagaard Wetteren\, Oosterzelesteenweg 80\, 9230 Wetteren\, Be
+ lgië
+GEO:50.979050;3.834040
+SUMMARY:Mariagaard Wetteren – Infoavond toekomstige eerstejaars
+DESCRIPTION:Bron: website van de school\, nagekeken op 15 november 2026. 
+END:VEVENT
+BEGIN:VEVENT
+UID:24f0bda1-a0cc-5bad-b18f-d7a78dd3aab0@infomomenten
+DTSTAMP:20261115T110000Z
+DTSTART;TZID=Europe/Brussels:20270202T190000
+DTEND;TZID=Europe/Brussels:20270202T210000
+LOCATION:BUSO Sint-Gregorius (OV2 en OV3)\, Jules Destréelaan 67\, 9050 
+ Gent (Gentbrugge)\, België
+GEO:51.029696;3.775341
+SUMMARY:BUSO Sint-Gregorius (OV2 en OV3) – Infoavond
+DESCRIPTION:Inschrijven via www.sintgregorius.be
+END:VEVENT
+BEGIN:VEVENT
+UID:2f545257-9aa4-570d-a33e-38a73abc1442@infomomenten
+DTSTAMP:20261115T110000Z
+DTSTART;TZID=Europe/Brussels:20270202T193000
+DTEND;TZID=Europe/Brussels:20270202T210000
+LOCATION:Don Bosco Sint-Pieters\, Koning Albertlaan 70\, 9000 Gent\, Belg
+ ië
+GEO:51.038614;3.710896
+SUMMARY:Don Bosco Sint-Pieters – Infoavond
+DESCRIPTION:Einduur niet vermeld in folder (1\,5 uur aangenomen). Inschri
+ jven via schoolwebsite www.dbsp.gent
+END:VEVENT
+BEGIN:VEVENT
+UID:1743037b-568b-5278-be14-7de1ed3d5059@infomomenten
+DTSTAMP:20261115T110000Z
+DTSTART;TZID=Europe/Brussels:20270202T193000
+DTEND;TZID=Europe/Brussels:20270202T210000
+LOCATION:Sint-Janscollege\, Heiveldstraat 117\, 9040 Gent (Sint-Amandsber
+ g)\, België
+GEO:51.063158;3.756474
+SUMMARY:Sint-Janscollege – Infoavond
+DESCRIPTION:Einduur niet vermeld in folder (1\,5 uur aangenomen). Campus 
+ Heiveld. Inschrijven via www.sjc-gent.be
+END:VEVENT
+BEGIN:VEVENT
+UID:7ecc68d6-3c40-5f71-842a-f33edf704861@infomomenten
+DTSTAMP:20261115T110000Z
+DTSTART;VALUE=DATE:20270203
+DTEND;VALUE=DATE:20270204
+LOCATION:EDUGO campus De Brug\, Simone Duboisstraat 15\, 9041 Gent (Oosta
+ kker)\, België
+GEO:51.084263;3.768947
+SUMMARY:EDUGO campus De Brug – Inleefdag 6de leerjaar
+DESCRIPTION:www.edugo.be
+END:VEVENT
+BEGIN:VEVENT
+UID:ec7d3dad-3c5b-5577-90b7-32557258b2bd@infomomenten
+DTSTAMP:20261115T110000Z
+DTSTART;VALUE=DATE:20270203
+DTEND;VALUE=DATE:20270204
+LOCATION:Scheppersinstituut Wetteren\, Cooppallaan 128\, 9230 Wetteren\, 
+ België
+GEO:51.009180;3.868550
+SUMMARY:Scheppersinstituut Wetteren – Infomoment
+DESCRIPTION:Bron: website van de school\, nagekeken op 15 november 2026. 
+END:VEVENT
+BEGIN:VEVENT
+UID:0fbe149b-9545-5421-aa15-64d1f06b9c0f@infomomenten
+DTSTAMP:20261115T110000Z
+DTSTART;TZID=Europe/Brussels:20270203T193000
+DTEND;TZID=Europe/Brussels:20270203T210000
+LOCATION:Don Boscocollege Zwijnaarde\, Grotesteenweg-Noord 113\, 9052 Gen
+ t (Zwijnaarde)\, België
+GEO:51.013889;3.703901
+SUMMARY:Don Boscocollege Zwijnaarde – Infomoment
+DESCRIPTION:Einduur niet vermeld in folder (1\,5 uur aangenomen). Inschri
+ jven via www.dbz.be
+END:VEVENT
+BEGIN:VEVENT
+UID:177d0d61-2807-5cf8-a84d-befbcc02121c@infomomenten
+DTSTAMP:20261115T110000Z
+DTSTART;TZID=Europe/Brussels:20270204T170000
+DTEND;TZID=Europe/Brussels:20270204T200000
+LOCATION:Nieuwen Bosch Humaniora\, Lange Violettestraat 65\, 9000 Gent\, 
+ België
+GEO:51.047272;3.734388
+SUMMARY:Nieuwen Bosch Humaniora – Infoavond en rondleidingen
+DESCRIPTION:Voor leerlingen lager onderwijs en hun ouders. www.nieuwenbos
+ chhumaniora.be
+END:VEVENT
+BEGIN:VEVENT
+UID:05f9f93e-4868-5569-84c7-a0f89c4086d7@infomomenten
+DTSTAMP:20261115T110000Z
+DTSTART;TZID=Europe/Brussels:20270204T183000
+DTEND;TZID=Europe/Brussels:20270204T200000
+LOCATION:Instituut voor verpleegkunde Sint-Vincentius\, Molenaarsstraat 3
+ 0\, 9000 Gent\, België
+GEO:51.061585;3.718191
+SUMMARY:Instituut voor verpleegkunde Sint-Vincentius – Infomoment eerst
+ e graad
+DESCRIPTION:Adres = hoofdcampus\; check bij de school op welke campus dit
+  doorgaat. www.ivv-gent.be
+END:VEVENT
+BEGIN:VEVENT
+UID:65fefef2-19c9-5fb7-a8bd-da1fcdcb4785@infomomenten
+DTSTAMP:20261115T110000Z
+DTSTART;TZID=Europe/Brussels:20270204T193000
+DTEND;TZID=Europe/Brussels:20270204T210000
+LOCATION:Don Boscocollege Zwijnaarde\, Grotesteenweg-Noord 113\, 9052 Gen
+ t (Zwijnaarde)\, België
+GEO:51.013889;3.703901
+SUMMARY:Don Boscocollege Zwijnaarde – Infomoment
+DESCRIPTION:Einduur niet vermeld in folder (1\,5 uur aangenomen). Inschri
+ jven via www.dbz.be
+END:VEVENT
+BEGIN:VEVENT
+UID:d48f2234-d2e6-50d2-9c9a-ed4a839b4266@infomomenten
+DTSTAMP:20261115T110000Z
+DTSTART;TZID=Europe/Brussels:20270216T190000
+DTEND;TZID=Europe/Brussels:20270216T203000
+LOCATION:Sint-Franciscusinstituut Melle\, Tuinstraat 105\, 9090 Melle\, B
+ elgië
+GEO:51.018292;3.769877
+SUMMARY:Sint-Franciscusinstituut Melle – Infoavond toekomstige eersteja
+ ars
+DESCRIPTION:Einduur niet vermeld in folder (1\,5 uur aangenomen). Inschri
+ jven via www.sfimelle.be of 09 230 79 11
+END:VEVENT
+BEGIN:VEVENT
+UID:f45e7d6d-03ac-50f4-b089-c8cec61e57e5@infomomenten
+DTSTAMP:20261115T110000Z
+DTSTART;TZID=Europe/Brussels:20270217T140000
+DTEND;TZID=Europe/Brussels:20270217T163000
+LOCATION:BUSO Sint-Gregorius (OV2 en OV3)\, Jules Destréelaan 67\, 9050 
+ Gent (Gentbrugge)\, België
+GEO:51.029696;3.775341
+SUMMARY:BUSO Sint-Gregorius (OV2 en OV3) – Infomoment
+DESCRIPTION:Inschrijven via www.sintgregorius.be
+END:VEVENT
+BEGIN:VEVENT
+UID:7ef118cd-938c-5409-afd2-854d1c54dea3@infomomenten
+DTSTAMP:20261115T110000Z
+DTSTART;TZID=Europe/Brussels:20270217T170000
+DTEND;TZID=Europe/Brussels:20270217T183000
+LOCATION:Atheneum Wispelberg\, Wispelbergstraat 2\, 9000 Gent\, België
+GEO:51.052569;3.711938
+SUMMARY:Atheneum Wispelberg – Infodag
+DESCRIPTION:Einduur niet vermeld in folder (1\,5 uur aangenomen). Bron: o
+ nderwijskiezer.be (soort infomoment niet vermeld). Check de website van 
+ de school. 
+END:VEVENT
+BEGIN:VEVENT
+UID:cd2b9652-ffc7-523f-b913-3e87edeb875b@infomomenten
+DTSTAMP:20261115T110000Z
+DTSTART;TZID=Europe/Brussels:20270218T180000
+DTEND;TZID=Europe/Brussels:20270218T200000
+LOCATION:VISO campus Gent\, Jan-Baptist Guinardstraat 23\, 9000 Gent\, Be
+ lgië
+GEO:51.046684;3.724957
+SUMMARY:VISO campus Gent – Infoavond 1ste graad
+DESCRIPTION:www.viso.be
+END:VEVENT
+BEGIN:VEVENT
+UID:a8b04031-2761-5deb-a8a4-1268df19a7ab@infomomenten
+DTSTAMP:20261115T110000Z
+DTSTART;TZID=Europe/Brussels:20270218T180000
+DTEND;TZID=Europe/Brussels:20270218T200000
+LOCATION:VISO campus Mariakerke\, Industrieweg 230\, 9030 Gent (Mariakerk
+ e)\, België
+GEO:51.087059;3.670239
+SUMMARY:VISO campus Mariakerke – Infoavond 1ste graad
+DESCRIPTION:www.viso.be
+END:VEVENT
+BEGIN:VEVENT
+UID:acac797e-7655-58c3-aac5-77f27ceac2d0@infomomenten
+DTSTAMP:20261115T110000Z
+DTSTART;TZID=Europe/Brussels:20270220T093000
+DTEND;TZID=Europe/Brussels:20270220T153000
+LOCATION:Sint-Laurens Wachtebeke\, Wachtebeke-Dorp 21\, 9185 Wachtebeke\,
+  België
+GEO:51.166756;3.855432
+SUMMARY:Sint-Laurens Wachtebeke – Openschooldag
+DESCRIPTION:www.sint-laurens.be
+END:VEVENT
+BEGIN:VEVENT
+UID:81ea6ef7-2ba7-576c-b75d-39d0e1739bbf@infomomenten
+DTSTAMP:20261115T110000Z
+DTSTART;TZID=Europe/Brussels:20270220T093000
+DTEND;TZID=Europe/Brussels:20270220T153000
+LOCATION:Sint-Laurens Zelzate\, Patronagestraat 51\, 9060 Zelzate\, Belgi
+ ë
+GEO:51.202084;3.813776
+SUMMARY:Sint-Laurens Zelzate – Openschooldag
+DESCRIPTION:www.sint-laurens.be
+END:VEVENT
+BEGIN:VEVENT
+UID:f0da70d9-bccb-5360-97ad-b2dba6a558a0@infomomenten
+DTSTAMP:20261115T110000Z
+DTSTART;TZID=Europe/Brussels:20270220T100000
+DTEND;TZID=Europe/Brussels:20270220T130000
+LOCATION:BenedictusPoort campus Ledeberg\, Hundelgemsesteenweg 93\, 9050 
+ Gent (Ledeberg)\, België
+GEO:51.035475;3.739237
+SUMMARY:BenedictusPoort campus Ledeberg – Openschooldag
+DESCRIPTION:www.benedictuspoort.be
+END:VEVENT
+BEGIN:VEVENT
+UID:9b9033b7-cd90-5ffb-bf66-a278cefbfa4b@infomomenten
+DTSTAMP:20261115T110000Z
+DTSTART;TZID=Europe/Brussels:20270220T100000
+DTEND;TZID=Europe/Brussels:20270220T130000
+LOCATION:BenedictusPoort campus De Deyne\, Ebergiste De Deynestraat 2A\, 
+ 9000 Gent\, België
+GEO:51.017606;3.714160
+SUMMARY:BenedictusPoort campus De Deyne – Openschooldag
+DESCRIPTION:www.benedictuspoort.be
+END:VEVENT
+BEGIN:VEVENT
+UID:7b3dc5b7-19a7-509a-aa71-a81467c4a0b6@infomomenten
+DTSTAMP:20261115T110000Z
+DTSTART;TZID=Europe/Brussels:20270220T100000
+DTEND;TZID=Europe/Brussels:20270220T120000
+LOCATION:IVIO Binnenhof (1B OV4)\, Peperstraat 27\, 9000 Gent\, België
+GEO:51.055467;3.713989
+SUMMARY:IVIO Binnenhof (1B OV4) – Openklasdag
+DESCRIPTION:Campus Peperstraat 27. Inschrijven via www.ivio-binnenhof.be
+END:VEVENT
+BEGIN:VEVENT
+UID:ebd5d526-976f-5fd3-9eb7-f476663f7c66@infomomenten
+DTSTAMP:20261115T110000Z
+DTSTART;TZID=Europe/Brussels:20270220T100000
+DTEND;TZID=Europe/Brussels:20270220T160000
+LOCATION:Sint-Lievenscollege Business\, Steendam 27\, 9000 Gent\, België
+GEO:51.057227;3.729590
+SUMMARY:Sint-Lievenscollege Business – Leerfestival
+DESCRIPTION:Inschrijven via www.slcb.be
+END:VEVENT
+BEGIN:VEVENT
+UID:906218a5-9d36-57d0-8c90-4cd226195fb3@infomomenten
+DTSTAMP:20261115T110000Z
+DTSTART;TZID=Europe/Brussels:20270220T100000
+DTEND;TZID=Europe/Brussels:20270220T160000
+LOCATION:Sint-Lievenscollege Humaniora\, Zilverenberg 1\, 9000 Gent\, Bel
+ gië
+GEO:51.055406;3.731601
+SUMMARY:Sint-Lievenscollege Humaniora – Leerfestival
+DESCRIPTION:Inschrijven via www.sintlievenscollege.be
+END:VEVENT
+BEGIN:VEVENT
+UID:10fc15c6-9812-5002-b92a-ade7f2aa62d6@infomomenten
+DTSTAMP:20261115T110000Z
+DTSTART;VALUE=DATE:20270223
+DTEND;VALUE=DATE:20270224
+LOCATION:Tectura Tuinbouwschool Melle\, Brusselsesteenweg 165\, 9090 Mell
+ e\, België
+GEO:51.014370;3.787260
+SUMMARY:Tectura Tuinbouwschool Melle – Rondleidingen
+DESCRIPTION:Bron: website van de school\, nagekeken op 15 november 2026. 
+END:VEVENT
+BEGIN:VEVENT
+UID:0b5df2c6-e8c2-5513-a94b-c58c93a15cfb@infomomenten
+DTSTAMP:20261115T110000Z
+DTSTART;TZID=Europe/Brussels:20270223T093000
+DTEND;TZID=Europe/Brussels:20270223T120000
+LOCATION:Sint-Bavohumaniora\, Reep 4\, 9000 Gent\, België
+GEO:51.052394;3.729632
+SUMMARY:Sint-Bavohumaniora – Inleefdag 6de leerjaar
+DESCRIPTION:Met klas of individueel\, na afspraak via sint.bavohumaniora@
+ sbhg.be
+END:VEVENT
+BEGIN:VEVENT
+UID:f5ec4010-efda-5204-a10a-033576d897c9@infomomenten
+DTSTAMP:20261115T110000Z
+DTSTART;TZID=Europe/Brussels:20270225T093000
+DTEND;TZID=Europe/Brussels:20270225T120000
+LOCATION:Sint-Bavohumaniora\, Reep 4\, 9000 Gent\, België
+GEO:51.052394;3.729632
+SUMMARY:Sint-Bavohumaniora – Inleefdag 6de leerjaar
+DESCRIPTION:Met klas of individueel\, na afspraak via sint.bavohumaniora@
+ sbhg.be
+END:VEVENT
+BEGIN:VEVENT
+UID:a58b0a19-8d41-585d-8751-21326ed5b571@infomomenten
+DTSTAMP:20261115T110000Z
+DTSTART;TZID=Europe/Brussels:20270226T180000
+DTEND;TZID=Europe/Brussels:20270226T193000
+LOCATION:Atheneum Wispelberg\, Wispelbergstraat 2\, 9000 Gent\, België
+GEO:51.052569;3.711938
+SUMMARY:Atheneum Wispelberg – Infodag
+DESCRIPTION:Einduur niet vermeld in folder (1\,5 uur aangenomen). Bron: o
+ nderwijskiezer.be (soort infomoment niet vermeld). Check de website van 
+ de school. 
+END:VEVENT
+BEGIN:VEVENT
+UID:bb543e27-6fc1-59e9-8e95-19cbd019c600@infomomenten
+DTSTAMP:20261115T110000Z
+DTSTART;VALUE=DATE:20270227
+DTEND;VALUE=DATE:20270228
+LOCATION:Keerpunt Gent\, Jozef Kluyskensstraat 29\, 9000 Gent\, België
+GEO:51.046037;3.719464
+SUMMARY:Keerpunt Gent – Infodag
+DESCRIPTION:Hele dag. Bron: onderwijskiezer.be (soort infomoment niet ver
+ meld). Check de website van de school. 
+END:VEVENT
+BEGIN:VEVENT
+UID:c3dbe5f7-e279-54e3-b58c-584a5d2c8875@infomomenten
+DTSTAMP:20261115T110000Z
+DTSTART;TZID=Europe/Brussels:20270227T130000
+DTEND;TZID=Europe/Brussels:20270227T170000
+LOCATION:GO! atheneum Gentbrugge\, Ooievaarsnest 3\, 9050 Gent (Gentbrugg
+ e)\, België
+GEO:51.035702;3.768785
+SUMMARY:GO! atheneum Gentbrugge – Infodag
+DESCRIPTION:Bron: onderwijskiezer.be (soort infomoment niet vermeld). Che
+ ck de website van de school. 
+END:VEVENT
+BEGIN:VEVENT
+UID:3140e5ed-8b80-5bde-a6c9-df006d909000@infomomenten
+DTSTAMP:20261115T110000Z
+DTSTART;TZID=Europe/Brussels:20270303T133000
+DTEND;TZID=Europe/Brussels:20270303T150000
+LOCATION:BUSO Sint-Gregorius (OV4)\, Jules Destréelaan 67\, 9050 Gent (G
+ entbrugge)\, België
+GEO:51.029696;3.775341
+SUMMARY:BUSO Sint-Gregorius (OV4) – Infomoment
+DESCRIPTION:Inschrijven via www.sintgregorius.be
+END:VEVENT
+BEGIN:VEVENT
+UID:2b9b4d25-61c9-5722-ac58-d4ddbe71e7a1@infomomenten
+DTSTAMP:20261115T110000Z
+DTSTART;TZID=Europe/Brussels:20270303T153000
+DTEND;TZID=Europe/Brussels:20270303T170000
+LOCATION:BUSO Sint-Gregorius (OV4)\, Jules Destréelaan 67\, 9050 Gent (G
+ entbrugge)\, België
+GEO:51.029696;3.775341
+SUMMARY:BUSO Sint-Gregorius (OV4) – Infomoment
+DESCRIPTION:Inschrijven via www.sintgregorius.be
+END:VEVENT
+BEGIN:VEVENT
+UID:a91cf915-0783-58c3-896b-8da3aaed247a@infomomenten
+DTSTAMP:20261115T110000Z
+DTSTART;VALUE=DATE:20270305
+DTEND;VALUE=DATE:20270306
+LOCATION:Tectura Tuinbouwschool Melle\, Brusselsesteenweg 165\, 9090 Mell
+ e\, België
+GEO:51.014370;3.787260
+SUMMARY:Tectura Tuinbouwschool Melle – Rondleidingen
+DESCRIPTION:Bron: website van de school\, nagekeken op 15 november 2026. 
+END:VEVENT
+BEGIN:VEVENT
+UID:a35f9a36-5728-5030-af28-8930dd9709d7@infomomenten
+DTSTAMP:20261115T110000Z
+DTSTART;VALUE=DATE:20270306
+DTEND;VALUE=DATE:20270307
+LOCATION:GO! Einstein Atheneum\, Wolfputstraat 38\, 9041 Gent (Oostakker)
+ \, België
+GEO:51.091877;3.762900
+SUMMARY:GO! Einstein Atheneum – Infodag
+DESCRIPTION:Hele dag. Bron: onderwijskiezer.be (soort infomoment niet ver
+ meld). Check de website van de school. 
+END:VEVENT
+BEGIN:VEVENT
+UID:56af0576-7c02-5776-96b0-add5ae3852b4@infomomenten
+DTSTAMP:20261115T110000Z
+DTSTART;TZID=Europe/Brussels:20270306T100000
+DTEND;TZID=Europe/Brussels:20270306T180000
+LOCATION:Sint-Bavohumaniora\, Reep 4\, 9000 Gent\, België
+GEO:51.052394;3.729632
+SUMMARY:Sint-Bavohumaniora – Opendeurdag
+DESCRIPTION:Inschrijven via www.sintbavogent.be
+END:VEVENT
+BEGIN:VEVENT
+UID:05d9acba-2970-5ac7-9e7e-6106474f519c@infomomenten
+DTSTAMP:20261115T110000Z
+DTSTART;TZID=Europe/Brussels:20270306T100000
+DTEND;TZID=Europe/Brussels:20270306T170000
+LOCATION:Sint-Janscollege campus Heiveld\, Heiveldstraat 117\, 9040 Gent 
+ (Sint-Amandsberg)\, België
+GEO:51.063158;3.756474
+SUMMARY:Sint-Janscollege campus Heiveld – Openschooldag
+DESCRIPTION:www.sjc-gent.be
+END:VEVENT
+BEGIN:VEVENT
+UID:af1a59b7-618b-57f8-9547-bacfd39f7b3a@infomomenten
+DTSTAMP:20261115T110000Z
+DTSTART;TZID=Europe/Brussels:20270306T100000
+DTEND;TZID=Europe/Brussels:20270306T163000
+LOCATION:Sint-Franciscusinstituut Melle\, Tuinstraat 105\, 9090 Melle\, B
+ elgië
+GEO:51.018292;3.769877
+SUMMARY:Sint-Franciscusinstituut Melle – Open Dag
+DESCRIPTION:www.sfimelle.be
+END:VEVENT
+BEGIN:VEVENT
+UID:67b87cc2-f726-58d5-ac7e-34250d2db09c@infomomenten
+DTSTAMP:20261115T110000Z
+DTSTART;TZID=Europe/Brussels:20270306T100000
+DTEND;TZID=Europe/Brussels:20270306T160000
+LOCATION:Sint-Paulus campus Patijntjestraat\, Patijntjestraat 45\, 9000 G
+ ent\, België
+GEO:51.040256;3.708082
+SUMMARY:Sint-Paulus campus Patijntjestraat – Openschooldag
+DESCRIPTION:www.sintpaulusgent.be
+END:VEVENT
+BEGIN:VEVENT
+UID:1bc8da9a-0633-54a7-a741-48bebd346e68@infomomenten
+DTSTAMP:20261115T110000Z
+DTSTART;TZID=Europe/Brussels:20270306T100000
+DTEND;TZID=Europe/Brussels:20270306T150000
+LOCATION:Freinetmiddenschool Gent\, Offerlaan 1\, 9000 Gent\, België
+GEO:51.045605;3.710543
+SUMMARY:Freinetmiddenschool Gent – Infodag
+DESCRIPTION:Bron: onderwijskiezer.be (soort infomoment niet vermeld). Che
+ ck de website van de school. 
+END:VEVENT
+BEGIN:VEVENT
+UID:6a47ea69-28c9-544d-a538-b4331a6d3dc4@infomomenten
+DTSTAMP:20261115T110000Z
+DTSTART;TZID=Europe/Brussels:20270306T100000
+DTEND;TZID=Europe/Brussels:20270306T163000
+LOCATION:GO! atheneum Mariakerke\, Amand Casier de ter Bekenlaan 26\, 903
+ 0 Gent (Mariakerke)\, België
+GEO:51.074300;3.671695
+SUMMARY:GO! atheneum Mariakerke – Infodag
+DESCRIPTION:Bron: onderwijskiezer.be (soort infomoment niet vermeld). Che
+ ck de website van de school. 
+END:VEVENT
+BEGIN:VEVENT
+UID:256224ba-b02a-55a5-aa71-4d350f4e0adc@infomomenten
+DTSTAMP:20261115T110000Z
+DTSTART;TZID=Europe/Brussels:20270306T100000
+DTEND;TZID=Europe/Brussels:20270306T170000
+LOCATION:Sint-Janscollege campus Visitatie\, Visitatiestraat 5\, 9040 Gen
+ t (Sint-Amandsberg)\, België
+GEO:51.062192;3.748537
+SUMMARY:Sint-Janscollege campus Visitatie – Infodag
+DESCRIPTION:Bron: onderwijskiezer.be (soort infomoment niet vermeld). Che
+ ck de website van de school. 
+END:VEVENT
+BEGIN:VEVENT
+UID:d4be95ab-6e0d-5c6b-8828-0f9009b74761@infomomenten
+DTSTAMP:20261115T110000Z
+DTSTART;TZID=Europe/Brussels:20270306T110000
+DTEND;TZID=Europe/Brussels:20270306T170000
+LOCATION:EDUGO campus De Brug\, Simone Duboisstraat 15\, 9041 Gent (Oosta
+ kker)\, België
+GEO:51.084263;3.768947
+SUMMARY:EDUGO campus De Brug – Openschooldag
+DESCRIPTION:www.edugo.be
+END:VEVENT
+BEGIN:VEVENT
+UID:495fd83c-f381-5dcb-a71f-0e670e3c7324@infomomenten
+DTSTAMP:20261115T110000Z
+DTSTART;TZID=Europe/Brussels:20270306T110000
+DTEND;TZID=Europe/Brussels:20270306T170000
+LOCATION:EDUGO campus Lochristi\, Dorp-Oost 32\, 9080 Lochristi\, België
+GEO:51.096344;3.836247
+SUMMARY:EDUGO campus Lochristi – Openschooldag
+DESCRIPTION:www.edugo.be
+END:VEVENT
+BEGIN:VEVENT
+UID:6a0bb8d7-c432-5286-9bc8-2b40378ecf48@infomomenten
+DTSTAMP:20261115T110000Z
+DTSTART;TZID=Europe/Brussels:20270306T110000
+DTEND;TZID=Europe/Brussels:20270306T170000
+LOCATION:Sint-Barbaracollege\, Savaanstraat 33\, 9000 Gent\, België
+GEO:51.048859;3.724814
+SUMMARY:Sint-Barbaracollege – Openschooldag
+DESCRIPTION:Inschrijven via www.sint-barbara.be
+END:VEVENT
+BEGIN:VEVENT
+UID:27dd34e3-c417-5ddb-a860-c6abf0a22067@infomomenten
+DTSTAMP:20261115T110000Z
+DTSTART;TZID=Europe/Brussels:20270306T110000
+DTEND;TZID=Europe/Brussels:20270306T170000
+LOCATION:EDUGO campus De Toren\, Sint-Jozefstraat 10\, 9041 Gent (Oostakk
+ er)\, België
+GEO:51.083627;3.766215
+SUMMARY:EDUGO campus De Toren – Infodag
+DESCRIPTION:Bron: onderwijskiezer.be (soort infomoment niet vermeld). Che
+ ck de website van de school. 
+END:VEVENT
+BEGIN:VEVENT
+UID:a7ac4e7f-00e1-5f99-8d1c-e5515389d961@infomomenten
+DTSTAMP:20261115T110000Z
+DTSTART;TZID=Europe/Brussels:20270306T110000
+DTEND;TZID=Europe/Brussels:20270306T173000
+LOCATION:EDUGO campus Glorieux\, Sint-Jozefstraat 7\, 9041 Gent (Oostakke
+ r)\, België
+GEO:51.084391;3.765930
+SUMMARY:EDUGO campus Glorieux – Infodag
+DESCRIPTION:Bron: onderwijskiezer.be (soort infomoment niet vermeld). Che
+ ck de website van de school. 
+END:VEVENT
+BEGIN:VEVENT
+UID:de67acb4-dd80-5996-9a88-1ce0ee72979b@infomomenten
+DTSTAMP:20261115T110000Z
+DTSTART;TZID=Europe/Brussels:20270306T133000
+DTEND;TZID=Europe/Brussels:20270306T170000
+LOCATION:Sint-Franciscus Evergem\, Schepenhuisstraat 4\, 9940 Evergem\, B
+ elgië
+GEO:51.108273;3.707418
+SUMMARY:Sint-Franciscus Evergem – Openschooldag
+DESCRIPTION:Plan je bezoek via www.sfevergem.be (knop 'inschrijven')
+END:VEVENT
+BEGIN:VEVENT
+UID:a2b7fd4f-5e47-5c7b-ae80-894c4b28ac80@infomomenten
+DTSTAMP:20261115T110000Z
+DTSTART;VALUE=DATE:20270311
+DTEND;VALUE=DATE:20270312
+LOCATION:IVG-School\, Nederkouter 112\, 9000 Gent\, België
+GEO:51.047190;3.721741
+SUMMARY:IVG-School – Infodag (avond)
+DESCRIPTION:'s Avonds\; uur niet vermeld. Bron: onderwijskiezer.be (soort
+  infomoment niet vermeld). Check de website van de school. 
+END:VEVENT
+BEGIN:VEVENT
+UID:95c3d6a6-0b0c-5ab3-beaf-fa886d7bbd9c@infomomenten
+DTSTAMP:20261115T110000Z
+DTSTART;VALUE=DATE:20270311
+DTEND;VALUE=DATE:20270312
+LOCATION:Richtpunt campus Gent Henleykaai\, Henleykaai 83\, 9000 Gent\, B
+ elgië
+GEO:51.042561;3.713636
+SUMMARY:Richtpunt campus Gent Henleykaai – Infodag (avond)
+DESCRIPTION:'s Avonds\; uur niet vermeld. Bron: onderwijskiezer.be (soort
+  infomoment niet vermeld). Check de website van de school. 
+END:VEVENT
+BEGIN:VEVENT
+UID:fed63b7a-63e4-51f7-9c16-c6a81bdc9e7b@infomomenten
+DTSTAMP:20261115T110000Z
+DTSTART;TZID=Europe/Brussels:20270311T183000
+DTEND;TZID=Europe/Brussels:20270311T200000
+LOCATION:BUSO Sint-Gregorius (OV4)\, Jules Destréelaan 67\, 9050 Gent (G
+ entbrugge)\, België
+GEO:51.029696;3.775341
+SUMMARY:BUSO Sint-Gregorius (OV4) – Infoavond
+DESCRIPTION:Inschrijven via www.sintgregorius.be
+END:VEVENT
+BEGIN:VEVENT
+UID:cce912f0-6d4b-5003-aa64-88b2408b8002@infomomenten
+DTSTAMP:20261115T110000Z
+DTSTART;TZID=Europe/Brussels:20270311T190000
+DTEND;TZID=Europe/Brussels:20270311T203000
+LOCATION:GO! atheneum Gentbrugge\, Ooievaarsnest 3\, 9050 Gent (Gentbrugg
+ e)\, België
+GEO:51.035702;3.768785
+SUMMARY:GO! atheneum Gentbrugge – Infodag
+DESCRIPTION:Einduur niet vermeld in folder (1\,5 uur aangenomen). Bron: o
+ nderwijskiezer.be (soort infomoment niet vermeld). Check de website van 
+ de school. 
+END:VEVENT
+BEGIN:VEVENT
+UID:de5b8db4-3a39-5046-a400-546a03b560a5@infomomenten
+DTSTAMP:20261115T110000Z
+DTSTART;VALUE=DATE:20270313
+DTEND;VALUE=DATE:20270314
+LOCATION:College Paters Jozefieten Melle\, Brusselsesteenweg 459\, 9090 M
+ elle\, België
+GEO:50.999432;3.810344
+SUMMARY:College Paters Jozefieten Melle – Open Schooldag
+DESCRIPTION:Geen uur vermeld in folder. Inschrijven via www.collegemelle.
+ be
+END:VEVENT
+BEGIN:VEVENT
+UID:4c141b12-6592-5b66-b84e-3b5bb6abe31d@infomomenten
+DTSTAMP:20261115T110000Z
+DTSTART;VALUE=DATE:20270313
+DTEND;VALUE=DATE:20270314
+LOCATION:VISO campus Mariakerke\, Industrieweg 230\, 9030 Gent (Mariakerk
+ e)\, België
+GEO:51.087059;3.670239
+SUMMARY:VISO campus Mariakerke – Infovoormiddag alle graden
+DESCRIPTION:Geen uur vermeld in folder. www.viso.be
+END:VEVENT
+BEGIN:VEVENT
+UID:339a2515-acda-50a5-828b-6ab948d80c62@infomomenten
+DTSTAMP:20261115T110000Z
+DTSTART;VALUE=DATE:20270313
+DTEND;VALUE=DATE:20270314
+LOCATION:Atheneum Wispelberg\, Wispelbergstraat 2\, 9000 Gent\, België
+GEO:51.052569;3.711938
+SUMMARY:Atheneum Wispelberg – Infodag
+DESCRIPTION:Geen uur vermeld. Bron: onderwijskiezer.be (soort infomoment 
+ niet vermeld). Check de website van de school. 
+END:VEVENT
+BEGIN:VEVENT
+UID:33945a71-b934-5fe3-9068-0e2b573a601e@infomomenten
+DTSTAMP:20261115T110000Z
+DTSTART;VALUE=DATE:20270313
+DTEND;VALUE=DATE:20270314
+LOCATION:Kunsthumaniora Sint-Lucas\, Oude Houtlei 44\, 9000 Gent\, Belgi
+ ë
+GEO:51.052983;3.716629
+SUMMARY:Kunsthumaniora Sint-Lucas – Infodag
+DESCRIPTION:Geen uur vermeld. Bron: onderwijskiezer.be (soort infomoment 
+ niet vermeld). Check de website van de school. 
+END:VEVENT
+BEGIN:VEVENT
+UID:3de907b6-c390-59c7-95e7-fef783226b7a@infomomenten
+DTSTAMP:20261115T110000Z
+DTSTART;TZID=Europe/Brussels:20270313T100000
+DTEND;TZID=Europe/Brussels:20270313T170000
+LOCATION:GO! middenschool Voskenslaan\, Voskenslaan 60\, 9000 Gent\, Belg
+ ië
+GEO:51.033021;3.706684
+SUMMARY:GO! middenschool Voskenslaan – Infodag
+DESCRIPTION:Bron: onderwijskiezer.be (soort infomoment niet vermeld). Che
+ ck de website van de school. 
+END:VEVENT
+BEGIN:VEVENT
+UID:4fc3e59a-0c57-5dd0-99ad-77eea67d69ea@infomomenten
+DTSTAMP:20261115T110000Z
+DTSTART;TZID=Europe/Brussels:20270313T100000
+DTEND;TZID=Europe/Brussels:20270313T140000
+LOCATION:GO! atheneum Voskenslaan\, Voskenslaan 60\, 9000 Gent\, België
+GEO:51.033021;3.706684
+SUMMARY:GO! atheneum Voskenslaan – Infodag
+DESCRIPTION:Bron: onderwijskiezer.be (soort infomoment niet vermeld). Che
+ ck de website van de school. 
+END:VEVENT
+BEGIN:VEVENT
+UID:9a4b9d06-74e9-5ad8-9aef-09a432e8d4b3@infomomenten
+DTSTAMP:20261115T110000Z
+DTSTART;TZID=Europe/Brussels:20270313T133000
+DTEND;TZID=Europe/Brussels:20270313T170000
+LOCATION:Instituut voor verpleegkunde Sint-Vincentius\, Molenaarsstraat 3
+ 0\, 9000 Gent\, België
+GEO:51.061585;3.718191
+SUMMARY:Instituut voor verpleegkunde Sint-Vincentius – Openklasdag eers
+ tejaars
+DESCRIPTION:Adres = hoofdcampus\; check bij de school op welke campus dit
+  doorgaat. www.ivv-gent.be
+END:VEVENT
+BEGIN:VEVENT
+UID:fed84677-0cf0-5ab1-8fa0-b43427be7fcd@infomomenten
+DTSTAMP:20261115T110000Z
+DTSTART;TZID=Europe/Brussels:20270313T133000
+DTEND;TZID=Europe/Brussels:20270313T170000
+LOCATION:IVIO Binnenhof (1A OV4)\, Molenaarsstraat 30\, 9000 Gent\, Belgi
+ ë
+GEO:51.061585;3.718191
+SUMMARY:IVIO Binnenhof (1A OV4) – Openklasdag
+DESCRIPTION:Campus Molenaarsstraat 30. Inschrijven via www.ivio-binnenhof
+ .be
+END:VEVENT
+BEGIN:VEVENT
+UID:956767c2-0fed-510b-b8cb-7ba9c606b7ed@infomomenten
+DTSTAMP:20261115T110000Z
+DTSTART;VALUE=DATE:20270316
+DTEND;VALUE=DATE:20270317
+LOCATION:IVG-School\, Nederkouter 112\, 9000 Gent\, België
+GEO:51.047190;3.721741
+SUMMARY:IVG-School – Infodag (avond)
+DESCRIPTION:'s Avonds\; uur niet vermeld. Bron: onderwijskiezer.be (soort
+  infomoment niet vermeld). Check de website van de school. 
+END:VEVENT
+BEGIN:VEVENT
+UID:45022639-3721-5588-9f9a-e43bdd667fe9@infomomenten
+DTSTAMP:20261115T110000Z
+DTSTART;VALUE=DATE:20270317
+DTEND;VALUE=DATE:20270318
+LOCATION:IVG-School\, Nederkouter 112\, 9000 Gent\, België
+GEO:51.047190;3.721741
+SUMMARY:IVG-School – Infodag
+DESCRIPTION:Geen uur vermeld. Bron: onderwijskiezer.be (soort infomoment 
+ niet vermeld). Check de website van de school. 
+END:VEVENT
+BEGIN:VEVENT
+UID:a74a954e-0f8c-5ee7-91ba-65177c55d51a@infomomenten
+DTSTAMP:20261115T110000Z
+DTSTART;TZID=Europe/Brussels:20270317T130000
+DTEND;TZID=Europe/Brussels:20270317T160000
+LOCATION:Sint-Paulus campus Patijntjestraat\, Patijntjestraat 45\, 9000 G
+ ent\, België
+GEO:51.040256;3.708082
+SUMMARY:Sint-Paulus campus Patijntjestraat – Individuele rondleidingen
+DESCRIPTION:Op afspraak. www.sintpaulusgent.be
+END:VEVENT
+BEGIN:VEVENT
+UID:8a7d0f5a-9542-5fbc-9c59-0c257f58b093@infomomenten
+DTSTAMP:20261115T110000Z
+DTSTART;TZID=Europe/Brussels:20270317T150000
+DTEND;TZID=Europe/Brussels:20270317T163000
+LOCATION:Sint-Laurens Wachtebeke\, Wachtebeke-Dorp 21\, 9185 Wachtebeke\,
+  België
+GEO:51.166756;3.855432
+SUMMARY:Sint-Laurens Wachtebeke – Infoavond (sessie 15.00 u.)
+DESCRIPTION:Einduur niet vermeld in folder (1\,5 uur aangenomen). www.sin
+ t-laurens.be
+END:VEVENT
+BEGIN:VEVENT
+UID:c49d2b7b-d6b7-52e8-8b50-e71a63ba205a@infomomenten
+DTSTAMP:20261115T110000Z
+DTSTART;TZID=Europe/Brussels:20270317T150000
+DTEND;TZID=Europe/Brussels:20270317T163000
+LOCATION:Sint-Laurens Zelzate\, Patronagestraat 51\, 9060 Zelzate\, Belgi
+ ë
+GEO:51.202084;3.813776
+SUMMARY:Sint-Laurens Zelzate – Infoavond (sessie 15.00 u.)
+DESCRIPTION:Einduur niet vermeld in folder (1\,5 uur aangenomen). www.sin
+ t-laurens.be
+END:VEVENT
+BEGIN:VEVENT
+UID:e79501a1-33a9-51b1-97e5-926fe58e373e@infomomenten
+DTSTAMP:20261115T110000Z
+DTSTART;TZID=Europe/Brussels:20270317T190000
+DTEND;TZID=Europe/Brussels:20270317T203000
+LOCATION:Sint-Laurens Wachtebeke\, Wachtebeke-Dorp 21\, 9185 Wachtebeke\,
+  België
+GEO:51.166756;3.855432
+SUMMARY:Sint-Laurens Wachtebeke – Infoavond (sessie 19.00 u.)
+DESCRIPTION:Einduur niet vermeld in folder (1\,5 uur aangenomen). www.sin
+ t-laurens.be
+END:VEVENT
+BEGIN:VEVENT
+UID:582f458c-0572-5c56-88ac-5f7cd0713953@infomomenten
+DTSTAMP:20261115T110000Z
+DTSTART;TZID=Europe/Brussels:20270317T190000
+DTEND;TZID=Europe/Brussels:20270317T203000
+LOCATION:Sint-Laurens Zelzate\, Patronagestraat 51\, 9060 Zelzate\, Belgi
+ ë
+GEO:51.202084;3.813776
+SUMMARY:Sint-Laurens Zelzate – Infoavond (sessie 19.00 u.)
+DESCRIPTION:Einduur niet vermeld in folder (1\,5 uur aangenomen). www.sin
+ t-laurens.be
+END:VEVENT
+BEGIN:VEVENT
+UID:055aebd0-6dcb-51de-bf58-c78e977ca18a@infomomenten
+DTSTAMP:20261115T110000Z
+DTSTART;TZID=Europe/Brussels:20270317T190000
+DTEND;TZID=Europe/Brussels:20270317T200000
+LOCATION:GO! atheneum Mariakerke\, Amand Casier de ter Bekenlaan 26\, 903
+ 0 Gent (Mariakerke)\, België
+GEO:51.074300;3.671695
+SUMMARY:GO! atheneum Mariakerke – Infodag
+DESCRIPTION:Bron: onderwijskiezer.be (soort infomoment niet vermeld). Che
+ ck de website van de school. 
+END:VEVENT
+BEGIN:VEVENT
+UID:64887f22-6854-5b25-a7a8-035c9636e839@infomomenten
+DTSTAMP:20261115T110000Z
+DTSTART;TZID=Europe/Brussels:20270318T183000
+DTEND;TZID=Europe/Brussels:20270318T193000
+LOCATION:GO! Tectura Groenkouter\, Sint-Baafskouterstraat 129\, 9040 Gent
+  (Sint-Amandsberg)\, België
+GEO:51.055157;3.756819
+SUMMARY:GO! Tectura Groenkouter – Infodag
+DESCRIPTION:Bron: onderwijskiezer.be (soort infomoment niet vermeld). Che
+ ck de website van de school. 
+END:VEVENT
+BEGIN:VEVENT
+UID:562c7991-e2a1-5312-9313-e203c9e6a9d3@infomomenten
+DTSTAMP:20261115T110000Z
+DTSTART;VALUE=DATE:20270320
+DTEND;VALUE=DATE:20270321
+SUMMARY:IVIO Binnenhof (OV1/2/3/4) – Openschooldag alle campussen
+DESCRIPTION:Alle campussen\; geen adres ingevuld. Geen uur vermeld in fol
+ der. www.ivio-binnenhof.be
+END:VEVENT
+BEGIN:VEVENT
+UID:bb4b2ef1-2632-5e81-b418-a57d12d022de@infomomenten
+DTSTAMP:20261115T110000Z
+DTSTART;VALUE=DATE:20270320
+DTEND;VALUE=DATE:20270321
+LOCATION:Secundair Kunstinstituut (SKI)\, Ottogracht 4\, 9000 Gent\, Belg
+ ië
+GEO:51.057923;3.728052
+SUMMARY:Secundair Kunstinstituut (SKI) – Infodag
+DESCRIPTION:Geen uur vermeld. Bron: onderwijskiezer.be (soort infomoment 
+ niet vermeld). Check de website van de school. 
+END:VEVENT
+BEGIN:VEVENT
+UID:5a20290e-e55a-506d-a013-0d0958705737@infomomenten
+DTSTAMP:20261115T110000Z
+DTSTART;TZID=Europe/Brussels:20270320T090000
+DTEND;TZID=Europe/Brussels:20270320T170000
+LOCATION:Don Boscocollege Zwijnaarde\, Grotesteenweg-Noord 113\, 9052 Gen
+ t (Zwijnaarde)\, België
+GEO:51.013889;3.703901
+SUMMARY:Don Boscocollege Zwijnaarde – Open School
+DESCRIPTION:www.dbz.be
+END:VEVENT
+BEGIN:VEVENT
+UID:e12ccf33-87f9-54cd-8ac6-2f638a9f9a60@infomomenten
+DTSTAMP:20261115T110000Z
+DTSTART;TZID=Europe/Brussels:20270320T093000
+DTEND;TZID=Europe/Brussels:20270320T160000
+LOCATION:Don Bosco Sint-Denijs-Westrem\, Kortrijksesteenweg 1025\, 9051 G
+ ent (Sint-Denijs-Westrem)\, België
+GEO:51.022650;3.699400
+SUMMARY:Don Bosco Sint-Denijs-Westrem – Infodag
+DESCRIPTION:www.donboscosdw.be
+END:VEVENT
+BEGIN:VEVENT
+UID:e6293555-feb0-5df5-b5f7-847ade8c62b4@infomomenten
+DTSTAMP:20261115T110000Z
+DTSTART;TZID=Europe/Brussels:20270320T100000
+DTEND;TZID=Europe/Brussels:20270320T113000
+LOCATION:Hotelschool Gent\, Lange Violettestraat 12\, 9000 Gent\, België
+GEO:51.048275;3.733993
+SUMMARY:Hotelschool Gent – Infodag
+DESCRIPTION:Einduur niet vermeld in folder (1\,5 uur aangenomen). Bron: o
+ nderwijskiezer.be (soort infomoment niet vermeld). Check de website van 
+ de school. 
+END:VEVENT
+BEGIN:VEVENT
+UID:cf423508-6a73-5afc-9eee-a4be65b9d021@infomomenten
+DTSTAMP:20261115T110000Z
+DTSTART;TZID=Europe/Brussels:20270320T140000
+DTEND;TZID=Europe/Brussels:20270320T180000
+LOCATION:Styrka Secundair Onderwijs\, Ebergiste De Deynestraat 1\, 9000 G
+ ent\, België
+GEO:51.016177;3.714784
+SUMMARY:Styrka Secundair Onderwijs – Openschooldag
+DESCRIPTION:www.styrka.be
+END:VEVENT
+BEGIN:VEVENT
+UID:13484548-cb05-50e9-9cb5-5a5cad45b5ba@infomomenten
+DTSTAMP:20261115T110000Z
+DTSTART;TZID=Europe/Brussels:20270320T140000
+DTEND;TZID=Europe/Brussels:20270320T170000
+LOCATION:Styrka Secundair Onderwijs@Waterkant\, Sint-Juliaanstraat 7\, 90
+ 00 Gent\, België
+GEO:51.033771;3.732712
+SUMMARY:Styrka Secundair Onderwijs@Waterkant – Openschooldag
+DESCRIPTION:www.styrka.be/styrkasow
+END:VEVENT
+BEGIN:VEVENT
+UID:20f21af4-6406-5a9f-bf4f-5f379ac52711@infomomenten
+DTSTAMP:20261115T110000Z
+DTSTART;TZID=Europe/Brussels:20270320T140000
+DTEND;TZID=Europe/Brussels:20270320T170000
+LOCATION:Richtpunt campus Godshuizenlaan\, Godshuizenlaan 65-75\, 9000 Ge
+ nt\, België
+GEO:51.043585;3.715495
+SUMMARY:Richtpunt campus Godshuizenlaan – Infodag
+DESCRIPTION:Bron: onderwijskiezer.be (soort infomoment niet vermeld). Che
+ ck de website van de school. 
+END:VEVENT
+BEGIN:VEVENT
+UID:6d04efab-ad72-5ff8-baf5-adb7adab1b04@infomomenten
+DTSTAMP:20261115T110000Z
+DTSTART;TZID=Europe/Brussels:20270321T103000
+DTEND;TZID=Europe/Brussels:20270321T163000
+LOCATION:Don Bosco Sint-Pieters\, Koning Albertlaan 70\, 9000 Gent\, Belg
+ ië
+GEO:51.038614;3.710896
+SUMMARY:Don Bosco Sint-Pieters – Openschooldag
+DESCRIPTION:www.dbsp.gent
+END:VEVENT
+BEGIN:VEVENT
+UID:f3a993df-39ca-5b2f-8da0-2497ad88669e@infomomenten
+DTSTAMP:20261115T110000Z
+DTSTART;TZID=Europe/Brussels:20270321T140000
+DTEND;TZID=Europe/Brussels:20270321T170000
+LOCATION:Lucernacollege (campus Tweestroom)\, Ganzendries 149\, 9000 Gent
+ \, België
+GEO:51.033226;3.711202
+SUMMARY:Lucernacollege (campus Tweestroom) – Infodag
+DESCRIPTION:Bron: onderwijskiezer.be (soort infomoment niet vermeld). Che
+ ck de website van de school. 
+END:VEVENT
+BEGIN:VEVENT
+UID:5920a3f7-fedb-59e7-a9d0-b7ca2be1bdc9@infomomenten
+DTSTAMP:20261115T110000Z
+DTSTART;TZID=Europe/Brussels:20270323T090000
+DTEND;TZID=Europe/Brussels:20270323T093000
+SUMMARY:Kies een school regio Gent – Start aanmeldingen
+DESCRIPTION:Aanmelden kan van 23 maart 2027 om 9 uur tot 16 april 2027 om
+  16 uur via https://www.kieseenschoolregiogent.be
+END:VEVENT
+BEGIN:VEVENT
+UID:990f6aba-bf6c-531c-a74a-4fe4c55be863@infomomenten
+DTSTAMP:20261115T110000Z
+DTSTART;VALUE=DATE:20270414
+DTEND;VALUE=DATE:20270415
+LOCATION:Don Bosco Sint-Pieters\, Koning Albertlaan 70\, 9000 Gent\, Belg
+ ië
+GEO:51.038614;3.710896
+SUMMARY:Don Bosco Sint-Pieters – Rondleidingen vanaf vandaag (woensdagn
+ amiddag)
+DESCRIPTION:Op woensdagnamiddag 14 april of later\; afspraak via info@dbs
+ p.gent
+END:VEVENT
+BEGIN:VEVENT
+UID:d3d6166e-ce4a-5845-a853-8e9757e122a5@infomomenten
+DTSTAMP:20261115T110000Z
+DTSTART;TZID=Europe/Brussels:20270416T100000
+DTEND;TZID=Europe/Brussels:20270416T130000
+LOCATION:BenedictusPoort campus Ledeberg\, Hundelgemsesteenweg 93\, 9050 
+ Gent (Ledeberg)\, België
+GEO:51.035475;3.739237
+SUMMARY:BenedictusPoort campus Ledeberg – Openschooldag
+DESCRIPTION:Let op: folder vermeldt 'zaterdag 16 april'\, maar 16/04/2027
+  is een vrijdag (zaterdag = 17 april). Datum nakijken bij de school. www
+ .benedictuspoort.be
+END:VEVENT
+BEGIN:VEVENT
+UID:87f96b54-8797-5763-bce3-f804c0180414@infomomenten
+DTSTAMP:20261115T110000Z
+DTSTART;TZID=Europe/Brussels:20270416T100000
+DTEND;TZID=Europe/Brussels:20270416T130000
+LOCATION:BenedictusPoort campus De Deyne\, Ebergiste De Deynestraat 2A\, 
+ 9000 Gent\, België
+GEO:51.017606;3.714160
+SUMMARY:BenedictusPoort campus De Deyne – Openschooldag
+DESCRIPTION:Let op: folder vermeldt 'zaterdag 16 april'\, maar 16/04/2027
+  is een vrijdag (zaterdag = 17 april). Datum nakijken bij de school. www
+ .benedictuspoort.be
+END:VEVENT
+BEGIN:VEVENT
+UID:907a3463-fe17-5870-a9b7-fbb0a0ff0594@infomomenten
+DTSTAMP:20261115T110000Z
+DTSTART;TZID=Europe/Brussels:20270416T153000
+DTEND;TZID=Europe/Brussels:20270416T160000
+SUMMARY:Kies een school regio Gent – Einde aanmeldingen (deadline 16 uu
+ r)
+DESCRIPTION:Aanmelden kan tot 16 april 2027 om 16 uur via https://www.kie
+ seenschoolregiogent.be
+END:VEVENT
+BEGIN:VEVENT
+UID:11d3a473-cea3-50e6-94c5-11a65a083c0b@infomomenten
+DTSTAMP:20261115T110000Z
+DTSTART;TZID=Europe/Brussels:20270416T163000
+DTEND;TZID=Europe/Brussels:20270416T200000
+LOCATION:Hotelschool Gent\, Lange Violettestraat 12\, 9000 Gent\, België
+GEO:51.048275;3.733993
+SUMMARY:Hotelschool Gent – Infodag
+DESCRIPTION:Bron: onderwijskiezer.be (soort infomoment niet vermeld). Che
+ ck de website van de school. 
+END:VEVENT
+BEGIN:VEVENT
+UID:3a5c2767-815f-59e3-b290-b3ba255180dd@infomomenten
+DTSTAMP:20261115T110000Z
+DTSTART;VALUE=DATE:20270417
+DTEND;VALUE=DATE:20270418
+LOCATION:IVG-School\, Nederkouter 112\, 9000 Gent\, België
+GEO:51.047190;3.721741
+SUMMARY:IVG-School – Infodag
+DESCRIPTION:Hele dag. Bron: onderwijskiezer.be (soort infomoment niet ver
+ meld). Check de website van de school. 
+END:VEVENT
+BEGIN:VEVENT
+UID:1f6eca38-d466-54e9-94e8-7729261df47a@infomomenten
+DTSTAMP:20261115T110000Z
+DTSTART;TZID=Europe/Brussels:20270417T133000
+DTEND;TZID=Europe/Brussels:20270417T170000
+LOCATION:Instituut voor verpleegkunde Sint-Vincentius\, Molenaarsstraat 3
+ 0\, 9000 Gent\, België
+GEO:51.061585;3.718191
+SUMMARY:Instituut voor verpleegkunde Sint-Vincentius – Opendeurdag
+DESCRIPTION:Adres = hoofdcampus\; check bij de school op welke campus dit
+  doorgaat. www.ivv-gent.be
+END:VEVENT
+BEGIN:VEVENT
+UID:2e8cefec-bd49-565b-830b-a9cd294c3a72@infomomenten
+DTSTAMP:20261115T110000Z
+DTSTART;VALUE=DATE:20270420
+DTEND;VALUE=DATE:20270421
+LOCATION:Richtpunt campus Gent Henleykaai\, Henleykaai 83\, 9000 Gent\, B
+ elgië
+GEO:51.042561;3.713636
+SUMMARY:Richtpunt campus Gent Henleykaai – Infodag (avond)
+DESCRIPTION:'s Avonds\; uur niet vermeld. Bron: onderwijskiezer.be (soort
+  infomoment niet vermeld). Check de website van de school. 
+END:VEVENT
+BEGIN:VEVENT
+UID:748b4eb9-8c27-5521-bc04-1edf44af2d11@infomomenten
+DTSTAMP:20261115T110000Z
+DTSTART;TZID=Europe/Brussels:20270423T170000
+DTEND;TZID=Europe/Brussels:20270423T193000
+LOCATION:GO! Tectura Groenkouter\, Sint-Baafskouterstraat 129\, 9040 Gent
+  (Sint-Amandsberg)\, België
+GEO:51.055157;3.756819
+SUMMARY:GO! Tectura Groenkouter – Infodag
+DESCRIPTION:Bron: onderwijskiezer.be (soort infomoment niet vermeld). Che
+ ck de website van de school. 
+END:VEVENT
+BEGIN:VEVENT
+UID:329e682d-7278-5af1-9df3-efcef1afdcd4@infomomenten
+DTSTAMP:20261115T110000Z
+DTSTART;VALUE=DATE:20270424
+DTEND;VALUE=DATE:20270425
+LOCATION:VISO campus Gent\, Jan-Baptist Guinardstraat 23\, 9000 Gent\, Be
+ lgië
+GEO:51.046684;3.724957
+SUMMARY:VISO campus Gent – Opendeurdag
+DESCRIPTION:Geen uur vermeld in folder. www.viso.be
+END:VEVENT
+BEGIN:VEVENT
+UID:9227a38c-4181-57f1-bf80-4b68881d16e9@infomomenten
+DTSTAMP:20261115T110000Z
+DTSTART;VALUE=DATE:20270424
+DTEND;VALUE=DATE:20270425
+LOCATION:VISO campus Mariakerke\, Industrieweg 230\, 9030 Gent (Mariakerk
+ e)\, België
+GEO:51.087059;3.670239
+SUMMARY:VISO campus Mariakerke – Opendeurdag
+DESCRIPTION:Geen uur vermeld in folder. www.viso.be
+END:VEVENT
+BEGIN:VEVENT
+UID:71a80326-f65f-52a3-bfe7-a09a2cad696b@infomomenten
+DTSTAMP:20261115T110000Z
+DTSTART;VALUE=DATE:20270424
+DTEND;VALUE=DATE:20270425
+LOCATION:Tectura Tuinbouwschool Melle\, Brusselsesteenweg 165\, 9090 Mell
+ e\, België
+GEO:51.014370;3.787260
+SUMMARY:Tectura Tuinbouwschool Melle – Openschooldag
+DESCRIPTION:Bron: website van de school\, nagekeken op 15 november 2026. 
+END:VEVENT
+BEGIN:VEVENT
+UID:64297e07-6c4a-557f-9eaa-b7761d204e15@infomomenten
+DTSTAMP:20261115T110000Z
+DTSTART;TZID=Europe/Brussels:20270424T130000
+DTEND;TZID=Europe/Brussels:20270424T173000
+LOCATION:BUSO Sint-Gregorius\, Jules Destréelaan 67\, 9050 Gent (Gentbru
+ gge)\, België
+GEO:51.029696;3.775341
+SUMMARY:BUSO Sint-Gregorius – Openschooldag
+DESCRIPTION:www.sintgregorius.be
+END:VEVENT
+BEGIN:VEVENT
+UID:6346345b-e3cc-5479-9142-3f7cf3f31fb6@infomomenten
+DTSTAMP:20261115T110000Z
+DTSTART;TZID=Europe/Brussels:20270425T100000
+DTEND;TZID=Europe/Brussels:20270425T160000
+LOCATION:Mariagaard Wetteren\, Oosterzelesteenweg 80\, 9230 Wetteren\, Be
+ lgië
+GEO:50.979050;3.834040
+SUMMARY:Mariagaard Wetteren – Open dag
+DESCRIPTION:Bron: website van de school\, nagekeken op 15 november 2026. 
+END:VEVENT
+BEGIN:VEVENT
+UID:26793f3b-1a18-5569-ade7-517a1f936099@infomomenten
+DTSTAMP:20261115T110000Z
+DTSTART;TZID=Europe/Brussels:20270501T100000
+DTEND;TZID=Europe/Brussels:20270501T180000
+LOCATION:Middelbare Steinerschool\, Kasteellaan 54\, 9000 Gent\, België
+GEO:51.049323;3.739445
+SUMMARY:Middelbare Steinerschool – Infodag
+DESCRIPTION:Bron: onderwijskiezer.be (soort infomoment niet vermeld). Che
+ ck de website van de school. 
+END:VEVENT
+BEGIN:VEVENT
+UID:19a77bc7-40e4-5a02-a74e-3cd11cfc48f2@infomomenten
+DTSTAMP:20261115T110000Z
+DTSTART;TZID=Europe/Brussels:20270513T180000
+DTEND;TZID=Europe/Brussels:20270513T200000
+LOCATION:Freinetatheneum De Wingerd\, Neermeerskaai 1\, 9000 Gent\, Belgi
+ ë
+GEO:51.043604;3.710428
+SUMMARY:Freinetatheneum De Wingerd – Infodag
+DESCRIPTION:Bron: onderwijskiezer.be (soort infomoment niet vermeld). Che
+ ck de website van de school. 
+END:VEVENT
+BEGIN:VEVENT
+UID:71ef2ea9-f0cb-5169-815f-793a6e1ee734@infomomenten
+DTSTAMP:20261115T110000Z
+DTSTART;TZID=Europe/Brussels:20270521T160000
+DTEND;TZID=Europe/Brussels:20270521T193000
+LOCATION:Hoger Technisch Instituut Sint-Antonius\, Holstraat 66\, 9000 Ge
+ nt\, België
+GEO:51.052718;3.714326
+SUMMARY:Hoger Technisch Instituut Sint-Antonius – Openschooldag
+DESCRIPTION:Met persoonlijke rondleidingen en workshops in werkplaatsen. 
+ www.htisa.be
+END:VEVENT
+BEGIN:VEVENT
+UID:402f1bd2-46e8-5a02-a30b-6ce33f86d88e@infomomenten
+DTSTAMP:20261115T110000Z
+DTSTART;VALUE=DATE:20270522
+DTEND;VALUE=DATE:20270524
+LOCATION:Scheppersinstituut Wetteren\, Cooppallaan 128\, 9230 Wetteren\, 
+ België
+GEO:51.009180;3.868550
+SUMMARY:Scheppersinstituut Wetteren – Opendeurdagen
+DESCRIPTION:Bron: website van de school\, nagekeken op 15 november 2026. 
+END:VEVENT
+BEGIN:VEVENT
+UID:031fb33f-ed6d-5cb7-a1b9-599e3821b76e@infomomenten
+DTSTAMP:20261115T110000Z
+DTSTART;TZID=Europe/Brussels:20270522T090000
+DTEND;TZID=Europe/Brussels:20270522T120000
+LOCATION:Sint-Paulus campus Patijntjestraat\, Patijntjestraat 45\, 9000 G
+ ent\, België
+GEO:51.040256;3.708082
+SUMMARY:Sint-Paulus campus Patijntjestraat – Individuele rondleidingen
+DESCRIPTION:Op afspraak. www.sintpaulusgent.be
+END:VEVENT
+BEGIN:VEVENT
+UID:8e773cff-be76-5a39-be66-78d11a06da07@infomomenten
+DTSTAMP:20261115T110000Z
+DTSTART;TZID=Europe/Brussels:20270522T093000
+DTEND;TZID=Europe/Brussels:20270522T160000
+LOCATION:Don Bosco Sint-Denijs-Westrem\, Kortrijksesteenweg 1025\, 9051 G
+ ent (Sint-Denijs-Westrem)\, België
+GEO:51.022650;3.699400
+SUMMARY:Don Bosco Sint-Denijs-Westrem – Opendeurdag
+DESCRIPTION:www.donboscosdw.be
+END:VEVENT
+BEGIN:VEVENT
+UID:77349f92-7f62-5c37-847d-ada697aaff1b@infomomenten
+DTSTAMP:20261115T110000Z
+DTSTART;TZID=Europe/Brussels:20270522T130000
+DTEND;TZID=Europe/Brussels:20270522T170000
+LOCATION:Nieuwen Bosch Humaniora\, Lange Violettestraat 65\, 9000 Gent\, 
+ België
+GEO:51.047272;3.734388
+SUMMARY:Nieuwen Bosch Humaniora – Openschooldag
+DESCRIPTION:www.nieuwenboschhumaniora.be
+END:VEVENT
+BEGIN:VEVENT
+UID:83a34dda-a6ca-5307-b64e-e85cf7d89911@infomomenten
+DTSTAMP:20261115T110000Z
+DTSTART;TZID=Europe/Brussels:20270522T130000
+DTEND;TZID=Europe/Brussels:20270522T170000
+LOCATION:Onze-Lieve-Vrouwe-instituut\, Tweebruggenstraat 55\, 9000 Gent\,
+  België
+GEO:51.048276;3.735329
+SUMMARY:Onze-Lieve-Vrouwe-instituut – Openschooldag
+DESCRIPTION:www.olvigent.be
+END:VEVENT
+BEGIN:VEVENT
+UID:c6dddfab-6f41-59bd-9cb5-fd75aa1d80d8@infomomenten
+DTSTAMP:20261115T110000Z
+DTSTART;TZID=Europe/Brussels:20270523T140000
+DTEND;TZID=Europe/Brussels:20270523T170000
+LOCATION:Richtpunt campus Godshuizenlaan\, Godshuizenlaan 65-75\, 9000 Ge
+ nt\, België
+GEO:51.043585;3.715495
+SUMMARY:Richtpunt campus Godshuizenlaan – Infodag
+DESCRIPTION:Bron: onderwijskiezer.be (soort infomoment niet vermeld). Che
+ ck de website van de school. 
+END:VEVENT
+BEGIN:VEVENT
+UID:c47b05a4-319b-54b6-825e-d8c4b5caa8de@infomomenten
+DTSTAMP:20261115T110000Z
+DTSTART;VALUE=DATE:20270531
+DTEND;VALUE=DATE:20270601
+LOCATION:Richtpunt campus Gent Henleykaai\, Henleykaai 83\, 9000 Gent\, B
+ elgië
+GEO:51.042561;3.713636
+SUMMARY:Richtpunt campus Gent Henleykaai – Infodag (avond)
+DESCRIPTION:'s Avonds\; uur niet vermeld. Bron: onderwijskiezer.be (soort
+  infomoment niet vermeld). Check de website van de school. 
+END:VEVENT
+BEGIN:VEVENT
+UID:1a58b468-5173-5ea6-ac3b-0ff11f316cff@infomomenten
+DTSTAMP:20261115T110000Z
+DTSTART;TZID=Europe/Brussels:20270626T133000
+DTEND;TZID=Europe/Brussels:20270626T170000
+LOCATION:Instituut voor verpleegkunde Sint-Vincentius\, Molenaarsstraat 3
+ 0\, 9000 Gent\, België
+GEO:51.061585;3.718191
+SUMMARY:Instituut voor verpleegkunde Sint-Vincentius – Infomiddag
+DESCRIPTION:Adres = hoofdcampus\; check bij de school op welke campus dit
+  doorgaat. www.ivv-gent.be
+END:VEVENT
+BEGIN:VEVENT
+UID:0d8dc543-8885-5dd9-99c2-575aab373280@infomomenten
+DTSTAMP:20261115T110000Z
+DTSTART;TZID=Europe/Brussels:20270701T140000
+DTEND;TZID=Europe/Brussels:20270701T190000
+LOCATION:Mariagaard Wetteren\, Oosterzelesteenweg 80\, 9230 Wetteren\, Be
+ lgië
+GEO:50.979050;3.834040
+SUMMARY:Mariagaard Wetteren – Info- en inschrijfdag
+DESCRIPTION:Bron: website van de school\, nagekeken op 15 november 2026. 
+END:VEVENT
+END:VCALENDAR
